@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "7fb0bd2ea177ce51",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04706a6ad24896f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3b7847f1cc149d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projektu plānošana.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d72f3c28a5a848d",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "staged": false,
+                "file": "Projektu plānošana.md"
+              }
+            }
+          },
+          {
+            "id": "596bd8bd37b57633",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projekta plānošanas process.canvas",
+                "viewState": {
+                  "x": 1358.7325548414196,
+                  "y": -104.54212121735156,
+                  "zoom": -0.7907184612150548
+                }
+              }
+            }
+          },
+          {
+            "id": "7e4eed39426e70a6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projekta plānošanas process.canvas",
+                "viewState": {
+                  "x": 1208.368997148583,
+                  "y": 275.6324039651455,
+                  "zoom": 0.2822852848865617
+                }
+              }
+            }
+          },
+          {
+            "id": "036251b2675e9681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Riska pārvaldība.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b86fee8a2f28d4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "08eec1ebd645172c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94159562b21fbec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddf7a65408ca86ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ārkā",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19692736fb2a8a47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e30c7413e9aee922",
+    "type": "split",
+    "children": [
+      {
+        "id": "057885e5688624e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d15cea25951bb8e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d2c59ad9e26a4cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae821bd84dddf2c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "101423809c6ab9ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "6d72f3c28a5a848d",
+  "lastOpenFiles": [
+    "Projektu plānošana.md",
+    "Projekta plānošanas process.canvas",
+    "Riska pārvaldība.md",
+    "Projekta pārvaldība.md",
+    "Riska pārvaldības process.canvas",
+    "Atteli/Pasted image 20240106183443.png",
+    "Atteli/Pasted image 20240106183351.png",
+    "Cilvēku pārvaldība.md",
+    "Excalidraw/Drawing 2024-01-06 13.34.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-06 14.59.21.excalidraw.md",
+    "Untitled.md",
+    "Untitled Diagram.svg",
+    "Atteli",
+    "Atteli/Pasted image 20240106151844.png",
+    "definitions",
+    "create a link.md",
+    "Excalidraw"
+  ]
+}

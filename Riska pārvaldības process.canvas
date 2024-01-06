@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"bdee685fed998fa3","type":"text","text":"[[Riska pārvaldība#Risku analīze|Risku analīze]]","x":203,"y":-29,"width":250,"height":60},
+		{"id":"a28f8546e0e2709f","type":"text","text":"[[Riska pārvaldība#Risku identificēšana|Risku identificēšana]]","x":-160,"y":-29,"width":250,"height":60},
+		{"id":"b6fc491c9a7bc883","type":"text","text":"Risku saraksts","x":-160,"y":150,"width":250,"height":60},
+		{"id":"d874ff5bf37b2fbd","type":"text","text":"Prioritizēts risku saraksts","x":203,"y":150,"width":250,"height":60},
+		{"id":"4a43a43cb462049b","type":"text","text":"[[Riska pārvaldība#Risku plānošana|Risku plānošana]]","x":602,"y":-29,"width":250,"height":60},
+		{"id":"6d829a0277d99491","type":"text","text":"Izvairīšanās un ārkārtas plāni","x":602,"y":150,"width":250,"height":60},
+		{"id":"57d9ae862d64ba84","type":"text","text":"[[Riska pārvaldība#Risku uzraudzība|Risku uzraudzība]]","x":940,"y":-29,"width":250,"height":60},
+		{"id":"601b24a0a7b99052","x":940,"y":150,"width":250,"height":60,"type":"text","text":"Riska izvērtēšana"}
+	],
+	"edges":[
+		{"id":"3f9095e855451b31","fromNode":"a28f8546e0e2709f","fromSide":"bottom","toNode":"b6fc491c9a7bc883","toSide":"top"},
+		{"id":"8818bc9c1090ee36","fromNode":"a28f8546e0e2709f","fromSide":"right","toNode":"bdee685fed998fa3","toSide":"left"},
+		{"id":"1568d39e5f7367f2","fromNode":"bdee685fed998fa3","fromSide":"bottom","toNode":"d874ff5bf37b2fbd","toSide":"top"},
+		{"id":"5a1d80514845fa4b","fromNode":"bdee685fed998fa3","fromSide":"right","toNode":"4a43a43cb462049b","toSide":"left"},
+		{"id":"775a2a0999181062","fromNode":"4a43a43cb462049b","fromSide":"bottom","toNode":"6d829a0277d99491","toSide":"top"},
+		{"id":"fc686e8c2e81459b","fromNode":"4a43a43cb462049b","fromSide":"right","toNode":"57d9ae862d64ba84","toSide":"left"},
+		{"id":"e36fc03cf96097df","fromNode":"57d9ae862d64ba84","fromSide":"bottom","toNode":"601b24a0a7b99052","toSide":"top"},
+		{"id":"82ddaae791f5c436","fromNode":"57d9ae862d64ba84","fromSide":"top","toNode":"bdee685fed998fa3","toSide":"top"}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"d727c3ead77f461b","type":"text","text":"Starts","x":-200,"y":-80,"width":120,"height":60},
+		{"id":"18fcd52220c3a05b","type":"text","text":"Noteikt ierobežojumus","x":20,"y":-220,"width":250,"height":60},
+		{"id":"665e2b1c9a2fd255","type":"text","text":"[[Riska pārvaldība#Risku identificēšana|Risku identificēšana]]","x":20,"y":-80,"width":250,"height":60},
+		{"id":"b0c97e8edc566c9a","type":"text","text":"Definēt šķirtnes un nodevumus","x":20,"y":60,"width":250,"height":60},
+		{"id":"e7044a203aed2724","type":"text","text":"Veido [[Projektu plānošana#Laikplānošana|laikplānu]]","x":380,"y":-80,"width":250,"height":60},
+		{"id":"f085aee594fbecf5","type":"text","text":"\"Sistēmas\" Projekta plānotājs","x":380,"y":-380,"width":250,"height":60},
+		{"id":"8029506be561819a","type":"text","text":"Darīt vajadzīgo darbu","x":800,"y":-190,"width":250,"height":60},
+		{"id":"5c7021a335004f50","type":"text","text":"Salīdzināt progresu ar [[Projektu plānošana#Izstrādes plānošana (Development planning)|plānu]]","x":800,"y":30,"width":250,"height":60},
+		{"id":"0c790ab92699ccfd","type":"text","text":"Finišs","x":1360,"y":-280,"width":120,"height":60},
+		{"id":"37d35829cd7ea180","type":"text","text":"Ir problēmas?","x":1120,"y":30,"width":160,"height":60,"color":"2"},
+		{"id":"0c7c3f1c65dcb855","type":"text","text":"Projekts ir pabeigts?","x":1132,"y":-280,"width":137,"height":60,"color":"2"},
+		{"id":"56d42411fdc63f23","type":"text","text":"","x":1480,"y":160,"width":80,"height":60},
+		{"id":"8335b8cf230a3c91","type":"text","text":"Uzsāk [[Riska pārvaldība#Risku mazināšana (mitigation)|risku mazināšanas darbības]]","x":1250,"y":300,"width":230,"height":60},
+		{"id":"1e202aae573b9f1a","type":"text","text":"Pārplāno projektu","x":1560,"y":300,"width":220,"height":60}
+	],
+	"edges":[
+		{"id":"eae83799a562bb68","fromNode":"d727c3ead77f461b","fromSide":"right","toNode":"18fcd52220c3a05b","toSide":"left"},
+		{"id":"d6e3740ce786d1bc","fromNode":"d727c3ead77f461b","fromSide":"right","toNode":"665e2b1c9a2fd255","toSide":"left"},
+		{"id":"8a8a56378172afc9","fromNode":"d727c3ead77f461b","fromSide":"right","toNode":"b0c97e8edc566c9a","toSide":"left"},
+		{"id":"ddb1903e2cbbac65","fromNode":"b0c97e8edc566c9a","fromSide":"right","toNode":"e7044a203aed2724","toSide":"left"},
+		{"id":"a360d7a67c59de60","fromNode":"665e2b1c9a2fd255","fromSide":"right","toNode":"e7044a203aed2724","toSide":"left"},
+		{"id":"2329eed304b5d116","fromNode":"18fcd52220c3a05b","fromSide":"right","toNode":"e7044a203aed2724","toSide":"left"},
+		{"id":"9f253cbbe04d60f9","fromNode":"f085aee594fbecf5","fromSide":"bottom","toNode":"e7044a203aed2724","toSide":"top"},
+		{"id":"a1efafbde57e149d","fromNode":"e7044a203aed2724","fromSide":"right","toNode":"5c7021a335004f50","toSide":"left"},
+		{"id":"b3b4b24143ce480f","fromNode":"e7044a203aed2724","fromSide":"right","toNode":"8029506be561819a","toSide":"left"},
+		{"id":"915961696ff5f291","fromNode":"5c7021a335004f50","fromSide":"right","toNode":"37d35829cd7ea180","toSide":"left"},
+		{"id":"21be5bb60e3761ff","fromNode":"37d35829cd7ea180","fromSide":"top","toNode":"0c7c3f1c65dcb855","toSide":"bottom","label":"Nav"},
+		{"id":"134e537fb48301e2","fromNode":"37d35829cd7ea180","fromSide":"bottom","toNode":"e7044a203aed2724","toSide":"bottom","label":"Mazas problēmas"},
+		{"id":"64a64504d11a6e22","fromNode":"0c7c3f1c65dcb855","fromSide":"right","toNode":"0c790ab92699ccfd","toSide":"left","label":"Jā"},
+		{"id":"3b6492f88951c5de","fromNode":"0c7c3f1c65dcb855","fromSide":"left","toNode":"8029506be561819a","toSide":"top","label":"Nē"},
+		{"id":"98e6f00e0fdaad64","fromNode":"56d42411fdc63f23","fromSide":"bottom","toNode":"8335b8cf230a3c91","toSide":"top"},
+		{"id":"5eec9124beda64b0","fromNode":"56d42411fdc63f23","fromSide":"bottom","toNode":"1e202aae573b9f1a","toSide":"top"},
+		{"id":"4db543c9e76bd218","fromNode":"37d35829cd7ea180","fromSide":"right","toNode":"56d42411fdc63f23","toSide":"top","label":"Nopietnas problēmas"}
+	]
+}
