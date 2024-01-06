@@ -3,7 +3,7 @@
 		{"id":"d727c3ead77f461b","type":"text","text":"Starts","x":-200,"y":-80,"width":120,"height":60},
 		{"id":"18fcd52220c3a05b","type":"text","text":"Noteikt ierobežojumus","x":20,"y":-220,"width":250,"height":60},
 		{"id":"665e2b1c9a2fd255","type":"text","text":"[[Riska pārvaldība#Risku identificēšana|Risku identificēšana]]","x":20,"y":-80,"width":250,"height":60},
-		{"id":"b0c97e8edc566c9a","type":"text","text":"Definēt šķirtnes un nodevumus","x":20,"y":60,"width":250,"height":60},
+		{"id":"b0c97e8edc566c9a","type":"text","text":"Definēt [[Projektu plānošana#Šķirtne (Milestone)|šķirtnes]] un [[Projektu plānošana#Nodevumi|nodevumus]]","x":20,"y":60,"width":250,"height":60},
 		{"id":"e7044a203aed2724","type":"text","text":"Veido [[Projektu plānošana#Laikplānošana|laikplānu]]","x":380,"y":-80,"width":250,"height":60},
 		{"id":"f085aee594fbecf5","type":"text","text":"\"Sistēmas\" Projekta plānotājs","x":380,"y":-380,"width":250,"height":60},
 		{"id":"8029506be561819a","type":"text","text":"Darīt vajadzīgo darbu","x":800,"y":-190,"width":250,"height":60},

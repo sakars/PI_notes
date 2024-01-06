@@ -125,7 +125,7 @@ Galvenos riskus būtu jāapspriež pārvaldes progresa sanāksmēs.
 # Risku mazināšana (mitigation)
 Ja radušās nopietnas problēmas izstrādes procesā, jāuzsāk risku mazināšana lai novērstu katastrofālu projekta neizdošanos.
 
-Vienlaicīgi arī [[Projektu plānošana|jāpārplāno]] projekts. Tas var nozīmēt pārrunas ar klientu par projektu un nodevumiem. Jāveido jauns [[Projektu plānošana#Laikplānošana|laikplāns]] un jāvalidē ar klientu.
+Vienlaicīgi arī [[Projektu plānošana|jāpārplāno]] projekts. Tas var nozīmēt pārrunas ar klientu par projektu un [[Projektu plānošana#Nodevumi (Deliverables)|nodevumiem]]. Jāveido jauns [[Projektu plānošana#Laikplānošana|laikplāns]] un jāvalidē ar klientu.
 
 # Definīcijas
 ## Projektu riski

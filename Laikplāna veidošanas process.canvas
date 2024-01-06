@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"419cdf67d103f6b2","type":"text","text":"Identificēt darbus","x":-400,"y":-100,"width":200,"height":60},
+		{"id":"3a301b110f6ead0b","type":"text","text":"Identificēt darba priekšnosacījumus","x":-100,"y":-100,"width":200,"height":60},
+		{"id":"3c28d9b213b13e36","x":180,"y":-100,"width":250,"height":60,"type":"text","text":"Prognozēt resursus aktivitātēm"},
+		{"id":"aad36ec266774d7e","x":520,"y":-100,"width":250,"height":60,"type":"text","text":"Izdalīt cilvēkus darbiem"},
+		{"id":"3ff2010f4b68dd45","x":860,"y":-100,"width":250,"height":60,"type":"text","text":"Veidot projektu tabulas"},
+		{"id":"385f4b44ce2183d8","x":860,"y":40,"width":250,"height":60,"type":"text","text":"Stabiņu diagrammas, kas apraksta laikplānu"},
+		{"id":"f924cd460a999f4d","x":-400,"y":20,"width":200,"height":140,"type":"text","text":"Programmatūras prasības un informācija par dizainu"}
+	],
+	"edges":[
+		{"id":"4ad7f671df99896e","fromNode":"419cdf67d103f6b2","fromSide":"right","toNode":"3a301b110f6ead0b","toSide":"left"},
+		{"id":"7ac99493a7af13c4","fromNode":"3a301b110f6ead0b","fromSide":"right","toNode":"3c28d9b213b13e36","toSide":"left"},
+		{"id":"3072a8cb0a7882fa","fromNode":"3c28d9b213b13e36","fromSide":"right","toNode":"aad36ec266774d7e","toSide":"left"},
+		{"id":"04d220dc36c75004","fromNode":"aad36ec266774d7e","fromSide":"right","toNode":"3ff2010f4b68dd45","toSide":"left"},
+		{"id":"19b1c62d5de71917","fromNode":"3ff2010f4b68dd45","fromSide":"top","toNode":"3c28d9b213b13e36","toSide":"top"},
+		{"id":"1bb760ec5aa18f6a","fromNode":"3ff2010f4b68dd45","fromSide":"bottom","toNode":"385f4b44ce2183d8","toSide":"top"},
+		{"id":"63ea7d2994e0d98f","fromNode":"f924cd460a999f4d","fromSide":"top","toNode":"419cdf67d103f6b2","toSide":"bottom"}
+	]
+}

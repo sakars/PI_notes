@@ -8,56 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3b7847f1cc149d9",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
             "id": "596bd8bd37b57633",
             "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projekta plānošanas process.canvas",
-                "viewState": {
-                  "x": 1358.7325548414196,
-                  "y": -104.54212121735156,
-                  "zoom": -0.7907184612150548
-                }
-              }
-            }
-          },
-          {
-            "id": "7e4eed39426e70a6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projekta plānošanas process.canvas",
-                "viewState": {
-                  "x": 1208.368997148583,
-                  "y": 275.6324039651455,
-                  "zoom": 0.2822852848865617
-                }
-              }
-            }
-          },
-          {
-            "id": "036251b2675e9681",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Riska pārvaldība.md",
+                "file": "Projektu plānošana.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -89,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ārkā",
+                "query": "nodev",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projektu plānošana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projektu plānošana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projektu plānošana.md"
+              }
             }
           },
           {
@@ -191,15 +156,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": true
     }
   },
-  "active": "e3b7847f1cc149d9",
+  "active": "596bd8bd37b57633",
   "lastOpenFiles": [
-    "Projektu plānošana.md",
-    "Projekta plānošanas process.canvas",
+    "Pasted image 20240107011257.png",
+    "Pasted image 20240107005429.png",
     "Riska pārvaldība.md",
+    "Projektu plānošana.md",
     "Projekta pārvaldība.md",
+    "Projekta plānošanas process.canvas",
+    "Laikplāna veidošanas process.canvas",
+    "Pasted image 20240106235735.png",
     "Riska pārvaldības process.canvas",
     "Atteli/Pasted image 20240106183443.png",
     "Atteli/Pasted image 20240106183351.png",
