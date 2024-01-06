@@ -11,23 +11,10 @@
             "id": "e3b7847f1cc149d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projektu plānošana.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d72f3c28a5a848d",
-            "type": "leaf",
-            "state": {
               "type": "diff-view",
               "state": {
-                "staged": false,
-                "file": "Projektu plānošana.md"
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           },
@@ -73,8 +60,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +165,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "8594ba9eb49c38c9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,7 +194,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6d72f3c28a5a848d",
+  "active": "e3b7847f1cc149d9",
   "lastOpenFiles": [
     "Projektu plānošana.md",
     "Projekta plānošanas process.canvas",
