@@ -226,8 +226,8 @@ Ja kāda funkcionalitāte netiek paveikta atvēlētajā laikā, tiek samazināts
 
 ## Spējās plānošanas pielietojums
 
-- Ļoti labi strādā mazās, stabilās komandās, kas labi sadarbojas.
-- Lielās un ģeogrāfski attālās grupās vai nestabilās grupās ir gandrīz neiespējami panākt visu iesaisti plānošanā, kas vajadzīga spējai projekta pārvaldei.
+- Ļoti labi strādā **mazās, stabilās komandās**, kas labi sadarbojas.
+- Lielās un ģeogrāfski attālās grupās vai nestabilās grupās ir **gandrīz neiespējami** panākt visu iesaisti plānošanā, kas vajadzīga spējai projekta pārvaldei.
 
 # Prognozēšanas paņēmieni
 
