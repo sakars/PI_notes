@@ -86,7 +86,7 @@ Grupas biedrus jāizvēlas tā, lai palielinātu grupas efektivitāti.
 
 **Lielas** grupas parasti ir ar hierarhisku struktūru, kas to dala mazākās grupās, kas ir atbildīgas par dažādiem apakšprojektiem.
 
-[[Projektu plānošana#Agile (spējā) plānošana|Spējā izstrāde]] ir balstīta uz neformālu grupu, kas nodrošina vieglu informācijas pārnesi
+[[Projektu plānošana#Agile (spējās izstrādes) plānošana|Spējā izstrāde]] ir balstīta uz neformālu grupu, kas nodrošina vieglu informācijas pārnesi
 
 # Definīcijas, paskaidrojumi
 ## Pamata vajadzības

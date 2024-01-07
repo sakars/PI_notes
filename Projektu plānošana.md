@@ -173,10 +173,61 @@ Katrai aktivitātei ir:
 Apzīmē darbus, kā arī kad un cik ilgi tos jādara.
 
 
+## Tabulēti darbi
 
+![[Pasted image 20240107013019.png]]
 
+## Aktivitāšu stabiņu diagramma 
+
+![[Pasted image 20240107013536.png]]
+
+Šī ir līdzīga [[#Laikjoslas tabulas - Ganta diagrammas|Ganta diagrammai]], taču arī iekļauj [[#Šķirtne (Milestone)|šķirtnes]] un to darbus, kuriem jābūt izpildītiem.
+
+## Darbinieku sadalījuma diagramma
+
+![[Pasted image 20240107014650.png]]
+
+Tās apraksta kuri darbinieki kuros periodos strādā pie konkrētiem darbiem.
 
 # Agile (spējās izstrādes) plānošana
+
+Spējā izstrāde ir iteratīva pieeja, kurā izstrādi un piegādi klientiem veic periodiski un pa daļām. Atšķirīgi no [[#Plānošanas process|plānošanas]], šīs daļas tiek noteiktas izstrādes laikā.
+
+> [!hint]
+> Tas, kas tiek iekļauts katrā daļā atšķiras no progresa un klienta prioritātēm.
+> Prioritātes mainīsies, taču tas neietekmēs plānu, jo spējās izstrādes ietvaros plāns ir ierobežots ar daļu, kas nozīmē, ka nav daudz jākoriģē, lai izmaiņām pielāgotos.
+
+## Spējās izstrādes plānošanas soļi
+- Izdevumu(?) plānošana (Release planning), kas ieplāno izdevumus vairākus mēnešus uz priekšu un nosaka, kādai funkcionalitātei jābūt nākamajā sistēmas izdevumā.
+- Iterāciju ([[#Spējās izstrādes sprints|sprintu]]) plānošanā tiek aplūkots īsāks periods, kurā plāno nākamo sistēmas izdevumu.
+
+## Darbu sadale
+
+Vienam darbam būtu jāaizņem 4-16 stundas.
+**Visiem** darbiem jābūt paveiktiem, lai izveidotu iterācijā rindoto funkcionalitāti.
+Individuāli izstrādātāji piesakās darbiem, kurus tie veiks.
+
+> [!info] Priekšrocības šai metodei
+> - Visa komanda gūst priekšstatu par darāmajiem darbiem.
+> - Izstrādātājiem ir īpašuma sajūta, ka tiem pieder tas darbs (skatīt [[Cilvēku pārvaldība|cilvēku vajadzību nodrošināšanu]])
+
+## Programmatūras piegāde
+
+Katras iterācijas beigās programmatūru piegādā klientam.
+Ja kāda funkcionalitāte netiek paveikta atvēlētajā laikā, tiek samazināts darba apjoms.
+
+> [!warning] Piegādes laiku nekad nepārceļ
+
+## Spējās plānošanas problēmas
+
+- Spējā plānošana ir ļoti atkarīga no klienta sadarbības un pieejamības.
+- Reizēm to var būt grūti organizēt, jo klientam arī ir savas prioritātes, kas tam neļauj iesaistīties plānošanā.
+- Reizēm klients var būt pieradis pie tradicionālas plānošanas un atduras pret grūtībām veiksmīgi iesaistīties spējās plānošanas procesā
+
+## Spējās plānošanas pielietojums
+
+- Ļoti labi strādā mazās, stabilās komandās, kas labi sadarbojas.
+- Lielās un ģeogrāfski attālās grupās vai nestabilās grupās ir gandrīz neiespējami panākt visu iesaisti plānošanā, kas vajadzīga spējai projekta pārvaldei.
 
 # Prognozēšanas paņēmieni
 
@@ -184,7 +235,13 @@ Apzīmē darbus, kā arī kad un cik ilgi tos jādara.
 # Definīcijas, nozīmes
 
 ## Šķirtne (Milestone)
+#definition
 Punkts [[#Laikplānošana|laikplānā]] pēc kura var izvērtēt progresu, piemēram, kad iespējams nodot programmatūru testēšanai.
 
 ## Nodevumi (Deliverables)
+#definition 
 Produkti, kurus atdod klientam, piemēram, prasību dokuments sistēmai.
+
+## Spējās izstrādes sprints
+#definition
+Īsa izstrādes iterācija, kas koncentrējas uz nākamo sistēmas izdevumu. Parasti sprints aizņem 2-4 nedēļas komandai.

@@ -31,7 +31,5 @@ Projekta pārvaldība ir saistīta ar darbībām, lai panāktu galvenos mērķus
 - [[Cilvēku pārvaldība]]
 - [[Ziņošana]]
 - [[Projektu plānošana#Piedāvājumu rakstīšana|Piedāvājumu rakstīšana]]
-- 
-
 
 

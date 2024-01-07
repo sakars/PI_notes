@@ -127,7 +127,7 @@ Ja radušās nopietnas problēmas izstrādes procesā, jāuzsāk risku mazināš
 
 Vienlaicīgi arī [[Projektu plānošana|jāpārplāno]] projekts. Tas var nozīmēt pārrunas ar klientu par projektu un [[Projektu plānošana#Nodevumi (Deliverables)|nodevumiem]]. Jāveido jauns [[Projektu plānošana#Laikplānošana|laikplāns]] un jāvalidē ar klientu.
 
-# Definīcijas
+# Definīcijas, Paskaidrojumi
 ## Projektu riski
 Ietver laika plānu un resursus 
 
@@ -138,6 +138,7 @@ Ietver kvalitāti un produkta jaudu
 Ietver organizatoriskos jautājumus veidojot programmatūru
 
 ## CASE
+#definition 
 **C**omputer **A**ided **S**oftware **E**ngineering
 jeb programmatūras izstrāde ar datora palīdzību.
 **CASE tools** - programmatūras rīki, kas palīdz izstrādei.
@@ -167,6 +168,7 @@ jeb programmatūras izstrāde ar datora palīdzību.
 - Cik laika aizņem defektu labošana
 - Programmatūras apjoma aplēses
 
-## RMMM
+## RMMM 
+#definition
 **R**isk **M**itigation, **M**onitoring & **M**anagement
 jeb risku mazināšana, uzraudzība un pārvaldība
