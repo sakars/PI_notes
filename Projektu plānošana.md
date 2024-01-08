@@ -72,6 +72,18 @@ Projekta [[#Laikplānošana|laikplānu]], [[#Cenošana|izmaksu aplēses]] un [[R
 - Programmatūru jāceno tā, kā izstrādātājs domā, cik klients ir gatavs maksāt.
 - Ja tas ir **mazāk** par izmaksām, jāsamazina funkcionalitāti, lai iekļautos budžetā ar perspektīvu, ka iespējams pievienot funkcionalitāti vēlāk.
 - Papildus izmaksas var tikt pievienotas ar prasību izmaiņām un tās var kompensēt oriģināli zemākai cenai.
+
+# Veidot-pirkt lēmumi
+
+Daudzās izstrādes daļās, izstrāde ir lētāka, ja daļu programmatūras iepērk.
+
+Svarīgākie lēmumi, domājot, vai komponenti izstrādāt, vai iepirkt:
+- Vai iegādātās programmatūras piegāde būs ātrāka par pašu izstrādātu variantu?
+- Vai iepirkuma un tā pielāgošanas izmaksas būs mazākas par pašu izstrādātu programmatūru?
+- Vai ārējā atbalsta izmaksas būs mazākas par iekšējo atbalstu (piemēram uzturēšanas izmaksas)?
+![[Pasted image 20240108174239.png]]
+
+
 # Uz plāniem balstīta izstrāde
 
 > [!info] Šis ir "tradicionālais" izstrādes veids lieliem programmatūras projektiem.
@@ -330,6 +342,14 @@ Projekta resursi iedalās 3 grupās, kurām ir vairāki parametri, kurus jāņem
 	- Partial experience komponentes jeb komponentes, kurām vajadzīgi netriviāli pārveidojumi, lai tās savietotu ar projektu.
 	- Jaunas komponentes, jeb tās, kuras jāveido "no nulles"
 
+## Darbaspēka prasības
+
+Vajadzīgo darbaspēku nevar aprēķināt dalot paredzēto izpildes laiku ar vajadzīgo izpildes laiku.
+
+Darbinieku skaits mainās atkarībā no izstrādes stadijas.
+
+Jo vairāk cilvēku strādā pie projekta, jo vairāk kopējās darbietilpības nepieciešams.
+
 
 # Projekta prognozēšana
 Lai prognozētu projektu, galvenās detaļas:
@@ -347,6 +367,7 @@ Lai prognozētu projektu, galvenās detaļas:
 	- Apjoma (piem., Funkcionālie punkti) prognozes
 - Empīriskie modeļi
 - Automātiskie rīki
+
 
 
 [^1]: [[#Cena vai izmaksas|Ir svarīga starpība starp cenu un izmaksām]]

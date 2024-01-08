@@ -63,7 +63,7 @@ KLOC - [[Definīcijas#Pirmkoda rindas (Lines Of Code) (LOC)|Kilorindas koda]].
 
 ### COCOMO II
 
-COCOMO II ir prognozēšanas modeļu hierarhija.
+COCOMO II ir prognozēšanas modeļu hierarhija. Tas ir daudz nobriedušāks modelis nekā COCOMO
 
 - **Lietotņu kompozīcijas modelis** – tiek izmantots agrīnajos posmos, kad prototipē lietotāja saskarnes, plāno programmatūru, apskata jaudu, sistēmu mijiedarbību un tehnoloģijas briedumu.
 - **Agrīnā dizaina posma modelis** – lietots, kad prasības ir nostabilizētas un pamata projekta arhitektūra ir nodibināta.
@@ -201,8 +201,18 @@ $P$ – "produktivitātes parametrs"
 $$\text{Darbietilpība} = \left[ \frac{\text{Apjoms}}{\text{Produktivitāte} \cdot \text{Laiks}^{4/3}} \right]^3 \cdot B$$
 
 
+## Prognozēšanas precizitāte
 
-## Automatizētie rīki
+Īsto programmatūras apjomu var zināt tikai kad projekts ir pabeigts.
+
+Galvenie faktori, kas ietekmē gala apjomu ir:
+- Atkārtota komponenšu lietošana
+- Programmēšanas valoda
+- Sistēmas izkliedētība
+
+Ar laiku apjoma prognoze kļūst precīzāka.
+
+
 
 # Darbietilpība un piegādes laiks
 
@@ -222,3 +232,5 @@ $$\text{Darbietilpība} = \left[ \frac{\text{Apjoms}}{\text{Produktivitāte} \cd
 	- [[Definīcijas#Baltās kastes testēšana (White-box tests)|baltās kastes testēšana]]
 	- [[Definīcijas#Melnās kastes testēšana (Black-box testing)|melnās kastes testēšana]]
 	- regresija
+
+

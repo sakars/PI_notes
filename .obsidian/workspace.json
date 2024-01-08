@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e30c7413e9aee922",
@@ -169,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,10 +190,11 @@
   },
   "active": "c23a97562f3d9f79",
   "lastOpenFiles": [
-    "Definīcijas.md",
-    "Darbietilpība.md",
-    "Riska pārvaldība.md",
     "Projektu plānošana.md",
+    "Pasted image 20240108174239.png",
+    "Darbietilpība.md",
+    "Definīcijas.md",
+    "Riska pārvaldība.md",
     "Cilvēku pārvaldība.md",
     "Humoriņi.md",
     "Laikplāna veidošanas process.canvas",
@@ -212,7 +214,6 @@
     "Untitled Diagram.svg",
     "Untitled",
     "Atteli/Pasted image 20240107014650.png",
-    "Atteli/Pasted image 20240107013536.png",
     "Excalidraw/Drawing 2024-01-06 13.34.14.excalidraw.md",
     "Excalidraw/Drawing 2024-01-06 14.59.21.excalidraw.md",
     "Atteli",
