@@ -22,17 +22,33 @@
             }
           },
           {
-            "id": "175117bbdddcd775",
+            "id": "c23a97562f3d9f79",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Darbietilpība.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "74db92766df9828e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Atteli/Pasted image 20240106235735.png"
+                "file": "Riska pārvaldība.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#definition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atteli/Pasted image 20240106235735.png",
+                "file": "Riska pārvaldība.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atteli/Pasted image 20240106235735.png",
+                "file": "Riska pārvaldība.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atteli/Pasted image 20240106235735.png"
+                "file": "Riska pārvaldība.md"
               }
             }
           },
@@ -151,12 +167,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,30 +185,32 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "e9486675e613bc5e",
+  "active": "74db92766df9828e",
   "lastOpenFiles": [
-    "Projekta pārvaldība.md",
     "Projektu plānošana.md",
+    "Projekta pārvaldība.md",
+    "Humoriņi.md",
+    "Darbietilpība.md",
+    "Cilvēku pārvaldība.md",
+    "Atteli/Pasted image 20240107210058.png",
+    "Atteli/Pasted image 20240108133913.png",
+    "Atteli/Pasted image 20240108132400.png",
+    "qsm.com.md",
+    "Atteli/Pasted image 20240108125017.png",
+    "Atteli/Pasted image 20240108123846.png",
     "Riska pārvaldība.md",
-    "Untitled.md",
+    "Projekta plānošanas process.canvas",
+    "Atteli/Pasted image 20240106235735.png",
     "Untitled Diagram.svg",
     "Untitled",
-    "Cilvēku pārvaldība.md",
-    "Projekta plānošanas process.canvas",
     "Atteli/Pasted image 20240107014650.png",
     "Atteli/Pasted image 20240107013536.png",
     "Atteli/Pasted image 20240107013019.png",
-    "Atteli/Pasted image 20240107011257.png",
-    "Atteli/Pasted image 20240107005429.png",
     "Laikplāna veidošanas process.canvas",
-    "Atteli/Pasted image 20240106235735.png",
     "Riska pārvaldības process.canvas",
-    "Atteli/Pasted image 20240106183443.png",
-    "Atteli/Pasted image 20240106183351.png",
     "Excalidraw/Drawing 2024-01-06 13.34.14.excalidraw.md",
     "Excalidraw/Drawing 2024-01-06 14.59.21.excalidraw.md",
     "Atteli",
-    "Atteli/Pasted image 20240106151844.png",
     "definitions",
     "create a link.md",
     "Excalidraw"

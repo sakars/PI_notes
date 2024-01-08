@@ -85,7 +85,7 @@ $$
 RE=P\cdot C
 $$
 $P$ - Iespējamība (Probability), ka risks izpildās
-$C$ - Izmaksas projektam, ja risks izpildās
+$C$ - Izmaksas[^1] projektam, ja risks izpildās
 
 
 # Risku plānošana
@@ -172,3 +172,10 @@ jeb programmatūras izstrāde ar datora palīdzību.
 #definition
 **R**isk **M**itigation, **M**onitoring & **M**anagement
 jeb risku mazināšana, uzraudzība un pārvaldība
+
+
+
+
+
+
+[^1]: [[Projektu plānošana#Cena vai izmaksas|Atšķirība starp cenu un izmaksām]]

@@ -33,7 +33,15 @@ Projekta [[#Laikplānošana|laikplānu]], [[#Cenošana|izmaksu aplēses]] un [[R
 
 # Cenošana
 
-> [!info] Lai noteiktu izmaksas izstrādātājam, jāveic aplēses.
+## Cena vai izmaksas
+**Izmaksas** – naudas daudzums, cik tas izmaksā uzņēmumam.
+**Cena** – naudas daudzums, kādu prasa klientam.
+
+> [!warning] Izmaksas gandrīz nekad nesakrīt ar cenu
+
+
+
+> [!info] Lai noteiktu izmaksas izstrādātājam, jāveic aplēses (minējumi) (prognozes) (estimations).
 > Vērā jāņem šādas izmaksas:
 > - aparatūras
 > - programmatūras
@@ -41,6 +49,7 @@ Projekta [[#Laikplānošana|laikplānu]], [[#Cenošana|izmaksu aplēses]] un [[R
 > - apmācību
 > - [[Darbietilpība|darbietilpības]]
 > - plašākas organizatoriskās, politiskās, biznesa ietekmes
+
 
 ## Ietekmējošie faktori
 | Faktors | Apraksts |
@@ -164,13 +173,14 @@ Katrai aktivitātei ir:
 
 ## Darbu tīkla piemērs
 
+
 ![[Pasted image 20240107005429.png]]
-Šeit redzams kā daļa no darbiem ir savietoti paralēli, lai tos var darīt vienlaicīgi dažādas komandas.
+Šeit redzams kā daļa no darbiem ir savietoti paralēli, lai tos var darīt vienlaicīgi dažādas komandas. ^1bp4xd
 
 ## Laikjoslas tabulas - Ganta diagrammas
 
 ![[Pasted image 20240107011257.png]]
-Apzīmē darbus, kā arī kad un cik ilgi tos jādara.
+Apzīmē darbus, kā arī kad un cik ilgi tos jādara. ^3fjkyt
 
 
 ## Tabulēti darbi
@@ -229,7 +239,111 @@ Ja kāda funkcionalitāte netiek paveikta atvēlētajā laikā, tiek samazināts
 - Ļoti labi strādā **mazās, stabilās komandās**, kas labi sadarbojas.
 - Lielās un ģeogrāfski attālās grupās vai nestabilās grupās ir **gandrīz neiespējami** panākt visu iesaisti plānošanā, kas vajadzīga spējai projekta pārvaldei.
 
-# Prognozēšanas paņēmieni
+# Projektu plānošanas darāmie darbi
+
+## Pirmā daļa
+- Noteikt projekta apjomu
+- Noteikt izpildāmību (feasibility)
+- [[Riska pārvaldība#Risku analīze|Risku analīze]]
+- Definēt pieejamos resursus
+- Noteikt pieejamos cilvēkresursus
+- Noteikt vairāklietojamo programmatūru
+- Identificēt vides resursus
+
+## Otrā daļa
+- Paredzēt [[#Cenošana|cenu]] un [[Darbietilpība|darbietilpību]]
+	- "Skaldi un valdi" problēmu
+	- Veido 2 vai vairākus minējumus izmantojot apjomu, [[funkcijas punktus]], [[Projektu plānošana#Aktivitāte darbs|darbus]], [[Lietošanas piemērs|lietošanas piemērus (use cases)]]
+	- Apvieno minējumus, gūstot kopēju priekšstatu
+- Izveido [[#Laikplānošana|laikplānu]]
+	- Veido jēdzīgu darbu sarakstu
+	- Definē [[Projektu plānošana#^1bp4xd|darbu tīklu]]
+	- Izmanto laikplānošanas rīkus lai radītu [[Projektu plānošana#^3fjkyt|laikjoslas tabulu]]
+	- Definē laikplāna uzraudzīšanas mehānismus
+
+# Resursu, izmaksu, laikplāna prognozēšana
+
+Resursu, izmaksu[^1] un laikplāna darbiem prognozēšanai vajadzīga:
+- pieredze
+- pieeja vēsturiskiem datiem un metrikām
+- Drosme pieturēties kvantitatīviem datiem, kamēr ir pieejama tikai kvalitatīva informācija.
+
+Prognozēšanai ir risks un šis risks noved pie iespējamībām.
+
+
+## Kādēļ projekti kavējas?
+- **Nereālistiski laika limiti**, kurus dod kāda partija ārpus izstrādes komandas.
+- Mainīgas klientu prasības
+- Godīgi slikti novērtēts patērējamais laiks uz darbiem, kad sāka projektu.
+- Paredzami vai neparedzami [[Riska pārvaldība|riski]].
+- Neparedzamas tehniskas problēmas
+- Neparedzamas [[Cilvēku pārvaldība|cilvēkresursu]] problēmas
+- Komunikācijas problēmas
+- Pārvaldība neatzīst, ka kavēšanās notiek, kas nozīmē, ka bezdarbības dēļ projekts iepaliek vēl vairāk.
+
+## Prognožu uzticamība
+![[Pasted image 20240107210058.png]]
+Prognozes projekta gaitā kļūst uzticamākas, taču svarīgākās prognozes parasti veic projekta sākumā.
+
+
+## Prognozēšanas paņēmieni
+
+[[Humoriņi#Deviņdesmit-deviņdesmit likums (Ninety-ninety rule)|Deviņdesmit-deviņdesmit likums]]
+
+[[Humoriņi#Hofstadtera likums (Hofstadter's law)|Hofstadtera likums]]
+
+[[Humoriņi#Freda Bruksa likums (Fred Brooks' law)|Freda Bruksa likums]]
+
+> [!info]- Gadījumi iz dzīves
+> - Neveiksmīgi un veiksmīgi projekti kādā datorizstrādes komercsabiedrībā 90.-to gadu vidū
+> - Šveices baznīckungu pasūtījums
+> - Kā neizgāzās Valsts ieņēmumu informācijas sistēmas projekts
+
+Divi galvenie prognozēšanas paņēmieni:
+- [[#Uz pieredzi balstīti paņēmieni]]
+- [[#Algoritmiska izmaksu modelēšana]]
+
+### Uz pieredzi balstīti paņēmieni
+
+Visas prognozes tiek balstītas uz pārvaldnieka pieredzi agrākajos projektos un nozares darbos. Tas nozīmē, ka tā ir pārvaldnieka atbildība veikt informētus minējumus par vajadzīgo [[Darbietilpība|darbietilpību]], izmaksām, resursiem.
+
+### Algoritmiska izmaksu modelēšana
+
+Šādā pieejā, prognozēšanai izmanto formulas izmantojot vienkāršākpieejamas prognozes, kā apjoms, procesu raksturojumi un darbaspēka raksturojums.
+
+## Resursi
+Projekta resursi iedalās 3 grupās, kurām ir vairāki parametri, kurus jāņem vērā:
+- Cilvēkresursi
+	- Ģeogrāfiskā atrašanās vieta
+	- Prasmes
+	- Cilvēku skaits
+- Vides resursi
+	- Programmatūras rīki
+	- Aparatūra
+	- Tīkla resursi
+- Vairākkārt lietojamā programmatūra
+	- OTS (Off-The-Shelf) komponentes jeb jau gatavās komponentes
+	- Full experience komponentes jeb komponentes par kurām ir daudz pieredzes vai jau eksistējošas komponentes, kurām vajadzīga minimāla koriģēšana, lai tās varētu savietot ar projektu.
+	- Partial experience komponentes jeb komponentes, kurām vajadzīgi netriviāli pārveidojumi, lai tās savietotu ar projektu.
+	- Jaunas komponentes, jeb tās, kuras jāveido "no nulles"
+
+
+# Projekta prognozēšana
+Lai prognozētu projektu, galvenās detaļas:
+- Jāprognozē projekta apjomu
+- Skaldīšana (dekompozīcija)
+- Vēsturiskās metrikas
+- Izmantoti vismaz 2 paņēmieni
+- Iespējamības ir nenovēršamas.
+
+## Projekta prognozēšanas paņēmieni
+
+- Agrākā pieredze
+- Parastās prognozēšanas metodes
+	- Darbu skaldīšana un [[Darbietilpība|darbietilpības]] prognozes
+	- Apjoma (piem., Funkcionālie punkti) prognozes
+- Empīriskie modeļi
+- Automātiskie rīki
 
 
 # Definīcijas, nozīmes
@@ -245,3 +359,6 @@ Produkti, kurus atdod klientam, piemēram, prasību dokuments sistēmai.
 ## Spējās izstrādes sprints
 #definition
 Īsa izstrādes iterācija, kas koncentrējas uz nākamo sistēmas izdevumu. Parasti sprints aizņem 2-4 nedēļas komandai.
+
+
+[^1]: [[#Cena vai izmaksas|Ir svarīga starpība starp cenu un izmaksām]]
