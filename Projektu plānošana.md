@@ -128,8 +128,8 @@ Projekta [[#Laikplānošana|laikplānu]], [[#Cenošana|izmaksu aplēses]] un [[R
 
 # Laikplānošana
 
-> [!info] Definīcija
-> Laikplānošana ir process kā sadalīt darbu sīkāk un kā un kad šie sīkie darbi tiks izpildīti.
+![[Definīcijas#Laikplānošana (Scheduling)]]
+
 
 Ir **jāparedz** kalendārais laiks, kuru vajadzēs, lai izpildītu katru darbu, [[Darbietilpība|darbietilpība]], kuru tas prasīs, kā arī kas strādās pie tā.
 
@@ -163,11 +163,11 @@ Aktivitāšu (darbu) tīkli parāda darbu priekšnosacījumus.
 
 ## Aktivitāte (darbs)
 
-> [!info] Aktivitāte jeb darbs ir vismazākais plānošanas elements
+![[Definīcijas#Darbs/Aktivitāte (Activity/Task)]]
 
 Katrai aktivitātei ir:
 - laika posms kalendārajās dienās vai mēnešos
-- [[Darbietilpība|Darbietilpības]] prognoze, kas parāda [[Persondienas]] vai [[Personmēnešus]], cik tie aizņem.
+- [[Darbietilpība|Darbietilpības]] prognoze, kas parāda [[Definīcijas#Persondiena/Personmēnesis (Person-days/Person-months)|persondienas vai personmēnešus]], cik tie aizņem.
 - Termiņš, līdz kuram jābeidz.
 - Darba gala punkts (dokuments, pārskata sanāksme, veiksmīga testu izpilde vai kāda cita konkrēta darbība)
 
@@ -209,7 +209,7 @@ Spējā izstrāde ir iteratīva pieeja, kurā izstrādi un piegādi klientiem ve
 
 ## Spējās izstrādes plānošanas soļi
 - Izdevumu(?) plānošana (Release planning), kas ieplāno izdevumus vairākus mēnešus uz priekšu un nosaka, kādai funkcionalitātei jābūt nākamajā sistēmas izdevumā.
-- Iterāciju ([[#Spējās izstrādes sprints|sprintu]]) plānošanā tiek aplūkots īsāks periods, kurā plāno nākamo sistēmas izdevumu.
+- Iterāciju ([[Definīcijas#Spējās izstrādes sprints (Agile sprint)|sprintu]]) plānošanā tiek aplūkots īsāks periods, kurā plāno nākamo sistēmas izdevumu.
 
 ## Darbu sadale
 
@@ -238,6 +238,9 @@ Ja kāda funkcionalitāte netiek paveikta atvēlētajā laikā, tiek samazināts
 
 - Ļoti labi strādā **mazās, stabilās komandās**, kas labi sadarbojas.
 - Lielās un ģeogrāfski attālās grupās vai nestabilās grupās ir **gandrīz neiespējami** panākt visu iesaisti plānošanā, kas vajadzīga spējai projekta pārvaldei.
+
+## [[Darbietilpība#Projektu plānošana Agile (spējās izstrādes) plānošana Spējās izstrādes prognozēšana|Spējās izstrādes prognozēšana]]
+
 
 # Projektu plānošanas darāmie darbi
 
@@ -344,21 +347,6 @@ Lai prognozētu projektu, galvenās detaļas:
 	- Apjoma (piem., Funkcionālie punkti) prognozes
 - Empīriskie modeļi
 - Automātiskie rīki
-
-
-# Definīcijas, nozīmes
-
-## Šķirtne (Milestone)
-#definition
-Punkts [[#Laikplānošana|laikplānā]] pēc kura var izvērtēt progresu, piemēram, kad iespējams nodot programmatūru testēšanai.
-
-## Nodevumi (Deliverables)
-#definition 
-Produkti, kurus atdod klientam, piemēram, prasību dokuments sistēmai.
-
-## Spējās izstrādes sprints
-#definition
-Īsa izstrādes iterācija, kas koncentrējas uz nākamo sistēmas izdevumu. Parasti sprints aizņem 2-4 nedēļas komandai.
 
 
 [^1]: [[#Cena vai izmaksas|Ir svarīga starpība starp cenu un izmaksām]]

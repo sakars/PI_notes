@@ -1,6 +1,4 @@
->[!info] Risks ir potenciāls negatīvām sekām
-
-Risks ietver iespēju par kādām sekām no darbības vai bezdarbības, kas ir svarīgas cilvēkiem.
+![[Definīcijas#Risks (Risk)]]
 
 **Risku pārvaldība** ietver risku [[#Risku klasificēšana|klasificēšanu]], [[#risku identificēšana|identificēšanu]], [[#Risku analīze|analīzi]], [[#risku plānošana|plānošanu]] un [[#Risku uzraudzība|uzraudzību]].
 
@@ -22,7 +20,7 @@ Risks ietver iespēju par kādām sekām no darbības vai bezdarbības, kas ir s
 | Aparatūras trūkums | Projektu<br>Produktu | Aparatūru nevar piegādāt laikā |
 | Prasību maiņa | Projektu<br>Produktu | Prasības mainās vairāk nekā domāts |
 | Apjoma kļūda | Projektu | Projekts ir lielāks nekā domāts |
-| [[#CASE]] rīku spējas trūkums | Produktu | Atbalstošā programmatūra nedarbojas tik jaudīgi kā cerēts |
+| [[Definīcijas#CASE\|CASE]] rīku spējas trūkums | Produktu | Atbalstošā programmatūra nedarbojas tik jaudīgi kā cerēts |
 | Tehnolģiju izmaiņa | Biznesa | Tehnoloģijas kļūst novecojušas. |
 | Produkta sācensība | Biznesa | Sācensis tiek izziņots pirms sistēmu pabeidz |
 
@@ -52,7 +50,7 @@ Parasti dalās dažādu veidu riskos
 | Cilvēku | Vāja motivācija, sliktas attiecības komandā. Bieža darbinieku maiņa |
 | Prasību | Biežas prasību maiņas, klientu sūdzības |
 | Aplēšu | Nespēja iekļauties laika plānā. Nespēja tikt vaļā no defektiem |
-| Rīku | Komandas nevēlēšanās lietot rīkus, sūdzēšanās par [[#CASE]] rīkiem, vēlmes jaudīgākām darba stacijām. |
+| Rīku | Komandas nevēlēšanās lietot rīkus, sūdzēšanās par [[Definīcijas#CASE\|CASE]] rīkiem, vēlmes jaudīgākām darba stacijām. |
 
 
 # Risku analīze
@@ -72,7 +70,7 @@ Risku sekas
 - katastrofiskas
 
 ## Risku tabulas veidošana
-| Risks | Iespējamība | Sekas | [[#RMMM]] |
+| Risks | Iespējamība | Sekas | [[Definīcijas#RMMM\|RMMM]] |
 | ---- | ---- | ---- | ---- |
 |  |  |  |  |
 |  |  |  |  |
@@ -125,7 +123,7 @@ Galvenos riskus būtu jāapspriež pārvaldes progresa sanāksmēs.
 # Risku mazināšana (mitigation)
 Ja radušās nopietnas problēmas izstrādes procesā, jāuzsāk risku mazināšana lai novērstu katastrofālu projekta neizdošanos.
 
-Vienlaicīgi arī [[Projektu plānošana|jāpārplāno]] projekts. Tas var nozīmēt pārrunas ar klientu par projektu un [[Projektu plānošana#Nodevumi (Deliverables)|nodevumiem]]. Jāveido jauns [[Projektu plānošana#Laikplānošana|laikplāns]] un jāvalidē ar klientu.
+Vienlaicīgi arī [[Projektu plānošana|jāpārplāno]] projekts. Tas var nozīmēt pārrunas ar klientu par projektu un [[Definīcijas#Nodevumi (Deliverables)|nodevumiem]]. Jāveido jauns [[Projektu plānošana#Laikplānošana|laikplāns]] un jāvalidē ar klientu.
 
 # Definīcijas, Paskaidrojumi
 ## Projektu riski
@@ -137,11 +135,7 @@ Ietver kvalitāti un produkta jaudu
 ## Biznesa riski
 Ietver organizatoriskos jautājumus veidojot programmatūru
 
-## CASE
-#definition 
-**C**omputer **A**ided **S**oftware **E**ngineering
-jeb programmatūras izstrāde ar datora palīdzību.
-**CASE tools** - programmatūras rīki, kas palīdz izstrādei.
+
 
 ## Tehnoloģiju riski
 - Datubāze nespēj nodrošināt vajadzīgo jaudu
@@ -168,10 +162,7 @@ jeb programmatūras izstrāde ar datora palīdzību.
 - Cik laika aizņem defektu labošana
 - Programmatūras apjoma aplēses
 
-## RMMM 
-#definition
-**R**isk **M**itigation, **M**onitoring & **M**anagement
-jeb risku mazināšana, uzraudzība un pārvaldība
+
 
 
 

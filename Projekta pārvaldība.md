@@ -3,7 +3,7 @@
 - [[Cilvēku pārvaldība]]
 - [[Cilvēku pārvaldība#Komandas darbs|Komandas darbs]]
 
-Projekta pārvaldība ir saistīta ar darbībām, lai panāktu galvenos mērķus Programmatūras [[Projektu plānošana#Nodevumi (Deliverables)|nodevums]] **laikā** un **pēc prasībām**. Projekta pārvaldību vajag, jo izstrāde **vienmēr ir ierobežota pēc laika un budžeta**, kuru nosaka uzņēmums.
+Projekta pārvaldība ir saistīta ar darbībām, lai panāktu galvenos mērķus Programmatūras [[Definīcijas#Nodevumi (Deliverables)|nodevums]] **laikā** un **pēc prasībām**. Projekta pārvaldību vajag, jo izstrāde **vienmēr ir ierobežota pēc laika un budžeta**, kuru nosaka uzņēmums.
 
 ### Veiksmes kritēriji
 - Piegādāt produktu laikā
@@ -30,6 +30,6 @@ Projekta pārvaldība ir saistīta ar darbībām, lai panāktu galvenos mērķus
 - [[Riska pārvaldība]]
 - [[Cilvēku pārvaldība]]
 - [[Ziņošana]]
-- [[Projektu plānošana#Piedāvājumu rakstīšana|Piedāvājumu rakstīšana]]
+- [[Projektu plānošana#Piedāvājumu rakstīšana (Proposal planning)|Piedāvājumu rakstīšana]]
 
 

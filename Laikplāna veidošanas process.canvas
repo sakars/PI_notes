@@ -2,11 +2,11 @@
 	"nodes":[
 		{"id":"419cdf67d103f6b2","type":"text","text":"Identificēt darbus","x":-400,"y":-100,"width":200,"height":60},
 		{"id":"3a301b110f6ead0b","type":"text","text":"Identificēt darba priekšnosacījumus","x":-100,"y":-100,"width":200,"height":60},
-		{"id":"3c28d9b213b13e36","x":180,"y":-100,"width":250,"height":60,"type":"text","text":"Prognozēt resursus aktivitātēm"},
-		{"id":"aad36ec266774d7e","x":520,"y":-100,"width":250,"height":60,"type":"text","text":"Izdalīt cilvēkus darbiem"},
-		{"id":"3ff2010f4b68dd45","x":860,"y":-100,"width":250,"height":60,"type":"text","text":"Veidot projektu tabulas"},
-		{"id":"385f4b44ce2183d8","x":860,"y":40,"width":250,"height":60,"type":"text","text":"Stabiņu diagrammas, kas apraksta laikplānu"},
-		{"id":"f924cd460a999f4d","x":-400,"y":20,"width":200,"height":140,"type":"text","text":"Programmatūras prasības un informācija par dizainu"}
+		{"id":"3c28d9b213b13e36","type":"text","text":"Prognozēt resursus aktivitātēm","x":180,"y":-100,"width":250,"height":60},
+		{"id":"aad36ec266774d7e","type":"text","text":"Izdalīt cilvēkus darbiem","x":520,"y":-100,"width":250,"height":60},
+		{"id":"3ff2010f4b68dd45","type":"text","text":"Veidot projektu tabulas","x":860,"y":-100,"width":250,"height":60},
+		{"id":"385f4b44ce2183d8","type":"text","text":"Stabiņu diagrammas, kas apraksta [[Definīcijas#Laikplāns (Schedule)|laikplānu]]","x":860,"y":40,"width":250,"height":60},
+		{"id":"f924cd460a999f4d","type":"text","text":"Programmatūras prasības un informācija par dizainu","x":-400,"y":20,"width":200,"height":140}
 	],
 	"edges":[
 		{"id":"4ad7f671df99896e","fromNode":"419cdf67d103f6b2","fromSide":"right","toNode":"3a301b110f6ead0b","toSide":"left"},

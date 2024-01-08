@@ -36,6 +36,14 @@
             }
           },
           {
+            "id": "71ea3a0f14706e51",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "74db92766df9828e",
             "type": "leaf",
             "state": {
@@ -46,9 +54,53 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2b96bc66031ba6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projektu plānošana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20066ea95d2eea4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cilvēku pārvaldība.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
+      },
+      {
+        "id": "f0a2b3b0bfa4c8f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e66fd79b672690",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definīcijas.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "piedāvā",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Riska pārvaldība.md",
+                "file": "Definīcijas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +183,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Riska pārvaldība.md",
+                "file": "Definīcijas.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -154,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Riska pārvaldība.md"
+                "file": "Definīcijas.md"
               }
             }
           },
@@ -171,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,29 +237,32 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "74db92766df9828e",
+  "active": "d4e66fd79b672690",
   "lastOpenFiles": [
-    "Projektu plānošana.md",
-    "Projekta pārvaldība.md",
-    "Humoriņi.md",
-    "Darbietilpība.md",
     "Cilvēku pārvaldība.md",
+    "Darbietilpība.md",
+    "Definīcijas.md",
+    "Humoriņi.md",
+    "Laikplāna veidošanas process.canvas",
+    "Pasted image 20240108143228.png",
+    "Projekta pārvaldība.md",
+    "Projekta plānošanas process.canvas",
+    "Riska pārvaldības process.canvas",
+    "Projektu plānošana.md",
+    "Riska pārvaldība.md",
+    "Persondienas.md",
+    "Personmēnešus.md",
     "Atteli/Pasted image 20240107210058.png",
     "Atteli/Pasted image 20240108133913.png",
     "Atteli/Pasted image 20240108132400.png",
     "qsm.com.md",
     "Atteli/Pasted image 20240108125017.png",
     "Atteli/Pasted image 20240108123846.png",
-    "Riska pārvaldība.md",
-    "Projekta plānošanas process.canvas",
     "Atteli/Pasted image 20240106235735.png",
     "Untitled Diagram.svg",
     "Untitled",
     "Atteli/Pasted image 20240107014650.png",
     "Atteli/Pasted image 20240107013536.png",
-    "Atteli/Pasted image 20240107013019.png",
-    "Laikplāna veidošanas process.canvas",
-    "Riska pārvaldības process.canvas",
     "Excalidraw/Drawing 2024-01-06 13.34.14.excalidraw.md",
     "Excalidraw/Drawing 2024-01-06 14.59.21.excalidraw.md",
     "Atteli",

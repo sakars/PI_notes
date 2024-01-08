@@ -88,7 +88,7 @@ Grupas biedrus jāizvēlas tā, lai palielinātu grupas efektivitāti.
 
 [[Projektu plānošana#Agile (spējās izstrādes) plānošana|Spējā izstrāde]] ir balstīta uz neformālu grupu, kas nodrošina vieglu informācijas pārnesi
 
-# Definīcijas, paskaidrojumi
+# Paskaidrojumi
 ## Pamata vajadzības
 - ēdiens
 - miegs

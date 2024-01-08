@@ -1,5 +1,4 @@
-> [!info] Definīcija
-> Darbietilpība (Effort) ir strādāšanas daudzums, kas vajadzīgs, lai pabeigtu [[Projektu plānošana#Aktivitāte darbs|darbu]]. To parasti mēra person-mēnešos (jeb mērvienībā *cilvēku skaits \* laiks, cik tie strādā*)
+![[Definīcijas#Darbietilpība (Effort)]]
 
 
 # Prognozēšana
@@ -28,17 +27,15 @@ Empīriskie modeļi paredz darbietilpību, salīdzinot to ar agrāko projektu ap
 > $b$ – empīriski noteikta eksponente
 
 ### COCOMO
-**COCOMO** (**CO**nstructive **CO**st **MO**del) jeb konstruktīvais izmaksu modelis (?) ir regresijas models, kas balstīts uz koda rindu skaita.
 
-Šis modelis ir labi piemērots uzticamai izmaksu, laika, apjoma un darbietilpības un kvalitātes aprēķināšanai.
-
-To oriģināli izveidoja Berijs Boēms (Barry Bohem) 1981. gadā. Tas ir balstīts uz 63 projektu pētījumu, kas to padara par vienu no vislabāk dokumentētajiem modeļiem.
+![[Definīcijas#COCOMO]]
 
 Vienkāršais COCOMO
+
 $$ \text{Darbietilpība}=a \cdot (\text{KLOC})^b$$
 $$\text{Laiks}=a \cdot (\text{Darbietilpība})^d$$
 $$\text{Vajadzīgais cilvēku skaits}=\frac{\text{Darbietilpība}}{\text{Laiks}}$$
-KLOC - Kilorindas koda.
+KLOC - [[Definīcijas#Pirmkoda rindas (Lines Of Code) (LOC)|Kilorindas koda]].
 
 | Projekta veids | a | b | c | d |
 | ---- | ---- | ---- | ---- | ---- |
@@ -53,6 +50,7 @@ KLOC - Kilorindas koda.
 **Iegults** – sarežģīts projekts, par kuru komandai ir maz zināšanu, tam vajag lielu radošumu. Šādai programmatūrai vajag lielu komandas izmēru, izstrādātājiem jābūt pieredzējušiem un radošiem, lai veidotu šāda līmeņa projektus.
 
 ### COCOMO II
+
 COCOMO II ir prognozēšanas modeļu hierarhija.
 
 - **Lietotņu kompozīcijas modelis** – tiek izmantots agrīnajos posmos, kad prototipē lietotāja saskarnes, plāno programmatūru, apskata jaudu, sistēmu mijiedarbību un tehnoloģijas briedumu.
@@ -67,6 +65,8 @@ $\text{Darbietilpība}=5.5+0.73 \cdot (\text{KLOC})^{1.16}$ – Beilija-Basili (
 $\text{Darbietilpība}=5.288 \cdot (\text{KLOC})^{1.047}$ – Doty modelis, ja $\text{KLOC}>9$
 
 ### Funkcionālie punkti (Function points (Albrecht))
+
+![[Definīcijas#Funkcionālie punkti (Function points)]]
 
 | Informācijas domēni | Skaits |  | Vienkāršais<br>reizinātājs | Vidējais<br>reizinātājs | Sarežģītais<br>reizinātājs |  | Kopā |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -105,6 +105,7 @@ Pieņemot visus $Fi=5$:
 $$\text{FP}=82 \cdot \left(0.65 + 0.01 \cdot 70 \right)=82 \cdot 1.35 = 110.7$$
 
 #### Funkcijas punktu modeļi
+
 Daži no FP modeļiem:
 - $\text{Darbietilpība}=-91.4+0.355 \cdot \text{FP}$ Albrehta un Gafneja (Albrecht and Gaffney) modelis
 - $\text{Darbietilpība}=-37+0.96 \cdot \text{FP}$ – Kemerera (Kemerer) modelis
@@ -147,8 +148,50 @@ $\text{Ph}$ – vidējais šāda veida apakšsistēmas lapu skaits uz izmantoša
 
 ## Objektu orientēta prognozēšana
 
+Objektu orientēta prognozēšana dala darbu objektos. Izmantojot prasības, modelē objektus, veido izmantošanas gadījumus. No analīzes modeļa nosaka galveno klašu skaitu. Kategorizē saskarnes veidus lietotnei un izveido reizinātāju atbalsta klasēm.
+
+| Saskarnes veids | Reizinātājs |
+| ---- | ---- |
+| Bez grafiskās saskarnes | 2.0 |
+| Tekstveida saskarne | 2.25 |
+| Grafiskā saskarne | 2.5 |
+| Sarežģīta grafiskā saskarne | 3.0 |
+
+Reizina galveno klašu skaitu ar reizinātāju, lai noteiktu atbalsta klašu skaitu. Kopējo klašu skaitu (galvenās + atbalsta) sareizina ar vidējo vajadzīgo darba vienību skaitu klasei. Lorenz un Kidd iesaka 15-20 persondienu uz klasi.
+
+Salīdzina klašu prognozi, reizinot vidējo darba vienību skaitu uz lietošanas veidu.
+
+## [[Projektu plānošana#Agile (spējās izstrādes) plānošana|Spējās izstrādes]] prognozēšana
+ 
+Katru lietotāja gadījumu (user scenario) jāvērtē atsevišķi prognozēšanai.
+
+Gadījumu sadala izstrādes darbu kopā, kurus vajadzēs, lai to izstrādātu.
+
+Katru darbu prognozē atsevišķi.
+
+> [!note] Piezīme
+> Prognozi var veikt pēc vēsturiskajiem datiem, empīriska modeļa, pieredzes.
+> Alternatīvi iespējams arī prognozēt darba "tilpumu". Tās būtu tādas metrikas kā pirmkoda rindas, funkcionālie punkti vai kas tml. 
+
+Visas prognozes summē, lai iegūtu kopējo darbietilpību.
+
+## Programmatūras vienādojums (Larry Putnam)
+
+Šis ir dinamisks vairāku mainīgo vienādojums, ar kuru prognozēt darbietilpību.
+
+$$\text{Darbietilpība}=\left[ \frac{\text{LOC} \cdot B^{0.333} }{P}\right]^3 \cdot \frac{1}{t^4}$$
+$t$ – projekta ilgums mēnešos vai gados
+$B$ – "īpašo prasmju reizinātājs"
+$P$ – "produktivitātes parametrs"
+
+## Programmatūras vienādojums (Lawrence Putnam)
+
+$$\text{Darbietilpība} = \left[ \frac{\text{Apjoms}}{\text{Produktivitāte} \cdot \text{Laiks}^{4/3}} \right]^3 \cdot B$$
+
 
 
 ## Automatizētie rīki
 
+# Darbietilpība un piegādes laiks
 
+![[Pasted image 20240108143228.png]]
