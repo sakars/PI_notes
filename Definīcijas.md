@@ -3,6 +3,13 @@
 
 # B
 
+## Baltās kastes testēšana (White-box tests)
+
+Testēšana, kura testē to, kā modulis strādā (zinot iekšējās darbības) jeb kvalitatīvus testus.
+
+Pretējais [[#Melnās kastes testēšana (Black-box testing)|Melnās kastes testēšanai]]
+
+
 # C
 ## CASE
 **C**omputer **A**ided **S**oftware **E**ngineering
@@ -69,6 +76,14 @@ Laiks, kas apzīmē darbiem vajadzīgo laiku vai saraksts, kas satur visus vajad
 # Ļ
 
 # M
+
+## Melnās kastes testēšana (Black-box testing)
+
+Testēšanas veids, kurā pārbauda moduļa darbību, nezinot kā tas strādā. Šie testi ir kvantitatīvi.
+
+Pretējais [[#Baltās kastes testēšana (White-box tests)|Baltās kastes testēšanai]]
+
+
 # N
 
 ## Nodevumi (Deliverables)
@@ -124,5 +139,9 @@ Punkts [[Projektu plānošana#Laikplānošana|laikplānā]] pēc kura var izvēr
 # U
 # Ū
 # V
+
+## Vienībtestēšana (Unit testing)
+
+Programmatūras testi, kas pārbauda kāda moduļa funkcionalitāti. Parasti tie ir īsi testi, kas verificē moduļa atbilstību prasībām.
 # Z
 # Ž

@@ -7,6 +7,18 @@
 
 Ar agrāko pieredzi ir iespējams prognozēt darbietilpību. Šis nav uzticams veids un ir ļoti atkarīgs no pārvaldnieka pieredzes.
 
+Parasti nosaka [[Definīcijas#Nodevumi (Deliverables)|nodevumus]] un saliek izklājlapā. Tos prognozē individuāli un aprēķina kopējo darbietilpību.
+
+Parasti noder šo darīt grupā, katram grupas biedram paskaidrojot savu prognozi.
+
+> [!danger] Problēmas
+> - Ir grūti prognozēt projektus, kuriem nav daudz kopīga ar iepriekšējiem projektiem.
+> - Programmatūra strauji attīstās, kas nozīmē, ka projekts lietos jaunas, vēl neizpētītas tehnoloģijas.
+> - Ja neesi strādājis ar šīm tehnoloģijām, iepriekšēja pieredze nedos precīzas prognozes.
+
+
+
+
 ## Darbu skaldīšana un darbietilpības prognozes
 
 Darbu skaldīšana padara prognozes uzticamākas, jo maziem darbiem prognozes kļūda ir mazāka.
@@ -195,3 +207,18 @@ $$\text{Darbietilpība} = \left[ \frac{\text{Apjoms}}{\text{Produktivitāte} \cd
 # Darbietilpība un piegādes laiks
 
 ![[Pasted image 20240108143228.png]]
+
+# Darbietilpības iedalījums
+
+- 40-50% darbietilpības veltīts "priekšpuses" aktivitātēm
+	- Komunikācija ar klientu
+	- Analīze
+	- Dizains
+	- Analīze un mainīšana
+- 15-20% veltīts veidošanas aktivitātēm
+	- Kodēšana/programmēšana
+- 30-40% veltīts testēšanai un uzstādīšanai
+	- [[Definīcijas#Vienībtestēšana (Unit testing)|vienībtestēšana]]
+	- [[Definīcijas#Baltās kastes testēšana (White-box tests)|baltās kastes testēšana]]
+	- [[Definīcijas#Melnās kastes testēšana (Black-box testing)|melnās kastes testēšana]]
+	- regresija
