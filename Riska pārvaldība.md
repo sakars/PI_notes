@@ -20,7 +20,7 @@
 | Aparatūras trūkums | Projektu<br>Produktu | Aparatūru nevar piegādāt laikā |
 | Prasību maiņa | Projektu<br>Produktu | Prasības mainās vairāk nekā domāts |
 | Apjoma kļūda | Projektu | Projekts ir lielāks nekā domāts |
-| [[Definīcijas#CASE\|CASE]] rīku spējas trūkums | Produktu | Atbalstošā programmatūra nedarbojas tik jaudīgi kā cerēts |
+| [[Definīcijas#CASE\|CASE]] rīku spējas trūkums | Produktu | Atbalstošā programmatūra nedarbojas tik veiktspējīgi kā cerēts |
 | Tehnolģiju izmaiņa | Biznesa | Tehnoloģijas kļūst novecojušas. |
 | Produkta sācensība | Biznesa | Sācensis tiek izziņots pirms sistēmu pabeidz |
 
@@ -50,7 +50,7 @@ Parasti dalās dažādu veidu riskos
 | Cilvēku | Vāja motivācija, sliktas attiecības komandā. Bieža darbinieku maiņa |
 | Prasību | Biežas prasību maiņas, klientu sūdzības |
 | Aplēšu | Nespēja iekļauties laika plānā. Nespēja tikt vaļā no defektiem |
-| Rīku | Komandas nevēlēšanās lietot rīkus, sūdzēšanās par [[Definīcijas#CASE\|CASE]] rīkiem, vēlmes jaudīgākām darba stacijām. |
+| Rīku | Komandas nevēlēšanās lietot rīkus, sūdzēšanās par [[Definīcijas#CASE\|CASE]] rīkiem, vēlmes veiktspējīgākām darba stacijām. |
 
 
 # Risku analīze
@@ -110,7 +110,7 @@ Katru risku jāapsver un jārada stratēģija riska pārvaldīšanai
 | Defektīvas komponentes | Aizvietot defektīvās komponentes ar uzticamākām komponentēm. |
 | Prasību maiņas | Izsekot potenciālām izmaiņām, lai izvērtētu ietekmi. |
 | Organizācijas pārstrukturēšana | Gatavot dokumentu pārvaldībai, lai norādītu kā projekts palīdz sasniegt uzņēmuma mērķus. |
-| Datubāzes jauda | Izpētīt augstākas jaudas risinājumus |
+| Datubāzes veiktspēja | Izpētīt augstākas veiktspējas risinājumus |
 | Nenovērtēts izstrādes laiks | Izpētīt iepērkamas komponentes un izpētīt programmatūras veidošanas rīkus. |
 
 # Risku uzraudzība
@@ -130,7 +130,7 @@ Vienlaicīgi arī [[Projektu plānošana|jāpārplāno]] projekts. Tas var nozī
 Ietver laika plānu un resursus 
 
 ## Produktu riski
-Ietver kvalitāti un produkta jaudu
+Ietver kvalitāti un produkta veiktspēju
 
 ## Biznesa riski
 Ietver organizatoriskos jautājumus veidojot programmatūru
@@ -138,7 +138,7 @@ Ietver organizatoriskos jautājumus veidojot programmatūru
 
 
 ## Tehnoloģiju riski
-- Datubāze nespēj nodrošināt vajadzīgo jaudu
+- Datubāze nespēj nodrošināt vajadzīgo veiktspēju
 - Vairāklietojamās komponentēs ir defekti, kas neļauj tos lietot.
 
 ## Rīku riski

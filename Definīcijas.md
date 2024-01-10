@@ -59,6 +59,10 @@ Funkcionālie punkti ir mērvienība, kas apzīmē konkrētu daudzumu funkcional
 # J
 
 # K
+
+## Kvalitātes dokumentācija (Quality documentation)
+
+[[Kvalitātes pārvaldība|Kvalitātes pārvaldībā]] izmantots progresa un izstrādi aprakstošs saraksts, kas atbalsta izstrādes procesu izstrādes komandas sastāva maiņas gadījumā. 
 ## Kvalitātes kontrole (Quality control)
 
 [[#Kvalitātes nodrošināšana (Quality assurance)|Kvalitātes  nodrošināšanā]] definēto procesu un standartu **pielietošana**, lai filtrētu produktus, kas neatbilst prasītajai kvalitātei.
@@ -106,6 +110,7 @@ Produkti, kurus atdod klientam, piemēram, prasību dokuments sistēmai.
 # O
 
 # P
+
 ## Persondiena/Personmēnesis (Person-days/Person-months)
 Mērvienība, kas apraksta [[#Darbietilpība (Effort)|darbietilpību]]. Tā apzīmē darbu, ko noteikts daudzums cilvēku var paveikt noteiktā laikā.
 
@@ -117,6 +122,12 @@ Mērvienība, kas apraksta [[#Darbietilpība (Effort)|darbietilpību]]. Tā apz�
 Apjoma mērvienība, kas rindu skaitu pirmkodā. Lielus projektus mēra kilorindās (KLOC)
 
 Saīsina arī uz SLOC (source lines of code)
+
+## Programmatūras kvalitāte (Software quality)
+
+Programmatūras kvalitāte vienkāršoti nozīmē, ka produkts atbilst specifikācijai, taču kvalitāte ir termins, kas krasi atšķiras izstrādātājiem (atkārtota izmantojamība, uzturamība u.c.) un klientiem (veiktspēja, uzticamība u.c.)
+
+Skatīt [[Kvalitātes pārvaldība#Programmatūras kvalitāte]]
 
 # R
 # Risks (Risk)
@@ -150,6 +161,10 @@ Punkts [[Projektu plānošana#Laikplānošana|laikplānā]] pēc kura var izvēr
 # U
 # Ū
 # V
+
+## Veiktspēja (performance)
+
+Rādītājs, kas norāda cik "labi" kāds cilvēks, iekārta vai programmatūra darbojas.
 
 ## Vienībtestēšana (Unit testing)
 

@@ -45,4 +45,78 @@ Kvalitātes plāniem vajadzētu būt maziem, kodolīgiem dokumentiem.
 
 
 # Kvalitātes pārvaldības apjoms
-Kvalitātes pārvaldība ir īpaši svarīga lieliem projektiem un sarežģītām
+Kvalitātes pārvaldība ir īpaši svarīga lieliem projektiem un sarežģītām sistēmām. 
+
+Mazākām sistēmām kvalitātes komandai būtu jākoncentrējas uz kvalitātes kultūras veidošanu, nevis dokumentāciju.
+
+Ja izmanto [[Definīcijas#Spējā izstrāde (Agile)|spējo izstrādi]], kvalitātes nodrošināšanas paņēmieniem **ir obligāti jāattīstās**.
+
+# Programmatūras kvalitāte
+
+![[Definīcijas#Programmatūras kvalitāte (Software quality)]]
+
+Daudzas kvalitātes prasības ir grūti norādīt nepārprotamā veidā. 
+
+Parasti specifikācijas ir nepabeigtas un mēdz būt pretrunā.
+
+Jākoncentrējas būtu uz jēdzīgumu (?) (fitness for purpose) nekā striktu atbilstību specifikācijai.
+
+Galvenie jēdzīguma rādītāji:
+- Vai programmatūra ir pietiekami testēta?
+- Vai programmatūra ir pietiekami uzticama, lai to izmantotu?
+- Vai programmatūras veiktspēja ir pietiekama?
+- Vai programmatūra ir lietojama
+- Vai programmatūra ir labi strukturēta un izprotama?
+- Vai programmatūras izstrādes laikā tika izmantoti programmēšanas un dokumentēšanas standarti?
+
+Nefunkcionālās īpašības – lietotāja pieredze. Ja lietotājam ar programmatūru ir slikta pieredze un funkcionalitāte nav tāda, kādu sagaida, lietotāji parasti centīsies atrast citus veidus, kā izdarīt to, ko vēlas. Ja programmatūra ir pārāk neuzticama vai lēna, lietotājiem ir praktiski neiespējami sasniegt savus mērķus.
+
+## Galvenās kvalitātes īpašības
+
+- Nekaitīgums/nebīstamība (Safety)
+- Drošība (Security)
+- Uzticamība (Reliability)
+- Noturība (Resilience)
+- Robustums/plaša lietojamība (Robustness)
+- Saprotamība (Understandability)
+- Testējamība (Testability)
+- Pielāgojamība (Adaptability)
+- Modularitāte (Modularity)
+- Sarežģītība (Complexity)
+- Pārvietojamība/pārnesamība (Portability)
+- Viegla lietojamība (Usability)
+- Atkārtota lietojamība/Atkalizmantojamība (Reusability)
+- Efektivitāte/veiktspēja (Efficiency)
+- Iemācīties spēja/mācāmība (Learnability)
+
+> [!warning] Atceries
+> Nav iespējams sistēmu optimizēt pēc visām īpašībām. Kā piemēram, palielinot plašu lietojamību var tikt samazināta veiktspēja.
+
+Kvalitātes plānam vajadzētu definēt svarīgākās īpašības izstrādājamai programmatūrai.
+
+Plānā arī jāiekļauj kvalitātes novērtēšanas procesu – veidu, kā novērtēt kādas īpašības izpausmi produktā.
+
+Produkta kvalitāti ietekmē izstrādes procesa kvalitāte.
+Tas ir svarīgi, jo tas sniedz veidu, kā nodrošināt kvalitāti tādām īpašībām, kurām "pa taisno" kvalitāti izvērtēt nevar.
+
+Taču saikne starp izstrādi un kvalitāti ir ļoti sarežģīta un slikti izprasta.
+
+- Īpaši svarīgas ir individuālās prasmes un pieredze.
+- Ārējie faktori, kā neatpazīstamība var negatīvi ietekmēt kvalitāti.
+
+## Uz procesiem balstīta kvalitāte
+
+1. Tiek definēts izstrādes process.
+2. Izstrādā produktu
+3. Izvērtē kvalitāti
+4. Vai kvalitāte ir laba?
+	a) Jā => procesu standartizē
+	b) Nē => uzlabo procesu, atgriežas 2. solī
+
+## Kvalitātes kultūra
+
+Kvalitātes pārvaldniekiem būtu jāmēģina panākt "kvalitātes kultūras" veidošanos, kur katrs ir atbildīgs un gatavs radīt augstas kvalitātes produktu.
+
+Ir jāiedrošina komandām uzņemties atbildību un radīt jaunas pieejas kvalitātes uzlabošanā.
+
+Ir jāatbalsta tie, kas ir ieinteresēti netaustāmajos kvalitātes aspektos un iedrošināt profesionālu uzvedību visiem komandas biedriem.

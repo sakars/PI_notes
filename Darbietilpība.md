@@ -65,7 +65,7 @@ KLOC - [[Definīcijas#Pirmkoda rindas (Lines Of Code) (LOC)|Kilorindas koda]].
 
 COCOMO II ir prognozēšanas modeļu hierarhija. Tas ir daudz nobriedušāks modelis nekā COCOMO
 
-- **Lietotņu kompozīcijas modelis** – tiek izmantots agrīnajos posmos, kad prototipē lietotāja saskarnes, plāno programmatūru, apskata jaudu, sistēmu mijiedarbību un tehnoloģijas briedumu.
+- **Lietotņu kompozīcijas modelis** – tiek izmantots agrīnajos posmos, kad prototipē lietotāja saskarnes, plāno programmatūru, apskata veiktspēju, sistēmu mijiedarbību un tehnoloģijas briedumu.
 - **Agrīnā dizaina posma modelis** – lietots, kad prasības ir nostabilizētas un pamata projekta arhitektūra ir nodibināta.
 - **Pēc arhitektūras posma modelis** – lietots programmatūras izstrādes laikā
 ### Citi modeļi
@@ -94,7 +94,7 @@ $Fi \ (i = 1 \text{ to } 14)$  – vērtības koriģēšanas faktori, kas ir bal
 1. Vai sistēmai vajadzīga uzticama rezervju sistēma un atgūšana?
 2. Vai lietotnei vajadzīga īpaša datu pārnese?
 3. Vai ir izkliedēta apstrāde?
-4. Vai vajadzīga jauda?
+4. Vai vajadzīga veiktspēja?
 5. Vai sistēma darbosies eksistējošā, smagi izmantotā vidē?
 6. Vai sistēmai vajadzīga tiešsaistes datu ievade?
 7. Vai tiešsaistes datu ievadei vajadzīgi vairāki logi vai darbības?
