@@ -119,7 +119,7 @@ Svarīgākie lēmumi, domājot, vai komponenti izstrādāt, vai iepirkt:
 | [[Konfigurācijas pārvalde\|Konfigurācijas pārvaldes]] plāns | Apraksta Konfigurācijas pārvaldes procedūras un struktūras |
 | Izmantošanas plāns | Paskaidro, kā programmatūru izmantos klienta vidē. Tas iekļauj arī plānu kā migrēt eksistējošo sistēmu datus. |
 | Uzturēšanas plāns | Paredz uzturēšanas prasības, izmaksas un [[Darbietilpība\|darbietilpību]]. |
-| [[Kvalitātes plānošana\|Kvalitātes plāns]] | Apraksta kvalitātes procedūras un standartus, kas tiks izmantoti projektā |
+| [[Kvalitātes pārvaldība#Kvalitātes plānošana\|Kvalitātes plāns]] | Apraksta kvalitātes procedūras un standartus, kas tiks izmantoti projektā |
 | Validācijas plāns | Apraksta pieeju, resursus un laikplānu kā validēt sistēmu. |
 
 ## Plānošanas process
@@ -203,7 +203,7 @@ Apzīmē darbus, kā arī kad un cik ilgi tos jādara. ^3fjkyt
 
 ![[Pasted image 20240107013536.png]]
 
-Šī ir līdzīga [[#Laikjoslas tabulas - Ganta diagrammas|Ganta diagrammai]], taču arī iekļauj [[#Šķirtne (Milestone)|šķirtnes]] un to darbus, kuriem jābūt izpildītiem.
+Šī ir līdzīga [[#Laikjoslas tabulas - Ganta diagrammas|Ganta diagrammai]], taču arī iekļauj [[Definīcijas#Šķirtne (Milestone)|šķirtnes]] un to darbus, kuriem jābūt izpildītiem.
 
 ## Darbinieku sadalījuma diagramma
 
@@ -268,7 +268,7 @@ Ja kāda funkcionalitāte netiek paveikta atvēlētajā laikā, tiek samazināts
 ## Otrā daļa
 - Paredzēt [[#Cenošana|cenu]] un [[Darbietilpība|darbietilpību]]
 	- "Skaldi un valdi" problēmu
-	- Veido 2 vai vairākus minējumus izmantojot apjomu, [[funkcijas punktus]], [[Projektu plānošana#Aktivitāte darbs|darbus]], [[Lietošanas piemērs|lietošanas piemērus (use cases)]]
+	- Veido 2 vai vairākus minējumus izmantojot apjomu, [[Definīcijas#Funkcionālie punkti (Function points)|funkcionālos punktus]], [[Projektu plānošana#Aktivitāte darbs|darbus]], lietošanas piemērus (use cases)
 	- Apvieno minējumus, gūstot kopēju priekšstatu
 - Izveido [[#Laikplānošana|laikplānu]]
 	- Veido jēdzīgu darbu sarakstu

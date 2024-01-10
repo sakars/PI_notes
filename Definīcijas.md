@@ -59,7 +59,18 @@ Funkcionālie punkti ir mērvienība, kas apzīmē konkrētu daudzumu funkcional
 # J
 
 # K
+## Kvalitātes kontrole (Quality control)
 
+[[#Kvalitātes nodrošināšana (Quality assurance)|Kvalitātes  nodrošināšanā]] definēto procesu un standartu **pielietošana**, lai filtrētu produktus, kas neatbilst prasītajai kvalitātei.
+
+Nesajaukt ar [[#Kvalitātes nodrošināšana (Quality assurance)]]
+Skatīt [[Kvalitātes pārvaldība]]
+## Kvalitātes nodrošināšana (Quality assurance)
+
+Procesi un standarti, kuriem *vajadzētu* rezultēties augstas kvalitātes produktos, kā arī šo procesu un standartu ieviešana izstrādes procesā.
+
+Nesajaukt ar [[#Kvalitātes kontrole (Quality control)]]
+Skatīt [[Kvalitātes pārvaldība]]
 # Ķ
 
 # L

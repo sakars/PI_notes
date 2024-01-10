@@ -3,7 +3,6 @@
 Parasti pārvaldnieka darbi ir cilvēku orientēti. Tas nozīmē, ka **bez sapratnes, pārvaldība būs neizdevusies**.
 
 Slikta pārvaldība rezultējas neizdevušā projektā.
-
 # Galvenās īpašības
 - Konsekvence
 	- Visus komandas biedrus jāuztver vienlīdzīgi
