@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-10.md",
+                "file": "Daily notes/08.01.2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78932ce096286069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/10.01.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e30c7413e9aee922",
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-10.md",
+                "file": "Daily notes/10.01.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-10.md",
+                "file": "Daily notes/10.01.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-10.md"
+                "file": "Daily notes/10.01.2024.md"
               }
             }
           },
@@ -156,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,16 +186,17 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "f9203003021d2e2a",
+  "active": "78932ce096286069",
   "lastOpenFiles": [
+    "Daily notes/08.01.2024.md",
+    "Daily notes/10.01.2024.md",
+    "Daily notes",
     "Kvalitātes pārvaldība.md",
-    "2024-01-10.md",
     "Definīcijas.md",
     "broken links output.md",
     "Riska pārvaldība.md",
     "Darbietilpība.md",
     "Projektu plānošana.md",
-    "2024-01-08.md",
     "Humoriņi.md",
     "Cilvēku pārvaldība.md",
     "Pasted image 20240108174239.png",
@@ -202,7 +215,6 @@
     "Atteli/Pasted image 20240108123846.png",
     "Atteli/Pasted image 20240106235735.png",
     "Untitled Diagram.svg",
-    "Untitled",
     "Atteli/Pasted image 20240107014650.png",
     "Excalidraw/Drawing 2024-01-06 13.34.14.excalidraw.md",
     "Excalidraw/Drawing 2024-01-06 14.59.21.excalidraw.md",
