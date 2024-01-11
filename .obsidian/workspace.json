@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISO 9001.md",
+                "file": "Kvalitātes pārvaldība.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISO 9001.md",
+                "file": "Kvalitātes pārvaldība.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISO 9001.md",
+                "file": "Kvalitātes pārvaldība.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISO 9001.md"
+                "file": "Kvalitātes pārvaldība.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,13 +173,14 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "bbab987219388919",
+  "active": "8594ba9eb49c38c9",
   "lastOpenFiles": [
-    "Atteli/Pasted image 20240111131436.png",
     "ISO 9001.md",
+    "Definīcijas.md",
+    "Atteli/Pasted image 20240111132407.png",
+    "Atteli/Pasted image 20240111131436.png",
     "Kvalitātes pārvaldība.md",
     "Cilvēku pārvaldība.md",
-    "Definīcijas.md",
     "Projektu plānošana.md",
     "Daily notes/10.01.2024.md",
     "Daily notes/08.01.2024.md",
@@ -189,7 +190,7 @@
     "broken links output.md",
     "Riska pārvaldība.md",
     "Humoriņi.md",
-    "Pasted image 20240108174239.png",
+    "Atteli/Pasted image 20240108174239.png",
     "Laikplāna veidošanas process.canvas",
     "Atteli/Pasted image 20240108143228.png",
     "Projekta plānošanas process.canvas",
@@ -203,8 +204,6 @@
     "Atteli/Pasted image 20240108125017.png",
     "Atteli/Pasted image 20240108123846.png",
     "Atteli/Pasted image 20240106235735.png",
-    "Untitled Diagram.svg",
-    "Atteli/Pasted image 20240107014650.png",
     "Excalidraw/Drawing 2024-01-06 13.34.14.excalidraw.md",
     "Excalidraw/Drawing 2024-01-06 14.59.21.excalidraw.md",
     "Atteli",
