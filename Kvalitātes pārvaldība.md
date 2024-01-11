@@ -120,3 +120,51 @@ Kvalitātes pārvaldniekiem būtu jāmēģina panākt "kvalitātes kultūras" ve
 Ir jāiedrošina komandām uzņemties atbildību un radīt jaunas pieejas kvalitātes uzlabošanā.
 
 Ir jāatbalsta tie, kas ir ieinteresēti netaustāmajos kvalitātes aspektos un iedrošināt profesionālu uzvedību visiem komandas biedriem.
+
+## Programmatūras standarti
+
+![[Definīcijas#Programmatūras standarts (Software standard)]]
+
+Labās prakses enkapsulācija standartos izvairās no kļūdu pieļaušanas nākotnē.
+
+Tie ir kā ietvars, lai definētu ko konkrētā gadījumā nozīmē kvalitāte – ko uzņēmums uzskata par kvalitāti.
+
+Pēc standartiem jaunpienākošais darbaspēks var vadīties, lai ātrāk atsāktu darbu.
+
+### Produkta un procesa standarti
+
+![[Definīcijas#Produkta standarti (Product standards)]]
+
+![[Definīcijas#Procesa standarti (Process standards)]]
+
+**Piemēri**
+
+| Produkta standarti | Procesa standarti |
+| ---- | ---- |
+| Dizaina apskata veidlapa | Dizaina apskates kārtība |
+| Prasību dokumenta struktūra | Jauna koda iesniegšana sistēmas pilnveidošanai |
+| Metožu galveņu formatējums | Versiju izlaides process |
+| Programmēšanas stils | Projekta plāna apstiprināšanas process |
+| Projekta plāna formāts | Izmaiņu kontroles process |
+| Izmaiņu pieprasījuma veidlapa | Testu reģistrēšanas process |
+
+### Problēmas ar standartiem
+
+- Standartus ne vienmēr uztvers kā mūsdienīgus un attiecināmus.
+- Bieži iekļauj daudz birokrātijas.
+- Ja rīki slikti atbalsta standartus, standarti var prasīt laikietilpīgu veidlapu aizpildīšanu, lai uzturētu standartu definēto dokumentāciju.
+
+
+### Standartu izstrāde
+
+- Iekļaut praktikantus izstrādē. Izstrādātājiem jāizprot standartu jēga.
+- Regulāri pārskatīt standartus un to izmantošanu. Tie strauji var kļūt novecojuši un tas samazina to uzticamību (credibility).
+- Detalizētiem standartiem vajadzētu būt izstrādātiem specializētiem rīkiem. Pārmērīga birokrātija ir visu standartu problēma.
+
+> [!warning] Uzmanību
+> Uz pārlūku balstītas programmas nav pietiekamas.
+
+[[ISO 9001|ISO 9001 – Ietvars kvalitātes standartu izstrādei]]
+
+
+

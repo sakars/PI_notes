@@ -116,7 +116,7 @@ Svarīgākie lēmumi, domājot, vai komponenti izstrādāt, vai iepirkt:
 >
 | Plāns | Apraksts |
 | ---- | ---- |
-| [[Konfigurācijas pārvalde\|Konfigurācijas pārvaldes]] plāns | Apraksta Konfigurācijas pārvaldes procedūras un struktūras |
+| [[Konfigurācijas pārvaldība\|Konfigurācijas pārvaldības]] plāns | Apraksta Konfigurācijas pārvaldes procedūras un struktūras |
 | Izmantošanas plāns | Paskaidro, kā programmatūru izmantos klienta vidē. Tas iekļauj arī plānu kā migrēt eksistējošo sistēmu datus. |
 | Uzturēšanas plāns | Paredz uzturēšanas prasības, izmaksas un [[Darbietilpība\|darbietilpību]]. |
 | [[Kvalitātes pārvaldība#Kvalitātes plānošana\|Kvalitātes plāns]] | Apraksta kvalitātes procedūras un standartus, kas tiks izmantoti projektā |

@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "f9203003021d2e2a",
+            "id": "bbab987219388919",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/08.01.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78932ce096286069",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/10.01.2024.md",
+                "file": "ISO 9001.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/10.01.2024.md",
+                "file": "ISO 9001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/10.01.2024.md",
+                "file": "ISO 9001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/10.01.2024.md"
+                "file": "ISO 9001.md"
               }
             }
           },
@@ -168,11 +155,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,23 +173,25 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "78932ce096286069",
+  "active": "bbab987219388919",
   "lastOpenFiles": [
-    "Daily notes/08.01.2024.md",
-    "Daily notes/10.01.2024.md",
-    "Daily notes",
+    "Atteli/Pasted image 20240111131436.png",
+    "ISO 9001.md",
     "Kvalitātes pārvaldība.md",
+    "Cilvēku pārvaldība.md",
     "Definīcijas.md",
+    "Projektu plānošana.md",
+    "Daily notes/10.01.2024.md",
+    "Daily notes/08.01.2024.md",
+    "Projekta pārvaldība.md",
+    "Darbietilpība.md",
+    "Daily notes",
     "broken links output.md",
     "Riska pārvaldība.md",
-    "Darbietilpība.md",
-    "Projektu plānošana.md",
     "Humoriņi.md",
-    "Cilvēku pārvaldība.md",
     "Pasted image 20240108174239.png",
     "Laikplāna veidošanas process.canvas",
     "Atteli/Pasted image 20240108143228.png",
-    "Projekta pārvaldība.md",
     "Projekta plānošanas process.canvas",
     "Riska pārvaldības process.canvas",
     "Persondienas.md",

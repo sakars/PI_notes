@@ -123,12 +123,41 @@ Apjoma mērvienība, kas rindu skaitu pirmkodā. Lielus projektus mēra kilorind
 
 Saīsina arī uz SLOC (source lines of code)
 
+
+## Procesa standarti (Process standards)
+
+Procesa standarti ir standarti, kas attiecināmi uz izstrādes procesiem, pie kuriem jāpieturas izstrādes laikā. 
+Tie iekļauj:
+- specifikācijas
+- dizainus
+- validēšanas procesus
+- atbalsta rīkus
+- dokumentus, kurus izstrādes laikā jāveido
+
+Skat. [[Kvalitātes pārvaldība#Programmatūras standarti]]
+
+## Produkta standarti (Product standards)
+
+Produkta standarti ir standarti, kas attiecināmi uz produktu, kuru izstrādā.
+- Dokumentu standarti
+- Dokumentācijas standarti
+- Kodēšanas standarti
+
+Skat. [[Kvalitātes pārvaldība#Programmatūras standarti]]
+
 ## Programmatūras kvalitāte (Software quality)
 
 Programmatūras kvalitāte vienkāršoti nozīmē, ka produkts atbilst specifikācijai, taču kvalitāte ir termins, kas krasi atšķiras izstrādātājiem (atkārtota izmantojamība, uzturamība u.c.) un klientiem (veiktspēja, uzticamība u.c.)
 
 Skatīt [[Kvalitātes pārvaldība#Programmatūras kvalitāte]]
 
+## Programmatūras standarts (Software standard)
+
+Programmatūras standarti definē prasītās īpašības vai procesus, lai nodrošinātu programmatūras kvalitāti.
+
+Standarti var būt dažādu līmeņu – starptautiski, nacionāli, organizatoriski, projektu.
+
+Skatīt [[Kvalitātes pārvaldība#Programmatūras standarti]]
 # R
 # Risks (Risk)
 
