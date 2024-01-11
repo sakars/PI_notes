@@ -167,4 +167,46 @@ Pēc standartiem jaunpienākošais darbaspēks var vadīties, lai ātrāk atsāk
 [[ISO 9001|ISO 9001 – Ietvars kvalitātes standartu izstrādei]]
 
 
+# Programmatūras kvalitāte un CMM (Capability Maturity Model)
 
+Pēc CMM, kvalitāte parasti aug pa brieduma līmeņiem. Jo augstāks briedums, jo labāka kvalitāte/produktivitāte izmantojot produktu.
+
+| Līmeņa nr. | Līmenis | CMMI-DEV v1.3 Procesu zonas |
+| ---- | ---- | ---- |
+| 5 | Optimizēšana | - Organizatorisko procesu pārvaldība<br>- Cēloņu analīze un atrisināšana |
+| 4 | Kvantitatīvi pārvaldīts | - Organizatorisko procesu veiktspēja<br>- Kvantitatīvā projekta pārvaldība |
+| 3 | Definēts | - Prasību izstrāde<br>- Tehniskais risinājums<br>- Produkta integrācija<br>- [[Definīcijas#Verifikācija (Verification)\|Verifikācija]]<br>- [[Definīcijas#Validācija (Validation)\|Validācija]]<br>- Organizatorisko procesu fokuss (?)<br>- Organizatorisko procesu definīcija<br>- Organizatoriskās apmācības<br>- Integrēta projekta pārvaldība<br>- [[Riska pārvaldība]]<br>- Lēmumu analīze un izpilde |
+| 2 | Pārvaldīts | - Prasību pārvaldība<br>- [[Projektu plānošana]]<br>- [[Projekta pārvaldība\|Projekta pārvaldība un uzraudzīšana]]<br>- Piegādātāja pārvaldība<br>- Mērījumi un analīze<br>- Procesu un produkta [[Definīcijas#Kvalitātes nodrošināšana (Quality assurance)\|kvalitātes nodrošināšana]]<br>- [[Konfigurācijas pārvaldība]] |
+| 1 | Sākuma | – |
+
+# Apskates un inspekcijas (Reviews and inspections)
+
+Inspekciju gaitā grupa apskata daļu vai **visu** procesu vai sistēmu, kā arī tā dokumentāciju, lai atrastu potenciālas problēmas.
+
+Programmatūru un dokumentus ir jāapstiprina, kas apliecina, ka nākamā izstrādes posma sākšana tika apstiprināta no pārvaldības.
+
+Apskatēm ir dažādi veidi:
+- Defektu noņemšana (Produkts)
+- Progresa izvērtēšana (Produkts un Process)
+- Kvalitātes apskate (Produkts un standarti)
+
+## Izmantotā [[Darbietilpība|darbietilpība]] ar vai bez apskatēm
+
+![[Pasted image 20240111151030.png]]
+
+## Neformālās apskates
+
+- Pie galda īsi apskata produktu
+- Maza neformāla sanāksme pārrunājot produktu
+- Uz apskati orientēta [[Definīcijas#Pāru programmēšana (Pair programming)|pāru programmēšana]]
+
+## Formālas tehniskās apskates
+
+Šāda veida apskatu mērķi ir:
+- atklāt kļūdas funkcijā, loģikā vai implementācijā programmatūrai
+- verificēt programmatūru
+- nodrošināt, ka programmatūra ir atspoguļota pēc standartiem
+- panākt programmatūras vienotā veidā
+- padarīt projektus pārvaldāmākus
+
+Formālajās tehniskajās apskatēs ietilpst iziešanas cauri (walkthrough) un inspekcijas.

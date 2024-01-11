@@ -110,6 +110,11 @@ Produkti, kurus atdod klientam, piemēram, prasību dokuments sistēmai.
 # O
 
 # P
+## Pāru programmēšana (Pair programming)
+
+Programmēšanas veids, kurā programmē vienlaicīgi 2 cilvēki pie viena datora. Viens raksta kodu, otrs pārlūko uzrakstīto un izsaka ieteikumus. Pēc kāda laika abi apmainās.
+
+Šī metode dod priekšrocību, ka kļūdas var tikt atrastas ātrāk un tādējādi tiek uzlabota produkta kvalitāte.
 
 ## Persondiena/Personmēnesis (Person-days/Person-months)
 Mērvienība, kas apraksta [[#Darbietilpība (Effort)|darbietilpību]]. Tā apzīmē darbu, ko noteikts daudzums cilvēku var paveikt noteiktā laikā.
@@ -190,13 +195,27 @@ Punkts [[Projektu plānošana#Laikplānošana|laikplānā]] pēc kura var izvēr
 # U
 # Ū
 # V
+## Validācija (Validation)
+
+Process, kurā, sadarbojoties ar klientu tiek pārbaudīta produkta atbilstība vēlmēm. Ja vēlmēm neatbilst, tad vēlmes tiek precizētas prasībās.
+
+Notiek pēc [[#Verifikācija (Verification)|verifikācijas]]
 
 ## Veiktspēja (performance)
 
 Rādītājs, kas norāda cik "labi" kāds cilvēks, iekārta vai programmatūra darbojas.
+## Verifikācija (Verification)
+
+Process, kurā produkts tiek pārbaudīts pret prasību specifikāciju vai konkrētā etapa sākumā definētajām prasībām.
+
+Notiek pirms [[#Validācija (Validation)|validācijas]]
 
 ## Vienībtestēšana (Unit testing)
 
 Programmatūras testi, kas pārbauda kāda moduļa funkcionalitāti. Parasti tie ir īsi testi, kas verificē moduļa atbilstību prasībām.
+
+
+
+
 # Z
 # Ž
