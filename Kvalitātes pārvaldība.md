@@ -210,3 +210,60 @@ Apskatēm ir dažādi veidi:
 - padarīt projektus pārvaldāmākus
 
 Formālajās tehniskajās apskatēs ietilpst iziešanas cauri (walkthrough) un inspekcijas.
+
+## Apskates sanāksme (Review meeting)
+
+Parasti apskates sanāksmēs ir 3-5 cilvēki.
+
+Katram būtu jāsagatavojas sanāksmei, taču **ne vairāk par 2 stundām uz cilvēku**.
+
+Sanāksmei nevajadzētu būt garākai par 2 stundām.
+
+Galvenā tēma ir darba radītais produkts (piemēram konkrētas prasības, detalizēts komponentes dizains, komponentes pirmkods)
+
+Galvenās sanāksmes lomas:
+- **Režisors** – tas, kurš radīja produktu, viņš paziņo projekta līderim, ka konkrētais darbs ir paveikts un ir gatavs apskatei.
+- **Apskates līderis** – apskata produktu un novērtē tā gatavību, veido produkta materiālu kopijas un izdala **Apskatītājiem**.
+- **Apskatītāji** (reviewers) – pavada vienu līdz divām stundām apskatot produktu, veicot pierakstus un iepazīstas ar radīto darbu.
+- **Pierakstītājs** – **Apskatītājs**, kurš pieraksta visas svarīgākās problēmas, kas radušās ar darbu apskates laikā.
+
+## Apskates process
+
+- Apskatīt **produktu**, ne tā veidotāju.
+- Izveidot apskates plānu un pie tā pieturēties.
+- Ierobežot diskusijas un strīdus.
+- Izcelt galvenās problēmas, taču necensties par katru cenu atrisināt visas problēmas.
+- Veikt rakstiskus pierakstus.
+- Ierobežot dalībnieku skaitu un aicināt sagatavoties iepriekš.
+- Izveidot darāmo lietu sarakstu katram produktam, kas visdrīzāk tiks apskatīts.
+- Atvēlēt resursus un ieplānot laiku [[#Formālas tehniskās apskates|formālajām tehniskajām apskatēm]]
+- Apmācīt apskatītājus.
+- Apskatīt arī agrākās apskates
+
+## Apskates veidu matrica
+
+
+|  | IPR | WT | IN | RRR |
+| ---- | ---- | ---- | ---- | ---- |
+| Trenēts līderis. | - | + | + | + |
+| Izveidots plāns. | / | + | + | + |
+| Apskatītāji ir sagatavojušies iepriekš. | / | + | + | + |
+| Režisors prezentē produktu. | / | + | - | - |
+| "Lasītājs" prezentē produktu. | - | - | + | - |
+| Pierakstītāji veic rakstiskus pierakstus. | / | + | + | + |
+| Izmanto atķeksējamos sarakstus (checklists), lai atrastu problēmas. | - | - | + | - |
+| Kļūdas tiek kategorizētas kā atrastas. | - | - | + | - |
+| Problēmu saraksts tiek izveidots. | - | + | + | + |
+| Komandai jāparakstās par rezultātu. | - | + | + | / |
+
+**+**  parasti ir iekļauts
+**-**  parasti nav iekļauts
+**/**  var tikt iekļauts
+
+**IPR** – neformāla biedru apskate (informal peer review)
+**WT** – iziešana cauri (walkthrough)
+**IN** – inspekcija (Inspection)
+**RRR** – visi ar visiem apskate  (round robin review)
+
+![[Definīcijas#Paraugu virzīta apskate (SDR – Sample-Driven Review)]]
+

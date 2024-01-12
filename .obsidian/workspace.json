@@ -25,19 +25,7 @@
           {
             "id": "bbab987219388919",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/11.01.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3b111badd98b892",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -45,11 +33,25 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "562d29603f649184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definīcijas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/11.01.2024.md",
+                "file": "Definīcijas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/11.01.2024.md",
+                "file": "Definīcijas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/11.01.2024.md"
+                "file": "Definīcijas.md"
               }
             }
           },
@@ -186,30 +188,31 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "8594ba9eb49c38c9",
+  "active": "562d29603f649184",
   "lastOpenFiles": [
     "Kvalitātes pārvaldība.md",
-    "Daily notes/11.01.2024.md",
     "Definīcijas.md",
-    "Atteli/Pasted image 20240111151030.png",
+    "canvas/Projekta plānošanas process.canvas",
+    "Projektu plānošana.md",
+    "Projekta pārvaldība.md",
+    "canvas",
+    "canvas/Laikplāna veidošanas process.canvas",
     "ISO 9001.md",
+    "Darbietilpība.md",
+    "Cilvēku pārvaldība.md",
+    "Humoriņi.md",
+    "Riska pārvaldība.md",
+    "Daily notes/11.01.2024.md",
+    "Atteli/Pasted image 20240111151030.png",
     "Atteli/Pasted image 20240111132407.png",
     "Atteli/Pasted image 20240111131436.png",
-    "Cilvēku pārvaldība.md",
-    "Projektu plānošana.md",
     "Daily notes/10.01.2024.md",
     "Daily notes/08.01.2024.md",
-    "Projekta pārvaldība.md",
-    "Darbietilpība.md",
     "Daily notes",
     "broken links output.md",
-    "Riska pārvaldība.md",
-    "Humoriņi.md",
     "Atteli/Pasted image 20240108174239.png",
-    "Laikplāna veidošanas process.canvas",
     "Atteli/Pasted image 20240108143228.png",
-    "Projekta plānošanas process.canvas",
-    "Riska pārvaldības process.canvas",
+    "canvas/Riska pārvaldības process.canvas",
     "Persondienas.md",
     "Personmēnešus.md",
     "Atteli/Pasted image 20240107210058.png",

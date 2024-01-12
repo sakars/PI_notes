@@ -1,4 +1,8 @@
 # A
+
+## Apskate (Review)
+
+Process, kurā kādu darba produktu (dokumentāciju, komponentes dizainu, komponentes kodu) izvērtē pēc zināmām kvalitātes prasībām.
 # Ā
 
 # B
@@ -42,6 +46,14 @@ Aktivitāte jeb darbs ir vismazākais plānošanas elements
 # Ē
 
 # F
+
+## Formālā tehniskā apskate (FTR – Formal technical review)
+
+Formāla [[#Apskate (Review)|apskate]], kurā apspriež kādu produktu.
+
+Skatīt [[Kvalitātes pārvaldība#Formālas tehniskās apskates]]
+
+
 ## Funkcionālie punkti (Function points)
 
 Funkcionālie punkti ir mērvienība, kas apzīmē konkrētu daudzumu funkcionalitātes. Tas ir viens no veidiem kā prognozēt [[#Darbietilpība (Effort)|darbietilpību]]. 
@@ -101,6 +113,12 @@ Pretējais [[#Baltās kastes testēšana (White-box tests)|Baltās kastes testē
 
 # N
 
+## Neformālā apskate (Informal review)
+
+Neformāla [[#Apskate (Review)|apskate]], kas iekļauj mazāk plānošanas nekā [[#Formālā tehniskā apskate (FTR – Formal technical review)|formālai tehniskajai apskatei]]. Tās mērķis ir iegūt citu viedokļus bez smagas dokumentēšanas un birokrātijas.
+
+Skatīt [[Kvalitātes pārvaldība#Neformālās apskates]]
+
 ## Nodevumi (Deliverables)
 
 Produkti, kurus atdod klientam, piemēram, prasību dokuments sistēmai.
@@ -110,6 +128,23 @@ Produkti, kurus atdod klientam, piemēram, prasību dokuments sistēmai.
 # O
 
 # P
+
+## Paraugu virzīta apskate (SDR – Sample-Driven Review)
+
+[[#Apskate (Review)|Apskates]] veids, kurā cenšas kvantificēt tos darba produktus, kuriem parasti veiktu [[#Formālā tehniskā apskate (FTR – Formal technical review)|formālu tehnisko apskati]]
+
+Tās pamatā ir paņemt mazu daļu $a$ no katra produkta $i$. 
+
+No tiem pieraksta kļūdu skaitu $f_i$ katrā $a_i$.
+
+Veido groza prognozi (gross estimate) kļūdām produktā $F_i = \frac{f_i}{a_i}$
+
+Sakārto produktus dilstošā secībā pēc kļūdu groza prognozes.
+
+Virzīt resursus uz tiem produktiem, kuriem ir lielākās prognozētās problēmas.
+
+Skatīt [[Kvalitātes pārvaldība#Apskates un inspekcijas (Reviews and inspections)]]
+
 ## Pāru programmēšana (Pair programming)
 
 Programmēšanas veids, kurā programmē vienlaicīgi 2 cilvēki pie viena datora. Viens raksta kodu, otrs pārlūko uzrakstīto un izsaka ieteikumus. Pēc kāda laika abi apmainās.
@@ -213,9 +248,6 @@ Notiek pirms [[#Validācija (Validation)|validācijas]]
 ## Vienībtestēšana (Unit testing)
 
 Programmatūras testi, kas pārbauda kāda moduļa funkcionalitāti. Parasti tie ir īsi testi, kas verificē moduļa atbilstību prasībām.
-
-
-
 
 # Z
 # Ž
