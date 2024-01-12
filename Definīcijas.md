@@ -43,6 +43,12 @@ Aktivitāte jeb darbs ir vismazākais plānošanas elements
 
 # E
 
+## Ekstrēmā programmēšana (XP or eXtreme Programming)
+
+[[#Spējā izstrāde (Agile)|Spējās izstrādes]] ietvars, kas specializējas ar īpaši ātru izstrādes ciklu un [[#Pāru programmēšana (Pair programming)|pāru izstrādi]].
+
+[Extreme programming - Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming)
+
 # Ē
 
 # F
@@ -71,6 +77,14 @@ Funkcionālie punkti ir mērvienība, kas apzīmē konkrētu daudzumu funkcional
 # J
 
 # K
+
+## Kvalitātes apskate (Quality review)
+
+[[#Apskate (Review)|Apskate]] kurā cilvēku grupa uzmanīgi pārskata daļu vai visu programmatūru un dokumentāciju, kas ar to saistīta.
+Apskatīt var kodu, dizainu, specifikācijas, testa plānus, standartus u.c.
+Tos var "parakstīt" apskatē, kas norāda progresa stadijas apstiprinājumu no pārvaldības.
+
+Skatīt [[Kvalitātes pārvaldība#Apskates un inspekcijas (Reviews and inspections)]]
 
 ## Kvalitātes dokumentācija (Quality documentation)
 
@@ -145,11 +159,22 @@ Virzīt resursus uz tiem produktiem, kuriem ir lielākās prognozētās problēm
 
 Skatīt [[Kvalitātes pārvaldība#Apskates un inspekcijas (Reviews and inspections)]]
 
+
 ## Pāru programmēšana (Pair programming)
 
 Programmēšanas veids, kurā programmē vienlaicīgi 2 cilvēki pie viena datora. Viens raksta kodu, otrs pārlūko uzrakstīto un izsaka ieteikumus. Pēc kāda laika abi apmainās.
 
 Šī metode dod priekšrocību, ka kļūdas var tikt atrastas ātrāk un tādējādi tiek uzlabota produkta kvalitāte.
+
+Procesā abi programmētāji gūst saprašanu par konkrēto koda daļu, kas uzlabo komandas vienotību un samazina problēmas.
+
+Šī metode palīdz atrast problēmas, kuras ir gandrīz neiespējami atrast inspekcijās.
+
+Taču tai ir arī mīnusi:
+- Kopīgas nesaprašanās – abi izstrādātāji var pārprast specifikāciju un diskusija var novērst pie pārpratuma stiprināšanās
+- Pāru reputācija – reputācijas saglabāšanas nolūkos pāri var negribēt meklēt kļūdas kodā, lai nepalēlinātu progresu
+- Darba attiecības – pāri var satuvināties, kas var novest pie vājinātas kritikas, lai nesabojātu attiecības
+
 
 ## Persondiena/Personmēnesis (Person-days/Person-months)
 Mērvienība, kas apraksta [[#Darbietilpība (Effort)|darbietilpību]]. Tā apzīmē darbu, ko noteikts daudzums cilvēku var paveikt noteiktā laikā.
@@ -185,6 +210,11 @@ Produkta standarti ir standarti, kas attiecināmi uz produktu, kuru izstrādā.
 
 Skat. [[Kvalitātes pārvaldība#Programmatūras standarti]]
 
+## Programmas inspekcija
+
+Tā ir biedru [[#Apskate (Review)|apskate]], kur tiek pētīts produkta avots (pirmkods, dokumenti), meklējot anomālijas vai defektus.
+Tām parasti nav vajadzīga sistēmas izmantošana, līdz ar to inspekciju var veikt pirms implementācijas.
+Inspekciju var veikt jebkurai sistēmu pārstāvošai daļai (prasības, dizains, [[Konfigurācijas pārvaldība|konfigurācijas]] dati, testu dati u.c.)
 ## Programmatūras kvalitāte (Software quality)
 
 Programmatūras kvalitāte vienkāršoti nozīmē, ka produkts atbilst specifikācijai, taču kvalitāte ir termins, kas krasi atšķiras izstrādātājiem (atkārtota izmantojamība, uzturamība u.c.) un klientiem (veiktspēja, uzticamība u.c.)
@@ -199,7 +229,7 @@ Standarti var būt dažādu līmeņu – starptautiski, nacionāli, organizatori
 
 Skatīt [[Kvalitātes pārvaldība#Programmatūras standarti]]
 # R
-# Risks (Risk)
+## Risks (Risk)
 
 Risks ir potenciāls negatīvām sekām
 Risks ietver iespēju par kādām sekām no darbinieku vai pārvaldnieku darbības vai bezdarbības, kas ir svarīgas cilvēkiem.
@@ -209,6 +239,13 @@ Skatīt [[Riska pārvaldība]]
 **R**isk **M**itigation, **M**onitoring & **M**anagement
 jeb risku mazināšana, uzraudzība un pārvaldība
 # S
+
+## Scrum
+
+Scrum ir [[#Spējā izstrāde (Agile)|spējās izstrādes]] ietvars, kas dala darbu daudzās daļās ar konkrētiem mērķiem un laika ierobežojumiem.
+
+[Scrum (software development) - Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
+
 
 ## Spējā izstrāde (Agile)
 

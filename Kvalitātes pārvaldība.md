@@ -240,6 +240,12 @@ Galvenās sanāksmes lomas:
 - Apmācīt apskatītājus.
 - Apskatīt arī agrākās apskates
 
+Galvenās fāzes:
+- Pirms-apskates – plāno apskati un gatavojas apskatei
+- Apskates sanāksme – tajā apskata visus darba produktus ar apskates komandu, iziet cauri visām detaļām, atrod problēmas.
+- Pēc-apskates – risina sanāksmes laikā radušās problēmas
+![[Pasted image 20240112153310.png]]
+
 ## Apskates veidu matrica
 
 
@@ -265,5 +271,87 @@ Galvenās sanāksmes lomas:
 **IN** – inspekcija (Inspection)
 **RRR** – visi ar visiem apskate  (round robin review)
 
+## Paraugu virzīta apskate
 ![[Definīcijas#Paraugu virzīta apskate (SDR – Sample-Driven Review)]]
+
+## Izkliedētās apskates
+
+Mūsdienās komandas ir ģeogrāfiski izkliedētas pa vairākām valstīm vai kontinentiem, līdz ar to ir nepraktiski veidot klātienes sanāksmes. Ir iespējams veidot attālinātas sanāksmes izmantojot koplietojamos dokumentus, kas ļauj visiem komandas biedriem komentēt vai anotēt dokumentu.
+
+## Programmas inspekcijas
+![[Definīcijas#Programmas inspekcija]]
+
+Programmas inspekcijas ir efektīvs paņēmiens, lai atklātu programmas kļūdas.
+
+Parasti veido bieži sastopamo kļūdu sarakstu, ko izmanto inspekcijas vadīšanai.
+
+Kļūdu saraksti parasti ir atkarīgi no programmēšanas valodām un atspoguļo raksturīgās kļūdas, kas var rasties valodā.
+
+> [!tip]
+> Parasti, jo vājāka tipu pārbaude (weak type checking), jo garāks būs šis saraksts
+
+Kā piemērs saraksta punktiem: Konstantu nosaukšana, ciklu beigšana, masīvu robežas u.c.
+
+### Piemēra tabula pārbaudēm
+| Kļūdas klase | Pārbaudes |
+| ---- | ---- |
+| Datu | - Visi mainīgie ir inicializēti pirms to vērtības ir nolasītas?<br>- Nosauktas visas konstantes?<br>- Vai augstākā robeža masīviem ir vienāda ar to izmēru?<br>- Ja izmantotas simbolu virknes, vai ir norādīts beigu simbols?<br>- Vai ir iespēja bufera pārplūdei (buffer overflow)? |
+| Kontroles | - Vai katrs kondīcijas apgalvojums (conditional statement) ir pareizs?<br>- Vai katrs cikls noteikti beigsies?<br>- Vai vairākdaļu apgalvojumi (compound statements) ir pareizi formulēti?<br>- Ja tiek apskatīti konkrēti gadījumi, vai ir norādīta apstrāde visiem gadījumiem?<br>- Ja vajadzīgs "break" katram gadījumam, vai tie ir norādīti? |
+| Ievades/izvades | - Vai tiek izmantota visa ievade?<br>- Vai visiem izvades mainīgajiem ir piešķirta vērtība pirms tos izvada?<br>- Vai neparedzētas ievades var izraisīt problēmas? |
+| Saskarnes | - Vai visām metodēm ir atbilstoši lauki?<br>- Vai formālie un reālie parametru tipi sakrīt?<br>- Vai parametri ir pareizajā secībā?<br>- Ja komponentiem ir dalīta atmiņa, vai tiem ir vienādi modeļi, kas to strukturē? |
+| Krātuves / atmiņas pārvaldības | - Vai saistītas struktūra tiek pareizi atjaunota?<br>- Ja izmanto dinamisku atmiņu, vai to pareizi aizņem un vai to pēc tam atbrīvo? |
+
+
+
+## Apskatu radītās metrikas
+
+- Inspekcijas laiks uz dokumentācijas lapu
+- Inspekcijas laiks uz [[Definīcijas#Pirmkoda rindas (Lines Of Code) (LOC)|KLOC]] vai [[Definīcijas#Funkcionālie punkti (Function points)|FP]]
+- Inspekcijas [[Definīcijas#Darbietilpība (Effort)|darbietilpība]] uz  [[Definīcijas#Pirmkoda rindas (Lines Of Code) (LOC)|KLOC]] vai [[Definīcijas#Funkcionālie punkti (Function points)|FP]]
+- Atklāto kļūdu skaits uz apskatītāja stundām
+- Atklāto kļūdu skaits uz gatavošanās stundām
+- Atklāto kļūdu skaits uz sistēminžinierijas [[Definīcijas#Darbs/Aktivitāte (Activity/Task)|darbu]] (piem., dizaina veidošana)
+- Mazo kļūdu skaits (piem., pareizrakstības kļūdas)
+- Lielo kļūdu skaits (piem., nesakritība ar prasībām, standartiem)
+- Kļūdu skaits, kas atrastas gatavošanās laikā
+
+
+
+# Kvalitātes pārvaldība Spējās izstrādes vidē
+
+> [!info] Atgādinājums
+> ![[Definīcijas#Spējā izstrāde (Agile)]]
+
+Spējās izstrādes kvalitātes pārvaldība ir neformāla. Tās pamatā ir kvalitātes kultūras veiksmīga ieviešana, kurā katrs komandas biedrs jūtas atbildīgs par programmatūras kvalitāte un sper soļus, lai kvalitāte kodā tiktu saglabāta.
+
+Spējās izstrādes kopiena ir fundamentāli pret kvalitātes procesiem un pieejām, kas raksturīgas [[ISO 9001]]
+
+## Galvenie pamatprincipi
+
+### Pārbaudi pirms pārraksti (Check before check-in)
+
+Programmētāji paši ir atbildīgi par koda apskates organizēšanu, pārliecinoties, ka kods ir apskatīts pirms tas tiek pievienots pie būvētās sistēmas.
+
+### Nelauz uzbūvēto sistēmu
+
+Komandas biedriem nevajadzētu pievienot kodu, kura dēļ gatavā sistēma salūzt. Izstrādātājiem ir jātestē koda izmaiņas pret visu sistēmu un jābūt pārliecinātiem, ka neizriet neparedzētas sistēmas īpašības.
+
+### Salabo problēmas, kad tās tiek atrastas
+
+Ja programmētājs atrod problēmas vai neskaidrības kodā, kuras izstrādājis kāds cits, ir ieteicams tās labot pašam, nevis to prasīt oriģinālajam izstrādātājam.
+
+## Apskates un spējās metodes
+
+Parasti apskates process spējā izstrādē ir neformālas.
+
+Ar [[Definīcijas#Scrum|Scrum]] parasti ir apskates sanāksme pēc katras iterācijas ([[Definīcijas#Spējās izstrādes sprints (Agile sprint)|sprinta]] apskate), kur var apspriest kvalitātes problēmas.
+
+[[Definīcijas#Ekstrēmā programmēšana (XP or eXtreme Programming)|Ekstrēmajā programmēšanā]] izmantotā [[Definīcijas#Pāru programmēšana (Pair programming)|pāru programmēšana]] nodrošina, ka kodu nepārtraukti pārskata un pēta kāds, kas nerakstīja kodu.
+
+Spējās izstrādes metodes lielām sistēmām nav piemērotas no kvalitātes pārvaldības skatupunkta.
+
+Ģeogrāfiski izkliedētās komandās ir grūti nodrošināt neformālu vidi.
+
+Ilgtermiņa sistēmām ir vajadzīga dokumentācija, lai sniegtu priekšstatu jaunpienācējiem, kas pieprasa kvalitātes pārvaldību līmenī, ko spējā izstrāde neatbalsta.
+
 
