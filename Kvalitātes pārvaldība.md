@@ -40,7 +40,7 @@ Tas arī definē jaunus, vai eksistējošus standartus, kurus jāizmanto.
 
 Kvalitātes plāniem vajadzētu būt maziem, kodolīgiem dokumentiem.
 
-> [!tip]
+> [!tip] Karstais padoms
 > Ja tie ir par garu, tos neviens nelasīs.
 
 
