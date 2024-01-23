@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5,
-    "collapsed": true
+    "width": 218.5
   },
   "right": {
     "id": "e30c7413e9aee922",
@@ -189,8 +188,9 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "e4cbb6beeea44a25",
+  "active": "8594ba9eb49c38c9",
   "lastOpenFiles": [
+    "README.md",
     "Lietotāja dokumentācija.md",
     "Daily notes/23.01.2024.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123211936.png",
