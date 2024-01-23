@@ -49,7 +49,7 @@ No ISO/TR 10013:2001(E)
 - Virsraksts (Title)
 - Nozīme (Purpose)
 - Apjoms/ierobežojumi (Scope)
-- Atbildība un autoritāte (Responsibility and authority) 
+- Atbildība un autoritāte (Responsibility and authority) – jādefinē atbildīgie cilvēki vai organizatoriskās struktūras
 - Darbību apraksts
 
 
