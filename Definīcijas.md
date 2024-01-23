@@ -1,8 +1,11 @@
+#definīcijas
 # A
 
 ## Apskate (Review)
 
 Process, kurā kādu darba produktu (dokumentāciju, komponentes dizainu, komponentes kodu) izvērtē pēc zināmām kvalitātes prasībām.
+
+Skatīt [[Kvalitātes pārvaldība#Apskates un inspekcijas (Reviews and inspections)]]
 # Ā
 
 # B
@@ -19,6 +22,18 @@ Pretējais [[#Melnās kastes testēšana (Black-box testing)|Melnās kastes test
 **C**omputer **A**ided **S**oftware **E**ngineering
 jeb programmatūras izstrāde ar datora palīdzību.
 **CASE tools** - programmatūras rīki, kas palīdz izstrādei.
+
+## CMM (Capability maturity model)
+
+Modelis, kas raksturo programmatūras briedumu pēc tā spējām.
+
+Skatīt:
+- [[Kvalitātes pārvaldība#Programmatūras kvalitāte un CMM (Capability Maturity Model)]]
+- [[CMM Metriku definīcijas standarts]]
+
+
+
+
 ## COCOMO
 
 **COCOMO** (**CO**nstructive **CO**st **MO**del) jeb konstruktīvais izmaksu modelis (?) ir regresijas models, kas balstīts uz koda rindu skaita.
@@ -39,7 +54,16 @@ Darbietilpība (Effort) ir strādāšanas daudzums, kas vajadzīgs, lai pabeigtu
 Parasti darbietilpību vienādojumos apzīmē ar $E$
 
 ## Darbs/Aktivitāte (Activity/Task)
+
 Aktivitāte jeb darbs ir vismazākais plānošanas elements
+
+## DCI (Data Collection Item)
+
+Informācijas vienība, kuru izmanto mērījumiem.
+
+Skatīt:
+- [[CMM Metriku definīcijas standarts]]
+- [[Programmatūras mērīšana]]
 
 # E
 

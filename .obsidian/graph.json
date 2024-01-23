@@ -15,23 +15,23 @@
       }
     },
     {
-      "query": "file:Definīcijas",
+      "query": "tag:#definīcijas  ",
       "color": {
         "a": 1,
-        "rgb": 4194058
+        "rgb": 2816512
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 2.88177083333333,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.42941787941788,
+  "lineSizeMultiplier": 1.81652806652807,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 16.4864864864865,
+  "repelStrength": 11.1642411642412,
   "linkStrength": 1,
-  "linkDistance": 148,
-  "scale": 0.734936085063234,
+  "linkDistance": 245,
+  "scale": 0.6546984990593767,
   "close": true
 }
