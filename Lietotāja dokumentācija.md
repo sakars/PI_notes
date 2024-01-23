@@ -123,3 +123,107 @@ Paredzēta:
 - Zināšanu atsvaidzināšanai
 - Lietotāja sagatavošanai izpildīt konkrētu funkciju
 
+## Uzstādīšanai
+
+Iekļauj lietotājam (parasti adminam) vajadzīgo info, lai uzstādītu.
+
+## Lietošanai
+
+Iekļauj vajadzīgo info, lai lietotu programmatūru
+
+
+## Pārvaldīšanai
+
+Iekļauj vajadzīgo info lietotājam (parasti adminam) par programmatūras administrēšanu.
+
+# Dokumentu noformēšanas sadaļas
+
+Līmeņi:
+1. nodalījums (1.)
+2. nodaļa (1.1.)
+3. sadaļa (1.1.1.)
+4. paragrāfs (1.1.1.1.)
+5. punkts (1.1.1.1.1.)
+6. apakšpunkts (1.1.1.1.1.1.)
+
+# Lietotāja dokumentācijas saturs
+
+- [[#Titullapa]]
+- [[#Ierobežojumi]]
+- [[#Garantijas]]
+- [[#Satura rādītājs]]
+- [[#Ilustrāciju saraksts]]
+- [[#Ievads]]
+- [[#Dokumenta pamatteksts]]
+- [[#Kļūdu situācijas]]
+- [[#Pielikumi]]
+- [[#Atsauces]]
+- [[#Skaidrojošā vārdnīca]]
+- [[#Alfabētiskais priekšmetu rādītājs]]
+
+![[Pasted image 20240123210900.png]]
+
+
+![[Pasted image 20240123211936.png]]
+## Titullapa
+- Doķa nosaukums
+- Programmatūras nosaukums un versija
+- Doķa versija un datums
+- Uzņēmums, kas izstrādāja
+
+## Ierobežojumi
+
+Ierobežojumi ir ierobežojumi tieši dokumenta lietošanā, piemēram, dokumenta elektroniskā uzglabāšanā vai līgumsaistības
+
+## Garantijas
+
+Ja tādas ir, jānorāda visas garantijas.
+
+## Satura rādītājs
+
+Viensējuma doķiem:
+- var būt izvērsts visa doķa satura rādītājs
+- var būt visa doķa satura rādītājs un katras nodaļas sākumā ir izvērsts nodaļas satura rādītājs
+
+## Ilustrāciju saraksts
+
+Katram ilustrācijas veidam (attēliem, tabulām) var būt savs.
+
+## Ievads
+
+- Auditorijas raksturojums – nepieciešamā apmācība un pieredze
+- Lietojamība – programmatūras versija un darbināšanas vide
+- Dokumenta nolūks
+- Dokumenta lietošanas apraksts – īsi jāapraksta dokumenta uzbūve
+- Saistīto dokumentu saraksts
+- Pieņemtie apzīmējumi
+- Problēmu [[Ziņošana|ziņošana]] – jāapraksta, ko darīt kļūdu gadījumos un ko darīt, ja vēlas papildus funkcionalitāti
+
+## Kļūdu situācijas
+
+Apraksta visas iespējāmās kļūdas un ko darīt to gadījumā.
+
+
+## Atsauces
+
+Norāda izmantotos avotus
+
+## Skaidrojošā vārdnīca
+
+Apraksta saīsinājumus, akronīmus, terminus.
+
+> [!warning] Atceries
+> Ir atšķirība starp dokumenta ievadā aprakstājamiem pieņemtajiem apzīmējumiem un stilistiskajām norunām
+> 
+> 
+> _whatever that means_
+
+## Alfabētiskais priekšmetu rādītājs
+
+Satur alfabētiski kārtotas atsauces uz nodaļām, kurās parādās lietoto priekšmetu skaidrojums
+
+# Piezīmes
+
+Lietotāju apmierinātību noteiks programmatūras un dokumentācijas kvalitāte, līdz ar to abām šīm daļām jābūt kvalitatīvām.
+
+Labai dokumentācijai vajadzīgs autors, kuram ir labas komunikācijas prasmes un kurš labi pārzina programmatūras uzbūvi.

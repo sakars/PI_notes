@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definīcijas.md",
+                "file": "Lietotāja dokumentācija.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definīcijas.md",
+                "file": "Lietotāja dokumentācija.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definīcijas.md",
+                "file": "Lietotāja dokumentācija.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definīcijas.md"
+                "file": "Lietotāja dokumentācija.md"
               }
             }
           },
@@ -191,16 +191,18 @@
   },
   "active": "8594ba9eb49c38c9",
   "lastOpenFiles": [
+    "Daily notes/23.01.2024.md",
+    "Lietotāja dokumentācija.md",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123211936.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123210900.png",
+    "Definīcijas.md",
     "Index.md",
     "Kvalitātes pārvaldība.md",
     "Darbietilpība.md",
     "Daily notes/12.01.2024.md",
-    "Daily notes/23.01.2024.md",
-    "Lietotāja dokumentācija.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123162014.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123161237.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123142105.png",
-    "Definīcijas.md",
     "CMM Metriku definīcijas standarts.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123140150.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123140138.png",
@@ -208,8 +210,6 @@
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123133743.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123123241.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123123228.png",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123123141.png",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123122312.png",
     "Cilvēku pārvaldība.md",
     "Riska pārvaldība.md",
     "Projektu plānošana.md",
@@ -233,7 +233,6 @@
     "broken links output.md",
     "Persondienas.md",
     "Personmēnešus.md",
-    "qsm.com.md",
     "Prezentāciju ekrānuzņēmumi",
     "definitions",
     "Excalidraw"
