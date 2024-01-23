@@ -227,3 +227,10 @@ Satur alfabētiski kārtotas atsauces uz nodaļām, kurās parādās lietoto pri
 Lietotāju apmierinātību noteiks programmatūras un dokumentācijas kvalitāte, līdz ar to abām šīm daļām jābūt kvalitatīvām.
 
 Labai dokumentācijai vajadzīgs autors, kuram ir labas komunikācijas prasmes un kurš labi pārzina programmatūras uzbūvi.
+
+# Kvalitātes paaugstināšanas padomi
+
+- Pareiza izcēlumu lietošana
+- Terminoloģijas konsekventa lietošana, bez pretrunām
+- Atsauču lietošana saistītas vai dublējošas informācijas attēlošanā
+
