@@ -126,4 +126,21 @@ Kā piemēram, nepietiek skatīties uz kopējo atrasto kļūdu skaitu, jo kļūd
 Programmatūras analīze ar programmatūras datiem tiek veikta ar nolūku komandām gūt ieskatu no saviem datiem, kas ļautu veikt labākus lēmumus.
 
 > [!info] Annalīzei vajag datus
-> **Automatizētā datu ievākšana** no lietotājiem sniedz 
+> **Automatizētā datu ievākšana** no lietotājiem sniedz lielu apjomu datu.
+> **Atvērtā pirmkoda projekti** ir vērtīgi, lai iegūtu datus, ar kuriem salīdzināt.
+
+## Analīzes rīki
+
+Rīkiem jābūt **viegli izmantojamiem**.
+Rīkiem jābūt **jaudīgiem** un jādod konkrētu izvadi.
+Rīkiem būtu jāveic pēc iespējas vairāk mērījumu ar pēc iespējas lielāku daudzumu parametru.
+Rīkiem jābūt interaktīviem, lai ļautu tuvāk izpētīt analīzes rezultātus.
+
+## Šī brīža situācija
+
+Analīzes rīki vēl ir nenobrieduši.
+
+Lielo uzņēmumu dati, kurus var analizēt, ne noteikti palīdz maziem uzņēmumiem, jo situācijas atšķiras.
+
+
+

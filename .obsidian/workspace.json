@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 218.5,
+    "collapsed": true
   },
   "right": {
     "id": "e30c7413e9aee922",
@@ -169,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,7 +189,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "7d20d1e20e07dce6",
+  "active": "8594ba9eb49c38c9",
   "lastOpenFiles": [
     "Kvalitātes pārvaldība.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123113650.png",
