@@ -131,6 +131,42 @@ $$ \frac{\text{Kopējais atklāto defektu daudzums fāzē}}{\text{Kopējais pirm
 
 ## Apskates efektivitāte
 
-Skatīt [[Definīcijas#Apskate (Review)]]
+Skatīt
+- [[Definīcijas#Apskate (Review)]],
+- [[Definīcijas#Defekts (Defect)]]
 
 $$ \frac{\text{Kopējie defekti apskatē}}{\text{Kopējie defekti, kas atklāti apskatē}+\text{Kopējie defiekti testēšanā}} \cdot 100 \% $$
+
+## Pārtaisīšanas apjoms
+
+$$ \frac{\text{Kopējā pārtaisīšanas darbietilpība defektu dēļ}}{\text{Kopējā darbietilpība}} \cdot 100 \% $$
+
+## Pārtaisīšanas apjoms prasību maiņu dēļ
+
+$$ \frac{\text{Kopējā pārtaisīšanas darbietilpība prasību maiņu dēļ}}{\text{Kopējā darbietilpība}} \cdot 100 \% $$
+
+# Uzturēšanas metrikas
+
+## Produktivitāte
+
+
+
+$$ \frac{\text{Izpildīto darbu daudzums mēnesī}}{\text{Darbu kopējā darbietilpība}}$$
+
+## Vidējais aprites (turnaround) laiks
+
+$$ \frac{\sum_{i=1}^{n}{T_i}}{n} $$
+Vienība: laiks uz vienu darbu
+
+## Ietilpināšanās laikā
+
+$$ \frac{\text{Piegādāto darbu daudzums laikā}}{\text{Piegādāto darbu daudzums}} \cdot 100 \% $$
+
+## Piegādātie defekti
+
+$$ \frac{\text{Piegādāto darbu daudzums ar defektiem}}{\text{Piegādāto darbu daudzums}} \cdot 100 \% $$
+
+# Citas metrikas
+
+![[Pasted image 20240123140138.png]]
+![[Pasted image 20240123140150.png]]

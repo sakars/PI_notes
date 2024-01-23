@@ -29,55 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMM Metriku definīcijas standarts.md",
+                "file": "Darbietilpība.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "90d2cbeef7a0e2af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmatūras mērīšana.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ed75ff3ecdb8c1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definīcijas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed7107af9661a9ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 218.5,
+    "collapsed": true
   },
   "right": {
     "id": "e30c7413e9aee922",
@@ -143,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Darbietilpība.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Darbietilpība.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Darbietilpība.md"
               }
             }
           },
@@ -216,10 +178,15 @@
   },
   "active": "8594ba9eb49c38c9",
   "lastOpenFiles": [
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123142105.png",
     "Definīcijas.md",
+    "Darbietilpība.md",
     "CMM Metriku definīcijas standarts.md",
-    "Kvalitātes pārvaldība.md",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123140150.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123140138.png",
     "Programmatūras mērīšana.md",
+    "Index.md",
+    "Kvalitātes pārvaldība.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123133743.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123123241.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123123228.png",
@@ -229,8 +196,6 @@
     "Cilvēku pārvaldība.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240118161902.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240118162633.png",
-    "Index.md",
-    "Darbietilpība.md",
     "Riska pārvaldība.md",
     "Projektu plānošana.md",
     "Projekta pārvaldība.md",
@@ -245,8 +210,6 @@
     "Humoriņi.md",
     "Index.html",
     "Ekranuznemumi.md",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240106183443.png",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240106183351.png",
     "Daily notes/12.01.2024.md",
     "canvas",
     "Daily notes/11.01.2024.md",

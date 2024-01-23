@@ -234,4 +234,22 @@ Ar laiku apjoma prognoze kļūst precīzāka.
 	- [[Definīcijas#Melnās kastes testēšana (Black-box testing)|melnās kastes testēšana]]
 	- regresija
 
+# Darbietilpības pamatošana
+
+[[Definīcijas#QSM (Quantitative Software Management)|QSM]] ir galvenā komercsabiedrība, ar kuru prognozēt darbietilpību.
+
+## Jau izstrādāta programmkoda normatīvās darbietilpības noteikšana.
+
+Mums ir koda apjoms, bet jāuzmin cik profesionāļi cik ilgā varēja šo izstrādāt.
+
+> [!tip] Šis taču ir """pašsaprotami"""
+> Šo var noteikt vien ar lielu daudzumu citu projektu darbietilpības datiem.
+
+QSM regulāri iekrāj informāciju un pārrēķina mediānas, vidējās, min, max vērtības.
+
+Ir ieteicams izmantot atklātās piekļuves [QSM etalontabulas](http://www.qsm.com/resources/qsm-benchmark-tables), no tām veicot _saprātīgas_ interpolācijas vai ekstrapolācijas.
+
+## Piemēri
+
+![[Pasted image 20240123142105.png]]
 

@@ -284,6 +284,16 @@ Programmatūras standarti definē prasītās īpašības vai procesus, lai nodro
 Standarti var būt dažādu līmeņu – starptautiski, nacionāli, organizatoriski, projektu.
 
 Skatīt [[Kvalitātes pārvaldība#Programmatūras standarti]]
+
+# Q
+
+## QSM (Quantitative Software Management)
+
+Pasaulē atzītākā komercsabiedrība, lai prognozētu [[#Darbietilpība (Effort)|darbietilpību]]. 
+
+
+[www.qsm.com](http://www.qsm.com/)
+
 # R
 ## Risks (Risk)
 
