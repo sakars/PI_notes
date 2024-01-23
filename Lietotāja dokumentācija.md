@@ -37,7 +37,52 @@ Gatavojot dažādām auditorijām, gatavot dažādus dokumentus vai dalīt noda�
 
 # Prasības
 
+- Jāatbilst īpatnībām
+- Aprakstītas visas aktuālās funkcijas
+- Informācija par visu ievaddatu sagatavošanu
+- Ievaddatu formāti, pieļaujamie apgabali
+- Aprakstīti visi izvaddati
+- Aprakstīti visi ierobežojumi
+- Lietotājam saprotama terminoloģija
+- Nav reālu datu, kā piemēram īsti vārdi, uzvārdi, tel. nr., bankas kontu nr.
+
+Piemērs:
+![[Pasted image 20240123161237.png]]
 
 
+# Dokumentācijas iedalījums
 
+Pēc lietošanas veida:
+- [[#Instruktīva]]
+- [[#Izziņu]]
 
+Pēc lietošanas mērķa:
+- [[#Uzstādīšanai]]
+- [[#Lietošanai]]
+- [[#Pārvaldīšanai]]
+
+## Instruktīva
+
+Jāsniedz:
+- Pamatzināšanas saprašanai
+- Ko sistēma var
+- Piemēri
+
+Parasti pārskats, teorijas apskats vai mācību grāmata praktiskām nodarbībām
+
+Iekļauj:
+- Darbības sfēru
+- Nepieciešamos materiālus
+- Sagatavošanos
+- Brīdinājumi
+- Uzdevuma apraksts
+	- kas jādara
+	- kādu funkciju izsaukt
+	- iespējamās kļūdas, kā izvairīties
+	- kāds rezultāts gaidāms
+- Saistītā info
+	- Bieži kopā izpildāmie uzd.
+	- Piezīmes, ierobežojumi
+
+Piemērs:
+![[Pasted image 20240123162014.png]]
