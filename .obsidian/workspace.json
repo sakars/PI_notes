@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lietotāja dokumentācija.md",
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5,
-    "collapsed": true
+    "width": 218.5
   },
   "right": {
     "id": "e30c7413e9aee922",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lietotāja dokumentācija.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lietotāja dokumentācija.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lietotāja dokumentācija.md"
+                "file": "Index.md"
               }
             }
           },
@@ -189,12 +188,12 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "14701fe6dd16c6dc",
+  "active": "8594ba9eb49c38c9",
   "lastOpenFiles": [
+    "Lietotāja dokumentācija.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123162014.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123161237.png",
     "Darbietilpība.md",
-    "Lietotāja dokumentācija.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123142105.png",
     "Definīcijas.md",
     "CMM Metriku definīcijas standarts.md",
@@ -208,7 +207,6 @@
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123123228.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123123141.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123122312.png",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123113650.png",
     "Cilvēku pārvaldība.md",
     "Riska pārvaldība.md",
     "Projektu plānošana.md",
