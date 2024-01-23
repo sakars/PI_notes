@@ -43,6 +43,15 @@ Kvalitātes plāniem vajadzētu būt maziem, kodolīgiem dokumentiem.
 > [!tip] Karstais padoms
 > Ja tie ir par garu, tos neviens nelasīs.
 
+### Procesu apraksta galvenie elementi
+No ISO/TR 10013:2001(E) 
+4.5. sadaļas:
+- Virsraksts (Title)
+- Nozīme (Purpose)
+- Apjoms/ierobežojumi (Scope)
+- Atbildība un autoritāte (Responsibility and authority) 
+- Darbību apraksts
+
 
 # Kvalitātes pārvaldības apjoms
 Kvalitātes pārvaldība ir īpaši svarīga lieliem projektiem un sarežģītām sistēmām. 
