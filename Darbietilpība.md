@@ -236,7 +236,7 @@ Ar laiku apjoma prognoze kļūst precīzāka.
 
 # Darbietilpības pamatošana
 
-[[Definīcijas#QSM (Quantitative Software Management)|QSM]] ir galvenā komercsabiedrība, ar kuru prognozēt darbietilpību.
+[[Definīcijas#QSM (Quantitative Software Management)|QSM]] ir galvenā komercsabiedrība, ar kuru pamatot darbietilpību.
 
 ## Jau izstrādāta programmkoda normatīvās darbietilpības noteikšana.
 
@@ -248,6 +248,7 @@ Mums ir koda apjoms, bet jāuzmin cik profesionāļi cik ilgā varēja šo izstr
 QSM regulāri iekrāj informāciju un pārrēķina mediānas, vidējās, min, max vērtības.
 
 Ir ieteicams izmantot atklātās piekļuves [QSM etalontabulas](http://www.qsm.com/resources/qsm-benchmark-tables), no tām veicot _saprātīgas_ interpolācijas vai ekstrapolācijas.
+
 
 ## Piemēri
 
