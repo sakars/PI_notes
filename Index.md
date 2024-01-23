@@ -13,7 +13,7 @@ Galvenā pierakstu doma ir apvienot prezentāciju slaidus un savienot dažādās
 - [[Kvalitātes pārvaldība]]
 - [[Kvalitātes pārvaldība#Kvalitātes līmeņa nodrošināšana|Kvalitātes nodrošināšana]]
 - [[Darbietilpība|Darbietilpības novērtēšana]]
-- Lietotāja dokumentācija
+- [[Lietotāja dokumentācija]]
 - [[Programmatūras mērīšana|Programmatūras metrikas]]
 
 # Papildus info
