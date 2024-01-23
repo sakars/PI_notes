@@ -3,7 +3,7 @@
 
 ## Apskate (Review)
 
-Process, kurā kādu darba produktu (dokumentāciju, komponentes dizainu, komponentes kodu) izvērtē pēc zināmām kvalitātes prasībām.
+Process, kurā kādu darba produktu (dokumentāciju, komponentes dizainu, komponentes kodu) izvērtē pēc zināmām kvalitātes prasībām un atrod [[#Defekts|defektus]].
 
 Skatīt [[Kvalitātes pārvaldība#Apskates un inspekcijas (Reviews and inspections)]]
 # Ā
@@ -65,6 +65,9 @@ Skatīt:
 - [[CMM Metriku definīcijas standarts]]
 - [[Programmatūras mērīšana]]
 
+## Defekts (Defect)
+
+[[#Apskate (Review)|Apskatē]] vai testēšanā atrasta problēma kodā.
 # E
 
 ## Ekstrēmā programmēšana (XP or eXtreme Programming)
