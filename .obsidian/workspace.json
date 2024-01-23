@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Daily notes/23.01.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 218.5,
+    "collapsed": true
   },
   "right": {
     "id": "e30c7413e9aee922",
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Daily notes/23.01.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Daily notes/23.01.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Daily notes/23.01.2024.md"
               }
             }
           },
@@ -188,19 +189,20 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "8594ba9eb49c38c9",
+  "active": "14701fe6dd16c6dc",
   "lastOpenFiles": [
     "Lietotāja dokumentācija.md",
+    "Daily notes/23.01.2024.md",
+    "Index.md",
+    "Darbietilpība.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123162014.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123161237.png",
-    "Darbietilpība.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123142105.png",
     "Definīcijas.md",
     "CMM Metriku definīcijas standarts.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123140150.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123140138.png",
     "Programmatūras mērīšana.md",
-    "Index.md",
     "Kvalitātes pārvaldība.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123133743.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123123241.png",

@@ -86,3 +86,40 @@ Iekļauj:
 
 Piemērs:
 ![[Pasted image 20240123162014.png]]
+
+Piemēri:
+- Darbināšanas rokasgrāmata
+- Instalācijas rokasgrāmata
+- Diagnostikas procedūru rokasgrāmata
+
+## Izziņu
+
+Jānodrošina:
+- Nepieciešamais info
+- Brīva pieeja informācijai
+Piemēri:
+- Komandu rokasgrāmata
+- Kļūdu ziņojumu rokasgrāmata
+- Programmu izsaukšanas rokasgrāmata
+- Utilītu rokasgrāmata
+
+Jāiekļauj:
+- funkcijas mērķi
+- materiāli
+- sagatavošanu
+- ievaddatus
+- brīdinājumus
+- Izsaukšanu (ar aprakstiem)
+- izpildes apturēšanu
+- Funkciju izpildes nobeidzi
+- Izvaddatus
+	- Ekrāna attēli
+	- izmaiņas datnēs vai datos
+	- beigu stāvokļa apraksts
+- Kļūdu situācijas
+- Saistīto informāciju
+
+Paredzēta:
+- Zināšanu atsvaidzināšanai
+- Lietotāja sagatavošanai izpildīt konkrētu funkciju
+
