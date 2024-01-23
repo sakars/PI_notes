@@ -53,6 +53,25 @@ Aktivitāte jeb darbs ir vismazākais plānošanas elements
 
 # F
 
+## Fan-in/Fan-out
+
+Pieņemam kādu funkciju X.
+
+Funkcijas X _Fan-in_ ir skaits, cik funkcijas izsauc X
+
+Funkcijas X _Fan-out_ ir skaits, cik funkciju izsauc funkcija X.
+
+Liels Fan-in nozīmē, ka X ir cieši saistīta ar sistēmu un tās mainīšana stipri ietekmē sistēmmu.
+
+Liels Fan-out nozīmē, ka iespējams X ir pārāk sarežģīta un to būtu jādala sīkāk.
+
+
+
+
+## Funkcionālie punkti (Function points)
+
+Funkcionālie punkti ir mērvienība, kas apzīmē konkrētu daudzumu funkcionalitātes. Tas ir viens no veidiem kā prognozēt [[#Darbietilpība (Effort)|darbietilpību]]. 
+
 ## Formālā tehniskā apskate (FTR – Formal technical review)
 
 Formāla [[#Apskate (Review)|apskate]], kurā apspriež kādu produktu.
@@ -60,9 +79,7 @@ Formāla [[#Apskate (Review)|apskate]], kurā apspriež kādu produktu.
 Skatīt [[Kvalitātes pārvaldība#Formālas tehniskās apskates]]
 
 
-## Funkcionālie punkti (Function points)
 
-Funkcionālie punkti ir mērvienība, kas apzīmē konkrētu daudzumu funkcionalitātes. Tas ir viens no veidiem kā prognozēt [[#Darbietilpība (Effort)|darbietilpību]]. 
 
 # G
 
@@ -124,7 +141,12 @@ Testēšanas veids, kurā pārbauda moduļa darbību, nezinot kā tas strādā. 
 
 Pretējais [[#Baltās kastes testēšana (White-box tests)|Baltās kastes testēšanai]]
 
+## Metrika (Software metric)
 
+Mērījuma veids, kas saistīts ar programmatūru, procesu vai dokumentāciju.
+Piem. [[#Pirmkoda rindas (Lines Of Code) (LOC)]], Fog indekss, [[#Darbietilpība (Effort)]]
+
+Skat. [[Programmatūras mērīšana]]
 # N
 
 ## Neformālā apskate (Informal review)
@@ -220,6 +242,13 @@ Inspekciju var veikt jebkurai sistēmu pārstāvošai daļai (prasības, dizains
 Programmatūras kvalitāte vienkāršoti nozīmē, ka produkts atbilst specifikācijai, taču kvalitāte ir termins, kas krasi atšķiras izstrādātājiem (atkārtota izmantojamība, uzturamība u.c.) un klientiem (veiktspēja, uzticamība u.c.)
 
 Skatīt [[Kvalitātes pārvaldība#Programmatūras kvalitāte]]
+
+## Programmatūras mērīšana (Software measurement)
+
+Programmatūras mērīšanas mērķis ir aprakstīt kādu programmatūras īpašību ar skaitlisku vērtību.
+
+Skatīt [[Programmatūras mērīšana]]
+
 
 ## Programmatūras standarts (Software standard)
 

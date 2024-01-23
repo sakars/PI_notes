@@ -36,9 +36,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7d20d1e20e07dce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmatūras mērīšana.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 218.5
   },
   "right": {
     "id": "e30c7413e9aee922",
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kvalitātes pārvaldība.md",
+                "file": "Programmatūras mērīšana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kvalitātes pārvaldība.md",
+                "file": "Programmatūras mērīšana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kvalitātes pārvaldība.md"
+                "file": "Programmatūras mērīšana.md"
               }
             }
           },
@@ -156,8 +169,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,45 +187,52 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "bbab987219388919",
+  "active": "7d20d1e20e07dce6",
   "lastOpenFiles": [
-    "Definīcijas.md",
-    "Darbietilpība.md",
     "Kvalitātes pārvaldība.md",
-    "Daily notes/12.01.2024.md",
-    "Humoriņi.md",
-    "Atteli/Pasted image 20240112153310.png",
-    "canvas/Projekta plānošanas process.canvas",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123113650.png",
+    "Programmatūras mērīšana.md",
+    "Definīcijas.md",
+    "Cilvēku pārvaldība.md",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240118161902.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240118162633.png",
+    "Index.md",
+    "Darbietilpība.md",
+    "Riska pārvaldība.md",
     "Projektu plānošana.md",
     "Projekta pārvaldība.md",
-    "canvas",
-    "canvas/Laikplāna veidošanas process.canvas",
     "ISO 9001.md",
-    "Cilvēku pārvaldība.md",
-    "Riska pārvaldība.md",
+    "A.md",
+    "tst/A.md",
+    "tst",
+    "canvas/Laikplāna veidošanas process.canvas",
+    "B.md",
+    "canvas/Riska pārvaldības process.canvas",
+    "canvas/Projekta plānošanas process.canvas",
+    "Humoriņi.md",
+    "Index.html",
+    "Ekranuznemumi.md",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240106183443.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240106183351.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240106151844.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240112153310.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240111151030.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240111132407.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240111131436.png",
+    "Daily notes/12.01.2024.md",
+    "canvas",
     "Daily notes/11.01.2024.md",
-    "Atteli/Pasted image 20240111151030.png",
-    "Atteli/Pasted image 20240111132407.png",
-    "Atteli/Pasted image 20240111131436.png",
     "Daily notes/10.01.2024.md",
     "Daily notes/08.01.2024.md",
     "Daily notes",
     "broken links output.md",
-    "Atteli/Pasted image 20240108174239.png",
-    "Atteli/Pasted image 20240108143228.png",
-    "canvas/Riska pārvaldības process.canvas",
     "Persondienas.md",
     "Personmēnešus.md",
-    "Atteli/Pasted image 20240107210058.png",
-    "Atteli/Pasted image 20240108133913.png",
-    "Atteli/Pasted image 20240108132400.png",
     "qsm.com.md",
-    "Atteli/Pasted image 20240108125017.png",
     "Excalidraw/Drawing 2024-01-06 13.34.14.excalidraw.md",
     "Excalidraw/Drawing 2024-01-06 14.59.21.excalidraw.md",
-    "Atteli",
+    "Prezentāciju ekrānuzņēmumi",
     "definitions",
-    "create a link.md",
     "Excalidraw"
   ]
 }

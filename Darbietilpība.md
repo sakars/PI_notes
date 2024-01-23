@@ -156,6 +156,7 @@ $\text{Pa}$ – lapu skaits uz izmantošanas veidu
 $\text{Ph}$ – vidējais šāda veida apakšsistēmas lapu skaits uz izmantošanas veidu
 
 #### Piemērs
+
 ![[Pasted image 20240108133913.png]]
 
 ## Objektu orientēta prognozēšana
