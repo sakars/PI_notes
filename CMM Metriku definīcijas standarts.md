@@ -4,7 +4,7 @@
 
 ![[Pasted image 20240123122312.png]]
 
-# Vispārējie dati
+# Vispārējie dati![[Pasted image 20240123123141.png]]
 
 ![[Pasted image 20240123123141.png]]
 

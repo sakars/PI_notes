@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lietotāja dokumentācija.md",
+                "file": "CMM Metriku definīcijas standarts.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lietotāja dokumentācija.md",
+                "file": "CMM Metriku definīcijas standarts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lietotāja dokumentācija.md",
+                "file": "CMM Metriku definīcijas standarts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lietotāja dokumentācija.md"
+                "file": "CMM Metriku definīcijas standarts.md"
               }
             }
           },
@@ -183,20 +183,20 @@
   },
   "active": "b3afbdeb3f38966f",
   "lastOpenFiles": [
-    "Index.md",
-    "Darbietilpība.md",
-    "Kvalitātes pārvaldība.md",
-    "ISO 9001.md",
-    "Riska pārvaldība.md",
-    "Projektu plānošana.md",
-    "Projekta pārvaldība.md",
-    "Cilvēku pārvaldība.md",
     "Definīcijas.md",
-    "README.md",
+    "Kvalitātes pārvaldība.md",
     "Programmatūras mērīšana.md",
     "Lietotāja dokumentācija.md",
-    "Humoriņi.md",
+    "Projekta pārvaldība.md",
+    "Cilvēku pārvaldība.md",
     "CMM Metriku definīcijas standarts.md",
+    "Index.md",
+    "Projektu plānošana.md",
+    "Darbietilpība.md",
+    "ISO 9001.md",
+    "Riska pārvaldība.md",
+    "README.md",
+    "Humoriņi.md",
     "Daily notes/23.01.2024.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123211936.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123210900.png",
