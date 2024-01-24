@@ -303,11 +303,12 @@ Prognozes projekta gaitā kļūst uzticamākas, taču svarīgākās prognozes pa
 
 ## Prognozēšanas paņēmieni
 
-[[Humoriņi#Deviņdesmit-deviņdesmit likums (Ninety-ninety rule)|Deviņdesmit-deviņdesmit likums]]
-
-[[Humoriņi#Hofstadtera likums (Hofstadter's law)|Hofstadtera likums]]
-
-[[Humoriņi#Freda Bruksa likums (Fred Brooks' law)|Freda Bruksa likums]]
+> [!tip] Humoriņi
+> [[Humoriņi#Deviņdesmit-deviņdesmit likums (Ninety-ninety rule)|Deviņdesmit-deviņdesmit likums]]
+>
+> [[Humoriņi#Hofstadtera likums (Hofstadter's law)|Hofstadtera likums]]
+>
+>[[Humoriņi#Freda Bruksa likums (Fred Brooks' law)|Freda Bruksa likums]]
 
 > [!info]- Gadījumi iz dzīves
 > - Neveiksmīgi un veiksmīgi projekti kādā datorizstrādes komercsabiedrībā 90.-to gadu vidū
