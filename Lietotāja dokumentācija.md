@@ -154,7 +154,7 @@ Līmeņi:
 - [[#Satura rādītājs]]
 - [[#Ilustrāciju saraksts]]
 - [[#Ievads]]
-- [[#Dokumenta pamatteksts]]
+- Dokumenta pamatteksts
 - [[#Kļūdu situācijas]]
 - [[#Pielikumi]]
 - [[#Atsauces]]

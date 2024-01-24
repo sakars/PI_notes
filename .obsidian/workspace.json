@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projektu plānošana.md",
-                "mode": "source",
+                "file": "Lietotāja dokumentācija.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -36,7 +36,7 @@
               "type": "markdown",
               "state": {
                 "file": "Definīcijas.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projektu plānošana.md",
+                "file": "Lietotāja dokumentācija.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projektu plānošana.md",
+                "file": "Lietotāja dokumentācija.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projektu plānošana.md"
+                "file": "Lietotāja dokumentācija.md"
               }
             }
           },
@@ -183,20 +183,20 @@
   },
   "active": "b3afbdeb3f38966f",
   "lastOpenFiles": [
-    "Darbietilpība.md",
-    "Projektu plānošana.md",
-    "README.md",
-    "Projekta pārvaldība.md",
     "Index.md",
-    "Definīcijas.md",
-    "Riska pārvaldība.md",
-    "Programmatūras mērīšana.md",
-    "Lietotāja dokumentācija.md",
+    "Darbietilpība.md",
     "Kvalitātes pārvaldība.md",
     "ISO 9001.md",
+    "Riska pārvaldība.md",
+    "Projektu plānošana.md",
+    "Projekta pārvaldība.md",
+    "Cilvēku pārvaldība.md",
+    "Definīcijas.md",
+    "README.md",
+    "Programmatūras mērīšana.md",
+    "Lietotāja dokumentācija.md",
     "Humoriņi.md",
     "CMM Metriku definīcijas standarts.md",
-    "Cilvēku pārvaldība.md",
     "Daily notes/23.01.2024.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123211936.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123210900.png",
