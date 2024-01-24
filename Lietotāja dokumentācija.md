@@ -156,7 +156,7 @@ Līmeņi:
 - [[#Ievads]]
 - Dokumenta pamatteksts
 - [[#Kļūdu situācijas]]
-- [[#Pielikumi]]
+- Pielikumi
 - [[#Atsauces]]
 - [[#Skaidrojošā vārdnīca]]
 - [[#Alfabētiskais priekšmetu rādītājs]]
