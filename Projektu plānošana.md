@@ -213,7 +213,7 @@ Tās apraksta kuri darbinieki kuros periodos strādā pie konkrētiem darbiem.
 
 # Agile (spējās izstrādes) plānošana
 
-Spējā izstrāde ir iteratīva pieeja, kurā izstrādi un piegādi klientiem veic periodiski un pa daļām. Atšķirīgi no [[#Plānošanas process|plānošanas]], šīs daļas tiek noteiktas izstrādes laikā.
+[[Definīcijas#Spējā izstrāde (Agile)|Spējā izstrāde]] ir iteratīva pieeja, kurā izstrādi un piegādi klientiem veic periodiski un pa daļām. Atšķirīgi no [[#Plānošanas process|plānošanas]], šīs daļas tiek noteiktas izstrādes laikā.
 
 > [!hint]
 > Tas, kas tiek iekļauts katrā daļā atšķiras no progresa un klienta prioritātēm.
