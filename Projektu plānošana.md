@@ -251,7 +251,7 @@ Ja kāda funkcionalitāte netiek paveikta atvēlētajā laikā, tiek samazināts
 - Ļoti labi strādā **mazās, stabilās komandās**, kas labi sadarbojas.
 - Lielās un ģeogrāfski attālās grupās vai nestabilās grupās ir **gandrīz neiespējami** panākt visu iesaisti plānošanā, kas vajadzīga spējai projekta pārvaldei.
 
-## [[Darbietilpība#Projektu plānošana Agile (spējās izstrādes) plānošana Spējās izstrādes prognozēšana|Spējās izstrādes prognozēšana]]
+![[Darbietilpība#Projektu plānošana Agile (spējās izstrādes) plānošana Spējās izstrādes prognozēšana|Spējās izstrādes prognozēšana]]
 
 
 # Projektu plānošanas darāmie darbi

@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Projektu plānošana.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -181,15 +181,15 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "b3afbdeb3f38966f",
+  "active": "8594ba9eb49c38c9",
   "lastOpenFiles": [
+    "Darbietilpība.md",
+    "Projektu plānošana.md",
+    "README.md",
     "Projekta pārvaldība.md",
     "Index.md",
     "Definīcijas.md",
-    "Darbietilpība.md",
-    "README.md",
     "Riska pārvaldība.md",
-    "Projektu plānošana.md",
     "Programmatūras mērīšana.md",
     "Lietotāja dokumentācija.md",
     "Kvalitātes pārvaldība.md",
