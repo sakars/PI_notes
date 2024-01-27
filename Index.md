@@ -25,6 +25,11 @@ Eseju jāveido ļoti aprakstošā formātā. **Obligāti jāiesāk ar terminu de
 
 ## KD2 Agrākās tēmas
 
+Jautājumi ir pārfrāzēti un nav 1:1
+
+- Kas ir darbietilpība, kā to prognozēt?
+- Kā pamatot Darbietilpību jau izstrādātam projektam, pieņemot, ka izstrādi veica "vidējais" programmētājs?
+- Projektu plānošana: izskaidrot kritiskā ceļa metodi un ganta diagrammas.
 
 
 Ir samērā liela iespēja, ka tiks pajautāts par darbietilpības pamatošanu jau izstrādātam projektam (skatīt [[Darbietilpība#Darbietilpības pamatošana]]). Šī tēma parādījās gan KD2, gan pārrakstīšanā, kā arī šis ir vienīgais normāli iztulkotais dokuments no Borzova materiāliem.

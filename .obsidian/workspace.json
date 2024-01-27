@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Projektu plānošana.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Projektu plānošana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Projektu plānošana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Projektu plānošana.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "b3afbdeb3f38966f",
   "lastOpenFiles": [
-    "Darbietilpība.md",
     "Index.md",
+    "Darbietilpība.md",
     "Projektu plānošana.md",
     "Definīcijas.md",
     "Cilvēku pārvaldība.md",

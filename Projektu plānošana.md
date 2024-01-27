@@ -194,6 +194,9 @@ Katrai aktivitātei ir:
 > [!info] Rediģētāja piezīme
 > Šī tēma, cik man zināms, neparādās slaidos, bet no nekurienes uzpeldēja kā viens no KD2 jautājumiem
 
+Kritiskā ceļa metode apskata darba tīklu un atrod laika ziņā visgarāko ceļu. Tas palīdz saprast, kurus darbus jāprioritizē par katru cenu, lai nekavētu projektu
+
+[Critical Path Method in Project Management | Wrike](https://www.wrike.com/blog/critical-path-is-easy-as-123/#:~:text=The%20Critical%20Path%20Method%20(CPM,activities%20from%20start%20to%20end.)
 ## Laikjoslas tabulas - Ganta diagrammas
 
 ![[Pasted image 20240107011257.png]]
