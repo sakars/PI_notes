@@ -4,6 +4,9 @@
 
 Galvenā pierakstu doma ir apvienot prezentāciju slaidus un savienot dažādās tēmas caur iekšējām saitēm.
 
+> [!info] Šis būs smagi
+> Mūsu gadā aptuveni 50-70% studentu bija nesekmīgi pirms labošanas. Ja nekas nav mainījies, vienu no KD drīkst atstāt nesekmīgi, bet vēlu veiksmi izvilkt 8-10 ar nesekmīgu KD2
+
 
 # KD2 iespējamās tēmas
 
@@ -16,6 +19,15 @@ Galvenā pierakstu doma ir apvienot prezentāciju slaidus un savienot dažādās
 - [[Lietotāja dokumentācija]]
 - [[Programmatūras mērīšana|Programmatūras metrikas]]
 
+## Svarīgas detaļas
+
+Eseju jāveido ļoti aprakstošā formātā. **Obligāti jāiesāk ar terminu definēšanu!!!** Bez tā atzīme aizies pa burbuli.
+
+## KD2 Agrākās tēmas
+
+
+
+Ir samērā liela iespēja, ka tiks pajautāts par darbietilpības pamatošanu jau izstrādātam projektam (skatīt [[Darbietilpība#Darbietilpības pamatošana]]). Šī tēma parādījās gan KD2, gan pārrakstīšanā, kā arī šis ir vienīgais normāli iztulkotais dokuments no Borzova materiāliem.
 # Papildus info
 
 Ieteicams skatīt [[Definīcijas]], lai orientētos uz info par terminiem.

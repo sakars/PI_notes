@@ -6,7 +6,7 @@
       {
         "id": "d04706a6ad24896f",
         "type": "tabs",
-        "dimension": 68.75981161695447,
+        "dimension": 68.75981161695448,
         "children": [
           {
             "id": "b3afbdeb3f38966f",
@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMM Metriku definīcijas standarts.md",
-                "mode": "preview",
+                "file": "Index.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "5ce51ac42a824313",
         "type": "tabs",
-        "dimension": 31.240188383045524,
+        "dimension": 31.240188383045528,
         "children": [
           {
             "id": "cccdaebceac288de",
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "defekt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5,
-    "collapsed": true
+    "width": 218.5
   },
   "right": {
     "id": "e30c7413e9aee922",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMM Metriku definīcijas standarts.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMM Metriku definīcijas standarts.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMM Metriku definīcijas standarts.md"
+                "file": "Index.md"
               }
             }
           },
@@ -183,20 +182,20 @@
   },
   "active": "b3afbdeb3f38966f",
   "lastOpenFiles": [
+    "Darbietilpība.md",
+    "Index.md",
+    "Projektu plānošana.md",
     "Definīcijas.md",
+    "Cilvēku pārvaldība.md",
+    "Humoriņi.md",
+    "ISO 9001.md",
     "Kvalitātes pārvaldība.md",
+    "CMM Metriku definīcijas standarts.md",
     "Programmatūras mērīšana.md",
     "Lietotāja dokumentācija.md",
     "Projekta pārvaldība.md",
-    "Cilvēku pārvaldība.md",
-    "CMM Metriku definīcijas standarts.md",
-    "Index.md",
-    "Projektu plānošana.md",
-    "Darbietilpība.md",
-    "ISO 9001.md",
     "Riska pārvaldība.md",
     "README.md",
-    "Humoriņi.md",
     "Daily notes/23.01.2024.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123211936.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240123210900.png",

@@ -189,6 +189,11 @@ Katrai aktivitātei ir:
 ![[Pasted image 20240107005429.png]]
 Šeit redzams kā daļa no darbiem ir savietoti paralēli, lai tos var darīt vienlaicīgi dažādas komandas. ^1bp4xd
 
+## Kritiskā ceļa metode
+
+> [!info] Rediģētāja piezīme
+> Šī tēma, cik man zināms, neparādās slaidos, bet no nekurienes uzpeldēja kā viens no KD2 jautājumiem
+
 ## Laikjoslas tabulas - Ganta diagrammas
 
 ![[Pasted image 20240107011257.png]]
