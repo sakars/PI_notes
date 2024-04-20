@@ -63,7 +63,7 @@ Funkcionālās verifikācijas testu – Kods atbilst funkcionālajām prasībām
 	- Programmēšana
 	- Dokumentēšana
 5. Vienībtestēšana
-6. [[Testēšana]]
+6. [[Ievads|Testēšana]]
 	- Integrācijas t.
 	- Sistēmas t.
 	- Akceptēšanas t.

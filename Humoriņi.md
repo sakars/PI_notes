@@ -24,3 +24,15 @@ Ko viens programmētājs var izdarīt vienā mēnesī, divi var izdarīt divos m
 > What one programmer can do in one month,
 > two programmers can do in two months.
 > — Fred Brooks
+
+
+# QA joki
+
+A QA engineer walks into a bar.
+Orders a beer. Orders 0 beers.
+Orders 999999999 beers.
+Orders a lizard. Orders -1 beer.
+Orders a asdkjasd.
+
+First real customer walks in and asks where the bathroom is.
+The bar bursts into flames, killing everyone

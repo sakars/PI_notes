@@ -7,8 +7,8 @@
 
 
 
-Ieteicamais sākumpunkts ir [Index.md](./Index.md), tur ir iekšējās saites uz galvenajām tēmām.
-Vēl viens noderīgs sākumpunkts ir [Definīcijas.md](./Definīcijas.md), kur atrodami alfabētiski savietoti svarīgi un ievērojami termini. Bieži tiem arī ir piesaistītas iekšējās saites uz datnēm ar 
+Ieteicamais sākumpunkts ir [Index.md](Index.md), tur ir iekšējās saites uz galvenajām tēmām.
+Vēl viens noderīgs sākumpunkts ir [Definīcijas.md](Definīcijas.md), kur atrodami alfabētiski savietoti svarīgi un ievērojami termini. Bieži tiem arī ir piesaistītas iekšējās saites uz datnēm ar 
 
 ### Piezīme
 > Neuzņemos atbildību, ja kko esmu palaidis garām vai kur slikti tulkoju vai kļūdījos. Šis ir lietojams tikai kā sekundārais avots. Lūdzu pašiem pārskatīt pasniedzēju materiālus un ziņot, izveidojot issues vai forkojot un izveidojot PR, ja ir atrastas nepilnības.

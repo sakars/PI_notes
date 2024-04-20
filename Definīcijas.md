@@ -1,3 +1,8 @@
+---
+aliases:
+  - D
+---
+
 #definīcijas
 # A
 
@@ -6,6 +11,14 @@
 Process, kurā kādu darba produktu (dokumentāciju, komponentes dizainu, komponentes kodu) izvērtē pēc zināmām kvalitātes prasībām un atrod [[#Defekts|defektus]].
 
 Skatīt [[Kvalitātes pārvaldība#Apskates un inspekcijas (Reviews and inspections)]]
+
+## Atkļūdošana (debugging)
+
+Izstrādes aktivitāte, ar kuras palīdzību atrod, analizē, labo sistēmas [[#Defekts (Defect)|defektus]]
+
+## Atteice (Failure)
+
+Programmatūra nedarbojas kā paredzēts dažādu iemeslu dēļ.
 # Ā
 
 # B
@@ -23,6 +36,13 @@ Pretējais [[#Melnās kastes testēšana (Black-box testing)|Melnās kastes test
 jeb programmatūras izstrāde ar datora palīdzību.
 **CASE tools** - programmatūras rīki, kas palīdz izstrādei.
 
+## Cēlonis (Root cause)
+
+Darbība, kas izraisīja [[#Defekts (Defect)|defektu]]: nepareiza sintakse kodā, nepareizu vērtību izmantošana u.c.
+
+## Cēloņu analīze (Root cause analysis)
+
+[[#Cēlonis (Root cause)|Cēloņa]] izmeklēšana, analīze, lai novērstu turpmāku problēmas atkārtošanos.
 ## CMM (Capability maturity model)
 
 Modelis, kas raksturo programmatūras briedumu pēc tā spējām.
@@ -116,11 +136,32 @@ Skatīt [[Kvalitātes pārvaldība#Formālas tehniskās apskates]]
 
 # I
 
+## Incidents (failure)
+
+![[#Atteice (Failure)]]
+
+
 # Ī
 
 # J
 
 # K
+
+## Kļūda (Error)
+
+Cilvēka (tipiski programmētāja) darbības vai lēmuma rezultātā radīts nekorekts, negaidīts rezultāts.
+Cilvēks kļūdas, rakstot kodu vai dokumentu.
+
+## Kļūdaini negatīvs (False negative)
+
+[[#Kļūme (Failure)|Kļūme]], kas tika palaista garām.
+## Kļūdaini pozitīvs (False positive)
+
+Atrasta [[#Kļūme (Failure)|kļūme]], kur īstenībā kļūmes nav.
+
+## Kļūme (Failure)
+
+![[#Atteice (Failure)]]
 
 ## Kvalitātes apskate (Quality review)
 
@@ -141,10 +182,16 @@ Nesajaukt ar [[#Kvalitātes nodrošināšana (Quality assurance)]]
 Skatīt [[Kvalitātes pārvaldība]]
 ## Kvalitātes nodrošināšana (Quality assurance)
 
+### PI definīcija
 Procesi un standarti, kuriem *vajadzētu* rezultēties augstas kvalitātes produktos, kā arī šo procesu un standartu ieviešana izstrādes procesā.
 
 Nesajaukt ar [[#Kvalitātes kontrole (Quality control)]]
 Skatīt [[Kvalitātes pārvaldība]]
+
+### PT definīcija
+Sistemātisks process, lai noteiktu vai produkts vai pakalpojums atbilst noteiktām prasībām un piemērots paredzētajiem mērķiem. Ietver visu izstrādes procesu un nodrošina, ka katrs produkta aspekts ir kvalitatīvs.
+
+Skatīt [[Kvalitātes nodrošināšana un testēšana]]
 # Ķ
 
 # L
@@ -264,6 +311,10 @@ Skat. [[Kvalitātes pārvaldība#Programmatūras standarti]]
 Tā ir biedru [[#Apskate (Review)|apskate]], kur tiek pētīts produkta avots (pirmkods, dokumenti), meklējot anomālijas vai defektus.
 Tām parasti nav vajadzīga sistēmas izmantošana, līdz ar to inspekciju var veikt pirms implementācijas.
 Inspekciju var veikt jebkurai sistēmu pārstāvošai daļai (prasības, dizains, [[Konfigurācijas pārvaldība|konfigurācijas]] dati, testu dati u.c.)
+
+## Programmatūra (Software)
+
+Datoru programmas, procedūras un ar tām saistītā dokumentācija.
 ## Programmatūras kvalitāte (Software quality)
 
 Programmatūras kvalitāte vienkāršoti nozīmē, ka produkts atbilst specifikācijai, taču kvalitāte ir termins, kas krasi atšķiras izstrādātājiem (atkārtota izmantojamība, uzturamība u.c.) un klientiem (veiktspēja, uzticamība u.c.)
@@ -312,7 +363,13 @@ Scrum ir [[#Spējā izstrāde (Agile)|spējās izstrādes]] ietvars, kas dala da
 
 [Scrum (software development) - Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
 
+## Sekas (Effects)
 
+_PT kontekstā_
+Pēc [[#Programmatūra (Software)|programmatūras]] [[#Atteice (Failure)|atteices]] produkcijas vidē iesniedz problēmas pieteikumu vai sūdzību.
+Sekas var arī būt arī darbinieka atlaišana.
+
+Skatīt [[Ievads|Testēšana]]
 ## Spējā izstrāde (Agile)
 
 Izstrādes veids, kas koncentrējas uz mazām grupām un ātriem izstrādes cikliem. Šis izstrādes veids spēj strauji pielāgoties prasību maiņām un piegādā programmatūru katra cikla beigās.
@@ -330,6 +387,16 @@ Skatīt [[Projektu plānošana#Agile (spējās izstrādes) plānošana]]
 Punkts [[Projektu plānošana#Laikplānošana|laikplānā]] pēc kura var izvērtēt progresu, piemēram, kad iespējams nodot programmatūru testēšanai.
 
 # T
+
+## Testēšana (Testing)
+
+1. [[#Programmatūra (Software)|Programmatūras]] un aparatūras pārbaude, izmantojot [[#Tests (Test)|testus]].
+2. [[#Kvalitātes nodrošināšana (Quality assurance)|Kvalitātes nodrošināšanas]] apakškopa un attiecas uz sistēmas vai komponentu novērtēšanu ar nolūku noskaidrot, vai tās atbilst noteiktajām prasībām.
+
+Skatīt [[Kvalitātes nodrošināšana un testēšana]]
+## Tests (Test)
+
+Standartizēts uzdevums, pēc kura izpildīšanas var pārbauīt datora vai sistēmas atbilstību paredzētajām prasībām.
 # U
 # Ū
 # V
