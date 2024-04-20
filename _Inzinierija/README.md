@@ -7,7 +7,7 @@
 
 
 
-Ieteicamais sākumpunkts ir [Index.md](Index.md), tur ir iekšējās saites uz galvenajām tēmām.
+Ieteicamais sākumpunkts ir [Index.md](_Inzinierija/Index.md), tur ir iekšējās saites uz galvenajām tēmām.
 Vēl viens noderīgs sākumpunkts ir [Definīcijas.md](Definīcijas.md), kur atrodami alfabētiski savietoti svarīgi un ievērojami termini. Bieži tiem arī ir piesaistītas iekšējās saites uz datnēm ar 
 
 ### Piezīme

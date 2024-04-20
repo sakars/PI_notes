@@ -8,17 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Daily notes\"  ",
+      "query": "path: \"Daily notes\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "tag:#definīcijas  ",
+      "query": "path: Universal  ",
       "color": {
         "a": 1,
         "rgb": 2816512
+      }
+    },
+    {
+      "query": "path: _Inzinierija",
+      "color": {
+        "a": 1,
+        "rgb": 4333806
+      }
+    },
+    {
+      "query": "path:_Testesana  ",
+      "color": {
+        "a": 1,
+        "rgb": 16768256
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 11.1642411642412,
   "linkStrength": 1,
   "linkDistance": 245,
-  "scale": 0.8249654094530693,
-  "close": false
+  "scale": 0.5407634675865621,
+  "close": true
 }

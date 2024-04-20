@@ -10,7 +10,8 @@ aliases:
 
 Process, kurā kādu darba produktu (dokumentāciju, komponentes dizainu, komponentes kodu) izvērtē pēc zināmām kvalitātes prasībām un atrod [[#Defekts|defektus]].
 
-Skatīt [[Kvalitātes pārvaldība#Apskates un inspekcijas (Reviews and inspections)]]
+Skatīt [[Kvalitātes pārvaldība#Apskates un inspekcijas (Reviews and inspections)]], [[Statiskā testēšana#Apskates]]
+
 
 ## Atkļūdošana (debugging)
 
@@ -19,6 +20,7 @@ Izstrādes aktivitāte, ar kuras palīdzību atrod, analizē, labo sistēmas [[#
 ## Atteice (Failure)
 
 Programmatūra nedarbojas kā paredzēts dažādu iemeslu dēļ.
+Arī [[#Kļūme (Failure)]], [[#Incidents (failure)]]
 # Ā
 
 # B
@@ -35,6 +37,9 @@ Pretējais [[#Melnās kastes testēšana (Black-box testing)|Melnās kastes test
 **C**omputer **A**ided **S**oftware **E**ngineering
 jeb programmatūras izstrāde ar datora palīdzību.
 **CASE tools** - programmatūras rīki, kas palīdz izstrādei.
+
+## Caurskatīšana (Walkthrough)
+[[#Apskate (Review)|Apskates]] veids.
 
 ## Cēlonis (Root cause)
 
@@ -88,6 +93,13 @@ Skatīt:
 ## Defekts (Defect)
 
 [[#Apskate (Review)|Apskatē]] vai testēšanā atrasta problēma kodā.
+
+## Dinamiskā testēšana (Dynamic testing)
+
+[[#Testēšana (Testing)|Programmatūras testēšana]], izpildot programmatūras kodu.
+
+Skatīt [[Dinamiskā testēšana]], [[#Statiskā testēšana (static testing)]]
+
 # E
 
 ## Ekstrēmā programmēšana (XP or eXtreme Programming)
@@ -136,7 +148,7 @@ Skatīt [[Kvalitātes pārvaldība#Formālas tehniskās apskates]]
 
 # I
 
-## Incidents (failure)
+## Incidents (Failure)
 
 ![[#Atteice (Failure)]]
 
@@ -226,6 +238,10 @@ Skat. [[Programmatūras mērīšana]]
 ## Neformālā apskate (Informal review)
 
 Neformāla [[#Apskate (Review)|apskate]], kas iekļauj mazāk plānošanas nekā [[#Formālā tehniskā apskate (FTR – Formal technical review)|formālai tehniskajai apskatei]]. Tās mērķis ir iegūt citu viedokļus bez smagas dokumentēšanas un birokrātijas.
+To izmanto arī risinājumu, ideju ģenerēšanai, nelielu problēmu risināšanai.
+
+Rezultāti var tikt dokumentēti.
+Bieži izmanto [[#Spējā izstrāde (Agile)|spējās izstrādes]] dzīves cikla laikā.
 
 Skatīt [[Kvalitātes pārvaldība#Neformālās apskates]]
 
@@ -380,6 +396,12 @@ Skatīt [[Projektu plānošana#Agile (spējās izstrādes) plānošana]]
 ## Spējās izstrādes sprints (Agile sprint)
 
 Īsa izstrādes iterācija, kas koncentrējas uz nākamo sistēmas izdevumu. Parasti sprints aizņem 2-4 nedēļas komandai.
+
+## Statiskā testēšana (static testing)
+
+[[#Testēšana (Testing)|Programmatūras testēšana]], neizpildot programmatūras kodu.
+
+Skatīt [[Statiskā testēšana]], [[#Dinamiskā testēšana (Dynamic testing)]]
 
 # Š
 ## Šķirtne (Milestone)
