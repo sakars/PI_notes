@@ -112,6 +112,13 @@ Skatīt:
 
 Skatīt [[Dinamiskā testēšana]], [[#Statiskā testēšana (static testing)]]
 
+## Dūmu testēšana (smoke test)
+
+Pārliecinās, vai programmatūras kritiskā funkcionalitāte darbojas
+- Pārbauda sistēmas stabilitāti
+- Pārbauda/izpilda visu sistēmu
+- Ir kā vispārējā veselības pārbaude
+
 # E
 
 ## Ekstrēmā programmēšana (XP or eXtreme Programming)
@@ -300,7 +307,12 @@ Virzīt resursus uz tiem produktiem, kuriem ir lielākās prognozētās problēm
 
 Skatīt [[Kvalitātes pārvaldība#Apskates un inspekcijas (Reviews and inspections)]]
 
+## Pareizības testēšana (sanity test)
 
+Pārbauda vai visas kļūdas ir novērstas pēc būvējuma izveidošanas
+- Pārbauda piegādes racionalitāti, lai turpinātu ar stingrākiem testiem
+- Pārbauda/izpilda konkrētu sistēmas komponentu
+- Ir kā specializēta veselības pārbaude
 ## Pāru programmēšana (Pair programming)
 
 Programmēšanas veids, kurā programmē vienlaicīgi 2 cilvēki pie viena datora. Viens raksta kodu, otrs pārlūko uzrakstīto un izsaka ieteikumus. Pēc kāda laika abi apmainās.

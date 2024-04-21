@@ -371,3 +371,6 @@ Tipiski defektu ziņojumu mērķi:
 - Komentāri
 - Labojumu vēsture
 - Atsauces, neveiksmīgie testa gadījumi
+
+![[Pasted image 20240421193734.png]]
+

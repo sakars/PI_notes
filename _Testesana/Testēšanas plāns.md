@@ -7,7 +7,7 @@
 - Tehnoloģiju raksturojums - mobilās lietotnes versijas numurs, vide u.c.
 - Kas tiks testēts - augstā līmenī norādīts, kas tiks testēts un kas sagaidīts
 - Kas netiks testēts - atzīme vēlākiem testēšanas posmiem
-- Testa stratēģija -  kā tiks veikti testi (izpētes testēšana, dūmu testēšana utt.)
+- Testa stratēģija -  kā tiks veikti testi (izpētes testēšana, [[Definīcijas#Dūmu testēšana (smoke test)|dūmu testēšana]] utt.)
 - Kas tiks manuāli pārbaudīts, kas tiks automatizēts - lai zinātu kādi resursi no QA ir piešķirami
 
 # IEEE 829

@@ -12,3 +12,5 @@
 3. [[Statiskā testēšana]]
 4. [[Testēšana programmatūras dzīves ciklā]]
 5. [[Testēšanas pārvaldība]]
+6. [[GoogleTest]]
+7. [[Rīku atbalsts testēšanai]]

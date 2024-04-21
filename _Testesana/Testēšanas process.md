@@ -35,6 +35,7 @@ Ir kopīgas aktivitāšu kopas, bez kurām būs mazāka iespēja sasniegt izvirz
 ## Analīze
 > **Ko testēt?**
 
+Analīze jeb **prasību analīze**
 - Nosaka testu bāzi
 	- Prasību specifikācijas:
 		- Biznesa prasības
