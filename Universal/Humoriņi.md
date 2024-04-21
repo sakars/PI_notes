@@ -36,3 +36,6 @@ Orders a asdkjasd.
 
 First real customer walks in and asks where the bathroom is.
 The bar bursts into flames, killing everyone
+
+# Plāns vs realitāte
+![[Pasted image 20240421113058.png]]

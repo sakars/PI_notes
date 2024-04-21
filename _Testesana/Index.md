@@ -11,4 +11,4 @@
 	7. [[Cilvēka psiholoģija un testēšana]]
 3. [[Statiskā testēšana]]
 4. [[Testēšana programmatūras dzīves ciklā]]
-5. 
+5. [[Testēšanas pārvaldība]]
