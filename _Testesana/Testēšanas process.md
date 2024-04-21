@@ -119,6 +119,9 @@ Ir kopīgas aktivitāšu kopas, bez kurām būs mazāka iespēja sasniegt izvirz
 
 **Rezultāts**: testu atskaites, tai skaitā progresa atskaites
 
+Skatīt arī [[Testēšanas pārvaldība#Testu uzraudzība un kontrole]]
+
+
 ## Izsekojamība
 Svarīgi ir nodrošināt izsekojamību visiem testēšanas darba produktiem ar testu bāzi
 

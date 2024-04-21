@@ -161,7 +161,181 @@ Novērtējot testēšanas darbu, tam ieskaita arī to, kas nepieciešams projekt
 
 Produkta īpašības:
 - Saistītie riski
-- Testu bāzes kvalitāte
-- 
+- [[Definīcijas#Testu bāze|Testu bāzes]] kvalitāte
+- Produkta izmērs
+- Produkta domēna sarežģītība
+- Kvalitātes raksturlielumu prasības (drošība, veiktspēja utt.)
+- Testēšanas dokumentācijas detalizācijas līmenis
+- Prasības likumdošanas un regulatoru atbilstībai
 
+Izstrādes procesa īpašības:
+- Organizācijas stabilitāte
+- Izmantotais modelis
+- Testēšanas pieeja
+- Izmantotie rīki
+- Testēšanas process
+- Laika spiediens
 
+Cilvēku īpašības:
+- Iesaistīto cilvēku prasmes un pieredze
+- Komandas saliedētība un līderība
+
+Testēšanas reziltāts:
+- Atrasto defektu skaits un ietekme
+- Nepieciešamais pārstrādāšanas apjoms (cik daudz jāpārtaisa)
+
+## Testēšanas novērtēšanas tehnikas
+### Metriku balstīta tehnika
+- Lieto līdzīgu projektu metrikas vai tipiskās metriku vērtības (vadās pēc citu projektu datiem)
+- Burndown diagrammas (salīdzina padarīto ar neizdarīto)
+- Defektu samazināšanas modeļi (cik vēl defekti un to novēršanas laiks)
+
+### Ekspertu balstīta tehnika
+- Balstās uz Ekspertiem lai noteiktu, ko un cik daudz testēt
+- Plānošanas pokers (min cik vēl jādara pēc pieredzes)
+- Wideband Delphi (eksperti min cik vēl jādara pēc pieredzes)
+
+# Testu uzraudzība un kontrole
+Skatīt arī [[Testēšanas process#Uzraudzība un kontrole]]
+
+Uzraudzības mērķis: nodrošināt atgriezenisko saiti par testēšanas aktivitātēm.
+
+Uzraudzības informāciju apkopo manuāli un/vai automātiski. To lieto progresa vai pabeigšanas kritēriju novērtēšanai.
+
+Testu kontrole apraksta ko darīt atkarībā no ziņotās informācijas vai metrikām.
+
+Kontroles piemēri:
+- Testu prioritāšu maiņa identificēta riska gadījumā
+- Testēšanas grafika maiņa resursu nepieejamības dēļ
+- Atkārtota testējamā vienuma novērtēšana, vai tas atbilst uzsākšanas vai pabeigšanas kritērijiem
+
+## Metriku nozīme
+
+Metrikas palīdz novērtēt:
+- progresu pret plānoto grafiku un budžetu
+- Testējamā objekta kvalitāti
+- Testēšanas pieejas atbilstību
+- Testēšanas aktivitāšu efektivitāti attiecībā pret mērķiem
+
+## Metriku piemēri
+
+- Cik testi tikuši izstrādāti no paredzētajiem
+- Paveikto darbu procents
+- Testu gadījumu izpilde (izpildīti/neizpildīti, veiksmīgi/neveiksmīgi)
+- Defektu informācija (blīvums, atrastie, labotie, atteices reitings, apstiprinājuma testu rezultāti)
+- Testu pārklājums
+- Uzdevumu pabeigšana resursu piešķiršana un izmantošana
+- Testēšanas izmaksas
+
+## Testēšanas ziņojumi
+
+Mērķis: apkopot un komunicēt informāciju par testēšanas darbībām gan testēšanas laikā, gan beigās.
+
+Testēšanas progresa ziņojums satur:
+- Testēšanas aktivitāšu statuss
+- Progress attiecībā pret testēšanas plānu
+- Faktori kas kavē progresu
+- Plānotās testēšanas aktivitātes nākamajam periodam
+- Testējamā objekta kvalitāte
+
+Testēšanas kopsavilkuma ziņojums satur:
+- Testēšanas kopsavilkums
+- Informācija par atgadījumiem
+- Aktivitāšu novirzes no plāna
+- Testēšanas statuss un produkta kvalitāte
+- Faktori, kas bloķējuši progresu
+- Defekt, testu gadījumu testu pārklājumu, aktivitāšu progress un resursu patēriņa metrikas
+- Atlikušie riski
+- Atkārtoti lietojamie testēšanas darba produkti
+
+Ziņojumu reālais saturs atšķiras no dzīves cikla, organizācijas, projekta
+Testa ziņojumus jāpielāgo adresātam: izstrādātājiem defekti, vadībai progress
+
+# Konfigurācijas pārvaldība
+
+Mērķis: Projekta dzīves cikla laikā izveidot un uzturēt sistēmas, komponentu, testprogrammatūras un to saišu integritāti
+
+![[Pasted image 20240421183431.png]]
+
+Konfigurācijas pārvaldība nodrošina:
+- Visiem testējamiem vienumiem ir unikāli id, versiju kontrole, var izsekot veiktajām izmaiņām, ir savstarpējas saites un saites ar testējamo vienumu versijām
+- Dokumentācijā atsauces uz identificētiem dokumentiem un programmatūras vienumiem ir nepārprotamas
+
+Konfigurācijas pārvaldības procedūras un rīkus identificē [[Testēšanas process#Plānošana|plānošanas]] laikā
+
+# Riski un testēšana
+
+Skatīt [[Riska pārvaldība]]
+
+Riski iedalās pēc **Iespējamības** un **Ietekmes**
+
+Iespējamība:
+- Augsta
+- Vidēja
+- Zema
+
+Ietekme:
+- Kritiska
+- Vidēja
+- Nenozīmīga
+
+## Produkta un projekta riski
+
+**Produkta risks**: Iespējamība ka darba produkts neatbilst ieinteresēto personu prasībām.
+
+Piemēri:
+- Programmatūra neatbilst specifikācijai
+- Programmatūra neatbilst ieinteresēto personu vēlmēm
+- Sistēmas arhitektūra neatbalsta funkcionālās prasības
+- Konkrēts aprēķins ir nepareizs
+- Cikla kontroles struktūra programmēta nepareizi
+- Sistēmas atbildes laiks nepietiekams pie slodzes
+- Gala lietotāja atsauksmes var neatbilst produkta prasībām
+
+**Projekta risks**: Negatīvi ietekmē projekta spēju sasniegt tā mērķus
+
+Piemēri:
+- Projekta problēmas:
+	- Piegādes, uzdevumu izpildes, pabeigšanas kritēriju izpildes kavēšanās
+	- Neprecīzi novērtējumi, līdzekļu pārdale, finansējuma trūkums
+	- Novēlotas izmaiņas pieprasa pārstrādi
+- Organizatoriskās problēmas
+	- Nepietiekamas personāla prasmes
+	- Personāla problēmas
+	- Lietotāji, personāls nepieejams
+- Politiskās problēmas
+	- Testētāji nekomunicē savas vajadzības un/vai testēšanas rezultātus
+	- Izstrādātāji/testētāji ignorē apskates
+	- Var būt nepareiza attieksme pret testēšanu
+- Tehniskās problēmas
+	- Prasības nav pietiekami labi definētas
+	- Ņemot vērā ierobežojumus, prasības var netikt izpildītas
+	- Testa vide var nebūt gatava laikā
+	- Datu konvertēšana
+	- Migrācijas plānošana var kavēties
+	- Izstrādes nepilnības var ietekmēt darba produktu
+	- Slikta defektu pārvaldība var izraisīt defektu uzkrāšanos un tehnisko parādu
+- Piegādātāja problēmas
+	- Trešā puse nepiegādā produktu vai bankrotē
+	- Līguma problēmas rada sarežģījumus projekta izpildei
+
+## Risku balstīta testēšana
+
+Proaktīvas darbības produkta riska mazināšanai:
+- Analīze: riska identificēšana, iespējamības un ietekmes novērtēšana
+- Testu plānošana, projektēšana, sagatavošana, izpilde, uzraudzība un kontrole ([[Testēšanas process#Aktivitātes|testēšanas aktivitātes]])
+
+Agrīna risku analīze veicina projekta panākumus
+
+Risku balstītā pieejā riska analīzes rezultātus izmanto, lai noteiktu:
+- Pielietojamās testēšanas tehnikas
+- Pielietojamos testēšanas līmeņus un tipus (piemēram drošības testēšana, pieejamības testēšana)
+- Testējamo apjomu (tvērumu/*scope*)
+- Testu prioritātes, atrodot kritiskos defektus
+- Papildus aktivitātes riska mazināšanai (piemēram, apmācības)
+
+Lai mazinātu produkta [[Definīcijas#Kļūme (Failure)|kļūmes/atteices]] iestāšanās iespējamību līdz minimumam, jānodrošina disciplinēta pieeja:
+- Regulāri analizēt riskus
+- Nosakiet kuriem riskiem jāpievērš uzmanība
+- Īstenojiet darbības risku mazināšanai
+- Izveidojiet [[Riska pārvaldība#Ārkārtas (Contingency) plāns|ārkārtas plānus]], ja iestājas riski

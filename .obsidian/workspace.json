@@ -28,14 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Testesana/Testēšanas process.md",
+                "file": "_Testesana/Testēšanas pārvaldība.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universal/Definīcijas.md",
+                "file": "_Testesana/Testēšanas pārvaldība.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universal/Definīcijas.md",
+                "file": "_Testesana/Testēšanas pārvaldība.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universal/Definīcijas.md"
+                "file": "_Testesana/Testēšanas pārvaldība.md"
               }
             }
           },
@@ -173,10 +173,13 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "9dc0be4b776835db",
+  "active": "2907d741ba2b9665",
   "lastOpenFiles": [
-    "_Testesana/Testēšanas process.md",
+    "_Inzinierija/Riska pārvaldība.md",
     "_Testesana/Testēšanas pārvaldība.md",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240421183431.png",
+    "_Testesana/Testēšanas process.md",
+    "Universal/Definīcijas.md",
     "_Testesana/Testēšana programmatūras dzīves ciklā.md",
     "_Testesana/Statiskā testēšana.md",
     "Untitled.md",
@@ -186,7 +189,6 @@
     "_Testesana/Dinamiskā testēšana.md",
     "_Testesana/Testēšanas plāns.md",
     "_Testesana/Index.md",
-    "Universal/Definīcijas.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421132811.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421113456.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421113431.png",
@@ -197,7 +199,6 @@
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421112901.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421112556.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421112544.png",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240421110651.png",
     "_Testesana/Ievads.md",
     "_Testesana/Kvalitātes nodrošināšana un testēšana.md",
     "_Inzinierija/Lietotāja dokumentācija.md",
@@ -209,8 +210,6 @@
     "_Inzinierija/Darbietilpība.md",
     "_Inzinierija/CMM Metriku definīcijas standarts.md",
     "_Inzinierija/Cilvēku pārvaldība.md",
-    "_Inzinierija/Riska pārvaldība.md",
-    "_Inzinierija/Projektu plānošana.md",
     "Universal",
     "_Testesana",
     "_Inzinierija",
