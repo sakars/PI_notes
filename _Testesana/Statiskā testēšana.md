@@ -7,7 +7,7 @@
 - Epiki, lietotāju stāsti, akceptēšanas kritēriji
 - Arhitektūras un projektējuma specifikācijas
 - Kods
-- Testa programmatūru *(testware)*, iekļaujot testēšanas plānus, testu gadījumus, automatizētos testu skriptus
+- Testa programmatūru *(testware)*, iekļaujot testēšanas plānus, [[Definīcijas#Testa gadījums|testu gadījumus]], automatizētos testu skriptus
 - Lietotāja rokasgrāmatas
 - Līgumi, projekta plāni, laika grafiki un budžeta plāni
 - Programmatūras, infrastruktūras konfigurācija
@@ -40,7 +40,7 @@ Lielāko daļu uzturēšanas defektu var atrast ar statisko testēšanu:
 Statisko testēšanu var veiktL
 - **Manuāli**, veicot [[Definīcijas#Apskate (Review)|apskates]] procesu
 - **Automātiski**, veicot testēšanu ar rīku palīdzību *(static analysis)*
-# Apskates
+# Manuāla testēšana: Apskates
 
 Neatkarīgi no apskates veida, vienmēr jāsagatavojas pēc iespējas vairāk.
 
@@ -106,3 +106,50 @@ Elektroniskie rīki var aizstāt protokolētāju.
 ![[Definīcijas#Formālā tehniskā apskate (FTR – Formal technical review)|D]]
 
 ![[Definīcijas#Programmas inspekcija|D]]
+
+## Apskates tehnikas
+
+### Ad hoc
+![[Definīcijas#Ad hoc|D]]
+
+### Kontrolsaraksti
+![[Definīcijas#Kontrolsaraksti|D]]
+
+### Scenāriji, "sausās izpildes"
+![[Definīcijas#Scenāriji, "Sausās izpildes"|D]]
+
+### Uz perspektīvu balstīta
+Dažādi apskatītāji ar dažādām perspektīvām (programmētājs, autors, lietotājs, testētājs, dizaineris, mārketinga darbinieks u.c.)
+
+### Uz lomu balstīta
+Apskata dažādas situācijas no dažādām lietotāju lomām.
+Līdzīga uz perspektīvu balstītai apskatei.
+
+## Veiksmīgas apskates faktori
+- Apskatei ir mērķis
+- Atbilstoša tehnikas izvēle
+- Produkti apskatīti mazākās vienībās
+- Pietiekams laiks sagatavoties
+- Apskatēm ir vadības atbalsts
+- Iesaistīti pareizie cilvēki, arī testētāji
+- Atklātos defektus objektīvi apstrādā
+- Dalībnieki izvairās no ķermeņa valodas, kas liecina par garlaicību, aizkaitināmību vai dusmām
+- Veiktas apmācības formālākiem apskates veidiem (piem. inspekcijām)
+
+# Automātiskā testēšana
+
+## Teksta dokumentiem
+- Gramatikas pārbaude
+- Sintakses stilistiska analīze
+
+## Modeļi
+- Sakarību un attiecību pārbaude
+- Definēto faktu pārbaude
+
+## Kods
+- Sintakses pārbaude
+- Mainīgo un funkciju tipu pārbaude
+- "Beigta" koda atrašana
+- Dublējošs kods
+- Neizmantotie mainīgie vai funkcijas
+- Atbilstība standartiem un labai praksei

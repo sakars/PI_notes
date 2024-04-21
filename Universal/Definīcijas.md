@@ -6,6 +6,13 @@ aliases:
 #definīcijas
 # A
 
+## Ad hoc
+[[#Apskate (Review)|Apskates]] tehnika, kurā apskatītājiem dod maz vai nedod nemaz informāciju par veicamo uzdevumu
+Apskatītāji izskata dokumentāciju secīgi un dokumentē identificētās problēmas
+To lieto, kad nav nepieciešama vai nepieciešama neliela sagatavošanās.
+Rezultāts atkarīgs no apskatītāju prasmēm un zināšanām.
+Var veidoties ziņoto problēmu dublikāti.
+
 ## Apskate (Review)
 
 Process, kurā kādu darba produktu (dokumentāciju, komponentes dizainu, komponentes kodu) izvērtē pēc zināmām kvalitātes prasībām un atrod [[#Defekts|defektus]].
@@ -40,6 +47,11 @@ jeb programmatūras izstrāde ar datora palīdzību.
 
 ## Caurskatīšana (Walkthrough)
 [[#Apskate (Review)|Apskates]] veids.
+- Mērķi: atrast defektus, uzlabot produktu, apsvērt alternatīvas.
+- Individuālā apskate nav obligāta.
+- Var veikt scenāriju izpildes, simulācijas, "sausās izpildes" *(dry run)*
+- Potenciālo defektu žurnalēšana
+- Kaut kas starp neformālu un ļoti formālu apskati
 
 ## Cēlonis (Root cause)
 
@@ -135,6 +147,16 @@ Funkcionālie punkti ir mērvienība, kas apzīmē konkrētu daudzumu funkcional
 
 Formāla [[#Apskate (Review)|apskate]], kurā apspriež kādu produktu.
 
+Mērķi:
+- Panākt vienprātību, potenciālo defektu identificēšana
+- Kvalitātes novērtēšana
+- Ideju ģenerēšana
+- Alternatīvu novērtēšana
+
+Individuālā apskate ir obligāta.
+Protokolētājs ir obligāts
+Potenciālo defektu žurnālu un apskates ziņojumu izveide.
+
 Skatīt [[Kvalitātes pārvaldība#Formālas tehniskās apskates]]
 
 
@@ -174,6 +196,13 @@ Atrasta [[#Kļūme (Failure)|kļūme]], kur īstenībā kļūmes nav.
 ## Kļūme (Failure)
 
 ![[#Atteice (Failure)]]
+
+## Kontrolsaraksti
+Sistemātiska tipisko defektu tipu pārbaude.
+Sastāv no jautājumiem, kas balstīti uz iepriekšējo pieredzi.
+Tiek veidoti atbilstoši apskatāmā darba produkta tipam.
+Tiek atjaunoti ar agrāk nepamanītiem defektiem.
+Svarīgi identificēt defektus, kas nav iekļauti kontrolsarakstā.
 
 ## Kvalitātes apskate (Quality review)
 
@@ -328,6 +357,19 @@ Tā ir biedru [[#Apskate (Review)|apskate]], kur tiek pētīts produkta avots (p
 Tām parasti nav vajadzīga sistēmas izmantošana, līdz ar to inspekciju var veikt pirms implementācijas.
 Inspekciju var veikt jebkurai sistēmu pārstāvošai daļai (prasības, dizains, [[Konfigurācijas pārvaldība|konfigurācijas]] dati, testu dati u.c.)
 
+Mērķi:
+- potenciālo defektu identificēšana
+- kvalitātes novērtēšana
+- produkta uzticamības celšana
+- vienprātības panākšana
+
+Obligāti:
+- Konkrētas lomas
+- Protokolētājs
+- Vada apmācīts moderators (ne darba autors)
+- Autors nedrīkst ieņemt apskates vadītāja, apskatītāja, moderatora, protokolētāja lomu
+- Potenciālo defektu žurnāls un apskates ziņojumu izveide
+
 ## Programmatūra (Software)
 
 Datoru programmas, procedūras un ar tām saistītā dokumentācija.
@@ -373,6 +415,12 @@ Skatīt [[Riska pārvaldība]]
 jeb risku mazināšana, uzraudzība un pārvaldība
 # S
 
+## Scenāriji, "Sausās izpildes"
+Strukturētas darba produkta lasīšanas/iepazīšanas vadlīnijas
+Veic darba produkta "sauso izpildi"
+Scenāriji palīdz identificēt defektus.
+Svarīgi identificēt defektus, kas nav dokumentēti
+
 ## Scrum
 
 Scrum ir [[#Spējā izstrāde (Agile)|spējās izstrādes]] ietvars, kas dala darbu daudzās daļās ar konkrētiem mērķiem un laika ierobežojumiem.
@@ -409,6 +457,40 @@ Skatīt [[Statiskā testēšana]], [[#Dinamiskā testēšana (Dynamic testing)]]
 Punkts [[Projektu plānošana#Laikplānošana|laikplānā]] pēc kura var izvērtēt progresu, piemēram, kad iespējams nodot programmatūru testēšanai.
 
 # T
+
+## Testa gadījums (Test case)
+Konkrēts apstākļu, mainīgo un darbību kopums, kas tiek lietots programmatūras darbības pārbaudē. Testa gadījumā norādīti:
+- Priekšnosacījumi
+- Pārbaudes darbības
+- Testa dati
+- Pēcnosacījumi
+
+Saturs:
+- identifikators
+- scenārija identifikators
+- prasības identifikators
+- Testa apraksts
+- Pieņēmumi, priekšnosacījumi
+- Testa dati
+- Izpildāmie soļi
+- Sagaidāmais rezultāts (Pēcnosacījumi)
+- Aktuālais rezultāts
+- Veiksmīga/neveiksmīga izpilde *(OK/NOK)*
+
+
+## Testa scenārijs (Test scenario)
+Testa scenārijs, arī testa kopa
+Testa gadījumu kopums, kas palīdz testēšanas komandai noteikta projekta pozitīvās un negatīvās īpašības.
+
+Piemēri:
+- Pārbaudīt meklēšanas funkcionalitāti
+- Pārbaudīt maksājumu funkcionalitāti
+- Pārbaudīt pieslēgšanās funkcionalitāti
+
+
+
+
+
 
 ## Testēšana (Testing)
 

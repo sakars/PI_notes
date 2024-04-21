@@ -10,4 +10,5 @@
 	6. [[Defektu, kļūmju ziņošana]]
 	7. [[Cilvēka psiholoģija un testēšana]]
 3. [[Statiskā testēšana]]
-4. 
+4. [[Testēšana programmatūras dzīves ciklā]]
+5. 

@@ -8,16 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "476d5c8ed0418f24",
+            "id": "9dc0be4b776835db",
             "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7e388736eb621082",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -25,23 +18,25 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "429b263bfa9e2671",
+            "id": "2907d741ba2b9665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Inzinierija/Projektu plānošana.md",
+                "file": "_Testesana/Testēšana programmatūras dzīves ciklā.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Testesana/Testēšana programmatūras dzīves ciklā.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Testesana/Testēšana programmatūras dzīves ciklā.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Testesana/Testēšana programmatūras dzīves ciklā.md"
+              }
             }
           },
           {
@@ -174,48 +173,48 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "476d5c8ed0418f24",
+  "active": "2907d741ba2b9665",
   "lastOpenFiles": [
-    "Universal/Definīcijas.md",
-    "_Testesana/Statiskā testēšana.md",
-    "_Inzinierija/Kvalitātes pārvaldība.md",
-    "_Inzinierija/Projektu plānošana.md",
-    "_Inzinierija/Projekta pārvaldība.md",
-    "_Testesana/Ievads.md",
-    "_Inzinierija/CMM Metriku definīcijas standarts.md",
-    "_Testesana/Index.md",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240421112901.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240421112556.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240421112544.png",
     "_Testesana/Testēšanas process.md",
+    "_Testesana/Testēšana programmatūras dzīves ciklā.md",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240421110651.png",
+    "_Testesana/Index.md",
+    "_Testesana/Ievads.md",
     "_Testesana/Cilvēka psiholoģija un testēšana.md",
     "_Testesana/Defektu, kļūmju ziņošana.md",
+    "_Testesana/Dinamiskā testēšana.md",
+    "_Testesana/Kvalitātes nodrošināšana un testēšana.md",
+    "_Testesana/Statiskā testēšana.md",
+    "_Testesana/Testēšanas plāns.md",
+    "Universal/Definīcijas.md",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240421110359.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240421103620.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240420232606.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240420231838.png",
+    "Prezentāciju ekrānuzņēmumi/Pasted image 20240420230502.png",
+    "_Inzinierija/Lietotāja dokumentācija.md",
+    "_Inzinierija/Kvalitātes pārvaldība.md",
+    "_Testesana/7 testēšanas principi.md",
+    "_Inzinierija/Programmatūras mērīšana.md",
+    "_Inzinierija/Projekta pārvaldība.md",
+    "_Inzinierija/ISO 9001.md",
+    "_Inzinierija/Index.md",
+    "_Inzinierija/Darbietilpība.md",
+    "_Inzinierija/CMM Metriku definīcijas standarts.md",
+    "_Inzinierija/Cilvēku pārvaldība.md",
+    "_Inzinierija/Riska pārvaldība.md",
+    "_Inzinierija/Projektu plānošana.md",
     "Universal",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240420170542.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240420165642.png",
-    "_Testesana/Testēšanas plāns.md",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240420165456.png",
-    "_Testesana/7 testēšanas principi.md",
-    "_Testesana/Kvalitātes nodrošināšana un testēšana.md",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240106151844.png",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240420151102.png",
     "Universal/Humoriņi.md",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240420141357.png",
-    "_Inzinierija/Cilvēku pārvaldība.md",
     "_Testesana",
     "_Inzinierija",
     "canvas/Laikplāna veidošanas process.canvas",
-    "_Inzinierija/Index.md",
-    "_Inzinierija/Darbietilpība.md",
-    "_Inzinierija/ISO 9001.md",
-    "_Inzinierija/Programmatūras mērīšana.md",
-    "_Inzinierija/Lietotāja dokumentācija.md",
-    "_Inzinierija/Riska pārvaldība.md",
     "_Inzinierija/README.md",
-    "Daily notes/23.01.2024.md",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123211936.png",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123210900.png",
-    "Daily notes/12.01.2024.md",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123162014.png",
-    "Prezentāciju ekrānuzņēmumi/Pasted image 20240123161237.png",
-    "A.md",
     "tst",
     "canvas/Riska pārvaldības process.canvas",
     "canvas/Projekta plānošanas process.canvas",

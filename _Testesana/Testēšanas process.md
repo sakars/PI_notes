@@ -21,6 +21,7 @@ Ir kopīgas aktivitāšu kopas, bez kurām būs mazāka iespēja sasniegt izvirz
 - Pabeigšana
 - Uzraudzība un kontrole
 
+![[Pasted image 20240421103620.png]]
 ## Plānošana
 - Testēšanas mērķu definēšana
 - Pieeju definēšana mērķu sasniegšanai
@@ -62,13 +63,13 @@ Ir kopīgas aktivitāšu kopas, bez kurām būs mazāka iespēja sasniegt izvirz
 ## Projektēšana
 > **Kā testēt?**
 
-- Testa gadījumu, gadījumu kopu projektēšana, to prioritātes
+- [[Definīcijas#Testa gadījums (Test case)|Testa gadījumu]], gadījumu kopu projektēšana, to prioritātes
 - Nepieciešamo testa datu noteikšana
 - Testa vides projektēšana, rīku identificēšana
 - Izsekojamība starp testa bāzi, testa nosacījumiem, testa gadījumiem
 - [[Definīcijas#Defekts (Defect)|Defektu]] identificēšana testa bāzē.
 
-**Rezultāts**: Testa gadījumi (augsta līmeņa testa gadījumi, testa dati, vides, infrastruktūra, rīki)
+**Rezultāts**: [[Definīcijas#Testa gadījums (Test case)|Testa gadījumi]] (augsta līmeņa testa gadījumi, testa dati, vides, infrastruktūra, rīki)
 ## Izstrāde
 > **Vai viss gatavs pārbaudei?**
 
@@ -79,7 +80,7 @@ Ir kopīgas aktivitāšu kopas, bez kurām būs mazāka iespēja sasniegt izvirz
 - Testu komplektu iekļaušana testu izpildes grafikā
 - Testa vides, infrastruktūras veidošana
 - Testa datu veidošana, to ielādes nodrošināšana
-- Izsekojamības pārbaude un atjaunināšana starp testa bāzi, testa nosacījumiem, testa gadījumiem, procedūrām, komplektiem
+- Izsekojamības pārbaude un atjaunināšana starp testa bāzi, testa nosacījumiem, [[Definīcijas#Testa gadījums (Test case)|testa gadījumiem]], procedūrām, komplektiem
 
 **Rezultāts**:Testa komplekti, testu izpildes grafiks, automatizēti testa skripti, virtualizācija.
 ## Izpilde
@@ -91,7 +92,7 @@ Ir kopīgas aktivitāšu kopas, bez kurām būs mazāka iespēja sasniegt izvirz
 - [[Definīcijas#Defekts (Defect)|Defektu]] ziņošana, pamatojoties uz novērotajām [[Definīcijas#Kļūme (Failure)|kļūmēm]]
 - Testa izpildes rezultāta žurnalēšana
 - Testu izpildes atkārtošana pēc kļūdu novēršanas (labota kļūda, tests, regresijas pārbaude)
-- Izsekojamības pārbaude un atjaunināšana starp testa bāzi, testa apstākļiem, testa gadījumiem, testa procedūrām, testa rezultātiem.
+- Izsekojamības pārbaude un atjaunināšana starp testa bāzi, testa apstākļiem, [[Definīcijas#Testa gadījums (Test case)|testa gadījumiem]], testa procedūrām, testa rezultātiem.
 
 **Rezultāti**: Statusu dokumentācija, ziņojumi par defektiem, dokumentācija par testu, rīkiem, testprogrammatūru
 
