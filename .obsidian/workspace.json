@@ -28,15 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testēšanas pārvaldība.md",
+                "file": "_Testesana/Testēšanas process.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bāze",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testēšanas pārvaldība.md",
+                "file": "Universal/Definīcijas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testēšanas pārvaldība.md",
+                "file": "Universal/Definīcijas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testēšanas pārvaldība.md"
+                "file": "Universal/Definīcijas.md"
               }
             }
           },
@@ -173,11 +173,20 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "2907d741ba2b9665",
+  "active": "9dc0be4b776835db",
   "lastOpenFiles": [
-    "_Testesana/Index.md",
-    "Testēšanas pārvaldība.md",
+    "_Testesana/Testēšanas process.md",
+    "_Testesana/Testēšanas pārvaldība.md",
     "_Testesana/Testēšana programmatūras dzīves ciklā.md",
+    "_Testesana/Statiskā testēšana.md",
+    "Untitled.md",
+    "_Testesana/Defektu, kļūmju ziņošana.md",
+    "_Testesana/Cilvēka psiholoģija un testēšana.md",
+    "_Testesana/7 testēšanas principi.md",
+    "_Testesana/Dinamiskā testēšana.md",
+    "_Testesana/Testēšanas plāns.md",
+    "_Testesana/Index.md",
+    "Universal/Definīcijas.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421132811.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421113456.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421113431.png",
@@ -188,19 +197,11 @@
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421112901.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421112556.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421112544.png",
-    "_Testesana/Testēšanas process.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421110651.png",
     "_Testesana/Ievads.md",
-    "_Testesana/Cilvēka psiholoģija un testēšana.md",
-    "_Testesana/Defektu, kļūmju ziņošana.md",
-    "_Testesana/Dinamiskā testēšana.md",
     "_Testesana/Kvalitātes nodrošināšana un testēšana.md",
-    "_Testesana/Statiskā testēšana.md",
-    "_Testesana/Testēšanas plāns.md",
-    "Universal/Definīcijas.md",
     "_Inzinierija/Lietotāja dokumentācija.md",
     "_Inzinierija/Kvalitātes pārvaldība.md",
-    "_Testesana/7 testēšanas principi.md",
     "_Inzinierija/Programmatūras mērīšana.md",
     "_Inzinierija/Projekta pārvaldība.md",
     "_Inzinierija/ISO 9001.md",
@@ -214,7 +215,6 @@
     "_Testesana",
     "_Inzinierija",
     "canvas/Laikplāna veidošanas process.canvas",
-    "_Inzinierija/README.md",
     "tst",
     "canvas/Riska pārvaldības process.canvas",
     "canvas/Projekta plānošanas process.canvas",

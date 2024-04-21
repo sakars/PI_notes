@@ -501,6 +501,16 @@ Skatīt [[Kvalitātes nodrošināšana un testēšana]]
 ## Tests (Test)
 
 Standartizēts uzdevums, pēc kura izpildīšanas var pārbauīt datora vai sistēmas atbilstību paredzētajām prasībām.
+
+## Testu bāze
+Prasību specifikācijas, piemēram biznesa prasības, funkcionālās prasības sistēmas prasības, lietotāju stāsti, epiki, lietošanas gadījumi, vai citi darba produkti, kas apraksta sistēmas funkcionālo vai nefunkcionālo darbību.
+
+Projektējuma dokumentācija
+
+Sistēmas kods, datu bāze, vaicājumi saskarnes
+
+Riska analīzes ziņojumi, kuros var ņemt vērā komponenta vai sistēmas aspektus.
+
 # U
 # Ū
 # V
