@@ -339,3 +339,35 @@ Lai mazinātu produkta [[Definīcijas#Kļūme (Failure)|kļūmes/atteices]] iest
 - Nosakiet kuriem riskiem jāpievērš uzmanība
 - Īstenojiet darbības risku mazināšanai
 - Izveidojiet [[Riska pārvaldība#Ārkārtas (Contingency) plāns|ārkārtas plānus]], ja iestājas riski
+
+# Defektu pārvaldība
+
+![[Definīcijas#Defekts (Defect)|D]]
+
+- Svarīgi reģistrēt defektus
+- Jāklasificē, jāatrisina defektus
+- Jāveido defektu pārvaldības process (darba plūsma, noteikumi klasifikācijai)
+- Visiem iesaistītajiem ir jābūt informētiem par šo procesu
+- Defektu ziņošana var notikt: programmēšanas, statiskās analīzes, apskates vai dinamiskās testēšanas laikā, vai lietojot sistēmu
+- Lai nodrošinātu efektīvu un produktīvu defektu pārvaldības procesu, var noteikt standartus defektu klasifikācijai, īpašībām, kā arī procesa darba plūsmai
+
+Tipiski defektu ziņojumu mērķi:
+- Nodrošināt iesaistītās puses ar info par kļūdainu/nevēlamu situāciju
+- Nodrošināt testēšanas vadītāju darba produkta kvalitātes izsekojamību un ietekmi uz testēšanu
+- Sniegt idejas izstrādes un testēšanas procesa uzlabošanai
+
+[[Dinamiskā testēšana|Dinamiskās testēšanas]] ziņojums parasti satur:
+- ID
+- Nosaukumu
+- Kopsavilkumu
+- Defekta datumu, autoru, projektu, organizāciju
+- Izstrādes dzīves cikla posms, kad defekts reģistrēts
+- Defekta apraksts, lai to atkārtotu
+- Sagaidāmie, faktiskie rezultāti
+- Ietekmes klasifikācija
+- Prioritāte
+- Defekta statuss
+- Secinājums, ieteikum, apstiprinājums
+- Komentāri
+- Labojumu vēsture
+- Atsauces, neveiksmīgie testa gadījumi
