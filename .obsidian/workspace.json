@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Testesana/Testēšanas process.md",
-                "mode": "source",
+                "file": "_Testesana/Testēšanas plāns.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -39,12 +39,17 @@
             "id": "da47b71f0ae661a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Testesana/Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Testesana/Testēšanas process.md",
+                "file": "_Testesana/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Testesana/Testēšanas process.md",
+                "file": "_Testesana/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Testesana/Testēšanas process.md"
+                "file": "_Testesana/Index.md"
               }
             }
           },
@@ -182,7 +187,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "2907d741ba2b9665",
+  "active": "da47b71f0ae661a1",
   "lastOpenFiles": [
     "_Testesana/Index.md",
     "_Testesana/Testēšanas plāns.md",
