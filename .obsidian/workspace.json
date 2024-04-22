@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Testesana/Rīku atbalsts testēšanai.md",
+                "file": "_Testesana/Testēšanas process.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,17 +39,12 @@
             "id": "da47b71f0ae661a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universal/Definīcijas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,12 +90,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "e30c7413e9aee922",
@@ -116,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universal/Definīcijas.md",
+                "file": "_Testesana/Testēšanas process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universal/Definīcijas.md",
+                "file": "_Testesana/Testēšanas process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universal/Definīcijas.md"
+                "file": "_Testesana/Testēšanas process.md"
               }
             }
           },
@@ -169,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,25 +182,27 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "da47b71f0ae661a1",
+  "active": "2907d741ba2b9665",
   "lastOpenFiles": [
-    "_Testesana/Testēšanas plāns.md",
     "Universal/Definīcijas.md",
-    "_Testesana/Rīku atbalsts testēšanai.md",
     "_Testesana/Testēšanas process.md",
     "_Testesana/Index.md",
-    "_Testesana/Testēšana programmatūras dzīves ciklā.md",
+    "_Testesana/Kvalitātes nodrošināšana un testēšana.md",
+    "_Testesana/7 testēšanas principi.md",
+    "_Testesana/Ievads.md",
+    "_Testesana/Rīku atbalsts testēšanai.md",
     "_Testesana/GoogleTest.md",
+    "_Testesana/Dinamiskā testēšana.md",
+    "_Testesana/Defektu, kļūmju ziņošana.md",
+    "_Testesana/Cilvēka psiholoģija un testēšana.md",
+    "_Testesana/Testēšanas plāns.md",
+    "_Testesana/Testēšana programmatūras dzīves ciklā.md",
     "_Testesana/Testēšanas pārvaldība.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421193734.png",
     "_Inzinierija/Riska pārvaldība.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421183431.png",
     "_Testesana/Statiskā testēšana.md",
     "Untitled.md",
-    "_Testesana/Defektu, kļūmju ziņošana.md",
-    "_Testesana/Cilvēka psiholoģija un testēšana.md",
-    "_Testesana/7 testēšanas principi.md",
-    "_Testesana/Dinamiskā testēšana.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421132811.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421113456.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421113431.png",
@@ -215,8 +212,6 @@
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421113058.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421112901.png",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421112556.png",
-    "_Testesana/Ievads.md",
-    "_Testesana/Kvalitātes nodrošināšana un testēšana.md",
     "_Inzinierija/Lietotāja dokumentācija.md",
     "_Inzinierija/Kvalitātes pārvaldība.md",
     "_Inzinierija/Programmatūras mērīšana.md",

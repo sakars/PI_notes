@@ -36,7 +36,7 @@ Ir kopīgas aktivitāšu kopas, bez kurām būs mazāka iespēja sasniegt izvirz
 > **Ko testēt?**
 
 Analīze jeb **prasību analīze**
-- Nosaka testu bāzi
+- Nosaka [[Definīcijas#Testu bāze|testu bāzi]]
 	- Prasību specifikācijas:
 		- Biznesa prasības
 		- Funkcionālās prasības
