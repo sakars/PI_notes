@@ -30,7 +30,7 @@ Ir kopīgas aktivitāšu kopas, bez kurām būs mazāka iespēja sasniegt izvirz
 	- Testēšanas laika grafiks
 - Var tikt pārskatīts caur atgriezenisko saiti no testu [[#Uzraudzība un kontrole|uzraudzības un kontroles]].
 
-**Rezultāts**: testēšanas plāns(i)
+**Rezultāts**: [[Testēšanas plāns|testēšanas plāns(i)]]
 
 ## Analīze
 > **Ko testēt?**

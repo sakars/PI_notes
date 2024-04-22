@@ -73,12 +73,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dūmu",
+                "query": "funkcionāl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -184,9 +184,10 @@
   },
   "active": "2907d741ba2b9665",
   "lastOpenFiles": [
-    "Universal/Definīcijas.md",
-    "_Testesana/Testēšanas process.md",
     "_Testesana/Index.md",
+    "_Testesana/Testēšanas plāns.md",
+    "_Testesana/Testēšanas process.md",
+    "Universal/Definīcijas.md",
     "_Testesana/Kvalitātes nodrošināšana un testēšana.md",
     "_Testesana/7 testēšanas principi.md",
     "_Testesana/Ievads.md",
@@ -195,7 +196,6 @@
     "_Testesana/Dinamiskā testēšana.md",
     "_Testesana/Defektu, kļūmju ziņošana.md",
     "_Testesana/Cilvēka psiholoģija un testēšana.md",
-    "_Testesana/Testēšanas plāns.md",
     "_Testesana/Testēšana programmatūras dzīves ciklā.md",
     "_Testesana/Testēšanas pārvaldība.md",
     "Prezentāciju ekrānuzņēmumi/Pasted image 20240421193734.png",
