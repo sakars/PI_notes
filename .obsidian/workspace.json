@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Testesana/Testēšanas plāns.md",
-                "mode": "preview",
+                "file": "_Testesana/GoogleTest.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -42,14 +42,14 @@
               "type": "markdown",
               "state": {
                 "file": "_Testesana/Index.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Testesana/Index.md",
+                "file": "_Testesana/GoogleTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Testesana/Index.md",
+                "file": "_Testesana/GoogleTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Testesana/Index.md"
+                "file": "_Testesana/GoogleTest.md"
               }
             }
           },
@@ -187,7 +187,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "da47b71f0ae661a1",
+  "active": "2907d741ba2b9665",
   "lastOpenFiles": [
     "_Testesana/Index.md",
     "_Testesana/Testēšanas plāns.md",

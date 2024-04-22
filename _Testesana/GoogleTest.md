@@ -30,6 +30,9 @@ Iespējams izmantot koplietojamos resursus testos
 
 Pamatā xUnit arhitektūra
 
+>[!tip]- Hot take
+>IMO Catch2 is cooler
+
 # Pamatjēdzieni
 
 - **Apgalvojumi (Assertions)** - pārbauda vai patiess nosacījums
