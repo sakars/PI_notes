@@ -24,7 +24,7 @@
 
 Piemērota **augsta** līmeņa testiem.
 
-Testa nosacījumi, testa gadījumi un testa dati tiek iegūti no testu bāzes (programmatūras prasības, specifikācijas, lietošanas gadījumi, lietotāju stāsti)
+Testa nosacījumi, testa gadījumi un testa dati tiek iegūti no [[Definīcijas#Testu bāze|testu bāzes]] (programmatūras prasības, specifikācijas, lietošanas gadījumi, lietotāju stāsti)
 
 - Piemēro gan funkcionālai, gan nefunkcionālai testēšanai.
 - Pieņem ka prasības ir pilnīgas un nosedz lietotāju vēlmes
@@ -56,7 +56,7 @@ Tipiski nosacījumi ir būla vērtības *(true/false)*
 
 ### Stāvokļu pārejas testēšana
 
-Atrod visus stāvokļus, testē pārejas caur visiem iespējamiem stāvokļu ceļiem.
+Atrod visus stāvokļus, testē individuāli visas pārejas.
 ![[Pasted image 20240420230502.png]]
 
 ### Lietošanas gadījuma testēšana

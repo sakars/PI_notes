@@ -7,7 +7,7 @@
 - Epiki, lietotāju stāsti, akceptēšanas kritēriji
 - Arhitektūras un projektējuma specifikācijas
 - Kods
-- Testa programmatūru *(testware)*, iekļaujot testēšanas plānus, [[Definīcijas#Testa gadījums|testu gadījumus]], automatizētos testu skriptus
+- Testa programmatūru *(testware)*, iekļaujot [[Testēšanas plāns|testēšanas plānus]], [[Definīcijas#Testa gadījums|testu gadījumus]], automatizētos testu skriptus
 - Lietotāja rokasgrāmatas
 - Līgumi, projekta plāni, laika grafiki un budžeta plāni
 - Programmatūras, infrastruktūras konfigurācija
@@ -41,6 +41,8 @@ Statisko testēšanu var veiktL
 - **Manuāli**, veicot [[Definīcijas#Apskate (Review)|apskates]] procesu
 - **Automātiski**, veicot testēšanu ar rīku palīdzību *(static analysis)*
 # Manuāla testēšana: Apskates
+
+![[Definīcijas#Apskate (Review)|D]]
 
 Neatkarīgi no apskates veida, vienmēr jāsagatavojas pēc iespējas vairāk.
 
